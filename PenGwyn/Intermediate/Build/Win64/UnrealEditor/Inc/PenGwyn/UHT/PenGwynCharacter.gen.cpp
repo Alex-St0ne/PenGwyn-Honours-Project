@@ -10,13 +10,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodePenGwynCharacter() {}
 
 // Begin Cross Module References
+COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputAction_NoRegister();
 ENHANCEDINPUT_API UClass* Z_Construct_UClass_UInputMappingContext_NoRegister();
+GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAbilitySystemComponent_NoRegister();
+GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UAbilitySystemInterface_NoRegister();
+GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UGameplayAbility_NoRegister();
+GAMEPLAYABILITIES_API UClass* Z_Construct_UClass_UGameplayEffect_NoRegister();
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter();
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister();
+PENGWYN_API UClass* Z_Construct_UClass_UAshenAttributeSet_NoRegister();
 UPackage* Z_Construct_UPackage__Script_PenGwyn();
 // End Cross Module References
 
@@ -60,6 +66,16 @@ struct Z_Construct_UClass_APenGwynCharacter_Statics
 #if !UE_BUILD_SHIPPING
 		{ "ToolTip", "Follow camera" },
 #endif
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_AbilitySystemComponent_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Abilities" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Attributes_MetaData[] = {
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
 	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultMappingContext_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
@@ -105,15 +121,49 @@ struct Z_Construct_UClass_APenGwynCharacter_Statics
 		{ "ToolTip", "Look Input Action" },
 #endif
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MaxHealth_MetaData[] = {
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MaxMana_MetaData[] = {
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MaxStamina_MetaData[] = {
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_MaxStat_MetaData[] = {
+		{ "Category", "Attributes" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultAttributeEffect_MetaData[] = {
+		{ "Category", "Abilities" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultAbilities_MetaData[] = {
+		{ "Category", "Abilities" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_CameraBoom;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_FollowCamera;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_AbilitySystemComponent;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_Attributes;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_DefaultMappingContext;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_JumpAction;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_MoveAction;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_LookAction;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxHealth;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxMana;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxStamina;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxStat;
+	static const UECodeGen_Private::FClassPropertyParams NewProp_DefaultAttributeEffect;
+	static const UECodeGen_Private::FClassPropertyParams NewProp_DefaultAbilities_Inner;
+	static const UECodeGen_Private::FArrayPropertyParams NewProp_DefaultAbilities;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
+	static const UECodeGen_Private::FImplementedInterfaceParams InterfaceParams[];
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<APenGwynCharacter>::IsAbstract,
 	};
@@ -121,17 +171,35 @@ struct Z_Construct_UClass_APenGwynCharacter_Statics
 };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_CameraBoom = { "CameraBoom", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, CameraBoom), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CameraBoom_MetaData), NewProp_CameraBoom_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_FollowCamera = { "FollowCamera", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, FollowCamera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FollowCamera_MetaData), NewProp_FollowCamera_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_AbilitySystemComponent = { "AbilitySystemComponent", nullptr, (EPropertyFlags)0x00400000000a001d, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, AbilitySystemComponent), Z_Construct_UClass_UAbilitySystemComponent_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_AbilitySystemComponent_MetaData), NewProp_AbilitySystemComponent_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_Attributes = { "Attributes", nullptr, (EPropertyFlags)0x0040000000080008, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, Attributes), Z_Construct_UClass_UAshenAttributeSet_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Attributes_MetaData), NewProp_Attributes_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultMappingContext = { "DefaultMappingContext", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, DefaultMappingContext), Z_Construct_UClass_UInputMappingContext_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultMappingContext_MetaData), NewProp_DefaultMappingContext_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_JumpAction = { "JumpAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, JumpAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_JumpAction_MetaData), NewProp_JumpAction_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MoveAction = { "MoveAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MoveAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MoveAction_MetaData), NewProp_MoveAction_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_LookAction = { "LookAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, LookAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_LookAction_MetaData), NewProp_LookAction_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxHealth = { "MaxHealth", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxHealth), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxHealth_MetaData), NewProp_MaxHealth_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxMana = { "MaxMana", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxMana), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxMana_MetaData), NewProp_MaxMana_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStamina = { "MaxStamina", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxStamina), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxStamina_MetaData), NewProp_MaxStamina_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStat = { "MaxStat", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxStat), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxStat_MetaData), NewProp_MaxStat_MetaData) };
+const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAttributeEffect = { "DefaultAttributeEffect", nullptr, (EPropertyFlags)0x0014000000010015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, DefaultAttributeEffect), Z_Construct_UClass_UClass, Z_Construct_UClass_UGameplayEffect_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultAttributeEffect_MetaData), NewProp_DefaultAttributeEffect_MetaData) };
+const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities_Inner = { "DefaultAbilities", nullptr, (EPropertyFlags)0x0004000000000000, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, Z_Construct_UClass_UClass, Z_Construct_UClass_UGameplayAbility_NoRegister, METADATA_PARAMS(0, nullptr) };
+const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities = { "DefaultAbilities", nullptr, (EPropertyFlags)0x0014000000010015, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, DefaultAbilities), EArrayPropertyFlags::None, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultAbilities_MetaData), NewProp_DefaultAbilities_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APenGwynCharacter_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_CameraBoom,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_FollowCamera,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_AbilitySystemComponent,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_Attributes,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultMappingContext,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_JumpAction,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MoveAction,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_LookAction,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxHealth,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxMana,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStamina,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStat,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAttributeEffect,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities_Inner,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_APenGwynCharacter_Statics::DependentSingletons[])() = {
@@ -139,6 +207,9 @@ UObject* (*const Z_Construct_UClass_APenGwynCharacter_Statics::DependentSingleto
 	(UObject* (*)())Z_Construct_UPackage__Script_PenGwyn,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::DependentSingletons) < 16);
+const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_APenGwynCharacter_Statics::InterfaceParams[] = {
+	{ Z_Construct_UClass_UAbilitySystemInterface_NoRegister, (int32)VTABLE_OFFSET(APenGwynCharacter, IAbilitySystemInterface), false },  // 2272790346
+};
 const UECodeGen_Private::FClassParams Z_Construct_UClass_APenGwynCharacter_Statics::ClassParams = {
 	&APenGwynCharacter::StaticClass,
 	"Game",
@@ -146,11 +217,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_APenGwynCharacter_Stati
 	DependentSingletons,
 	nullptr,
 	Z_Construct_UClass_APenGwynCharacter_Statics::PropPointers,
-	nullptr,
+	InterfaceParams,
 	UE_ARRAY_COUNT(DependentSingletons),
 	0,
 	UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::PropPointers),
-	0,
+	UE_ARRAY_COUNT(InterfaceParams),
 	0x008000A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::Class_MetaDataParams), Z_Construct_UClass_APenGwynCharacter_Statics::Class_MetaDataParams)
 };
@@ -174,10 +245,10 @@ APenGwynCharacter::~APenGwynCharacter() {}
 struct Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 2201557166U) },
+		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 3792557640U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_2890944728(TEXT("/Script/PenGwyn"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_3303529132(TEXT("/Script/PenGwyn"),
 	Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

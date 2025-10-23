@@ -11,6 +11,7 @@
     <None Include="..\..\Source\PenGwynEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\PenGwyn">
       <UniqueIdentifier>{756ED338-EB81-3C39-8969-706DD52D258C}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PenGwyn\AshenAttributeSet.cpp">
+      <Filter>Source\PenGwyn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PenGwyn\AshenAttributeSet.h">
+      <Filter>Source\PenGwyn</Filter>
+    </ClInclude>
     <None Include="..\..\Source\PenGwyn\PenGwyn.Build.cs">
       <Filter>Source\PenGwyn</Filter>
     </None>

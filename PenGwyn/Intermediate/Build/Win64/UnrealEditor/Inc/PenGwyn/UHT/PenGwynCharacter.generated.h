@@ -14,16 +14,17 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PENGWYN_PenGwynCharacter_generated_h
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_21_INCLASS_NO_PURE_DECLS \
+#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPenGwynCharacter(); \
 	friend struct Z_Construct_UClass_APenGwynCharacter_Statics; \
 public: \
 	DECLARE_CLASS(APenGwynCharacter, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PenGwyn"), NO_API) \
-	DECLARE_SERIALIZER(APenGwynCharacter)
+	DECLARE_SERIALIZER(APenGwynCharacter) \
+	virtual UObject* _getUObject() const override { return const_cast<APenGwynCharacter*>(this); }
 
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_21_ENHANCED_CONSTRUCTORS \
+#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	APenGwynCharacter(APenGwynCharacter&&); \
@@ -35,12 +36,12 @@ public: \
 	NO_API virtual ~APenGwynCharacter();
 
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_18_PROLOG
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_21_GENERATED_BODY \
+#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_22_PROLOG
+#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_21_INCLASS_NO_PURE_DECLS \
-	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_21_ENHANCED_CONSTRUCTORS \
+	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
+	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

@@ -4,6 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "GameplayTagContainer.h"
+#include <GameplayEffectTypes.h>
+#include "AbilitySystemInterface.h"
+#include "AshenAttributeSet.h"
 #include "Logging/LogMacros.h"
 #include "PenGwynCharacter.generated.h"
 
@@ -16,7 +20,7 @@ struct FInputActionValue;
 DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);
 
 UCLASS(config=Game)
-class APenGwynCharacter : public ACharacter
+class APenGwynCharacter : public ACharacter, public IAbilitySystemInterface
 {
 	GENERATED_BODY()
 
@@ -27,6 +31,12 @@ class APenGwynCharacter : public ACharacter
 	/** Follow camera */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	UCameraComponent* FollowCamera;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Abilities, meta = (AllowPrivateAccess = "true"))
+	UAbilitySystemComponent* AbilitySystemComponent;
+
+	UPROPERTY()
+	class UAshenAttributeSet* Attributes; 
 	
 	/** MappingContext */
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
@@ -46,7 +56,20 @@ class APenGwynCharacter : public ACharacter
 
 public:
 	APenGwynCharacter();
+
+	UAbilitySystemComponent* GetAbilitySystemComponent() const override;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+	int MaxHealth = 100;
 	
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+	int MaxMana = 100;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+	int MaxStamina = 100;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
+	int MaxStat = 99;
 
 protected:
 
@@ -69,5 +92,16 @@ public:
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
+
+	virtual void PossessedBy(AController* NewController) override;
+	virtual void OnRep_PlayerState() override;
+	virtual void InitializeAttributes();
+	virtual void GiveDefaultAbilities();
+
+	UPROPERTY(BlueprintReadOnly, EditDefaultsOnly, Category = "Abilities")
+	TSubclassOf<class UGameplayEffect> DefaultAttributeEffect;
+
+	UPROPERTY(BlueprintReadOnly, EditDefaultsOnly, Category = "Abilities")
+	TArray<TSubclassOf<class UGameplayAbility>> DefaultAbilities;
 };
 

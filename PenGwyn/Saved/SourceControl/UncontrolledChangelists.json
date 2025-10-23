@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/ABP_AshenTwo.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_Equipment.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_GreatSword.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_Shield.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]

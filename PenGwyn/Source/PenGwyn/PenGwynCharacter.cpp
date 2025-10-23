@@ -7,6 +7,8 @@
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/Controller.h"
+#include "AbilitySystemComponent.h"
+#include "AshenAttributeSet.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
@@ -50,14 +52,76 @@ APenGwynCharacter::APenGwynCharacter()
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
 	FollowCamera->bUsePawnControlRotation = false; // Camera does not rotate relative to arm
 
+	AbilitySystemComponent = CreateDefaultSubobject<UAbilitySystemComponent>("AbillitySystemComp");
+	AbilitySystemComponent->SetIsReplicated(true);
+	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Minimal);
+
+	Attributes = CreateDefaultSubobject<UAshenAttributeSet>("Attributes");
+
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named ThirdPersonCharacter (to avoid direct content references in C++)
+}
+
+UAbilitySystemComponent* APenGwynCharacter::GetAbilitySystemComponent() const
+{
+	return AbilitySystemComponent;
 }
 
 void APenGwynCharacter::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+}
+
+void APenGwynCharacter::PossessedBy(AController* NewController)
+{
+	Super:: PossessedBy(NewController);
+
+	if (AbilitySystemComponent)
+	{
+		AbilitySystemComponent->InitAbilityActorInfo(this, this);
+	}
+
+	InitializeAttributes();
+	GiveDefaultAbilities();
+}
+
+void APenGwynCharacter::OnRep_PlayerState()
+{
+	Super::OnRep_PlayerState();
+
+	if (AbilitySystemComponent)
+	{
+		AbilitySystemComponent->InitAbilityActorInfo(this, this);
+	}
+
+	InitializeAttributes();
+}
+
+void APenGwynCharacter::InitializeAttributes()
+{
+	if (AbilitySystemComponent && DefaultAttributeEffect)
+	{
+		FGameplayEffectContextHandle EffectContext = AbilitySystemComponent->MakeEffectContext();
+		EffectContext.AddSourceObject(this);
+		FGameplayEffectSpecHandle SpecHandle = AbilitySystemComponent->MakeOutgoingSpec(DefaultAttributeEffect, 1, EffectContext);
+
+		if (SpecHandle.IsValid())
+		{
+			FActiveGameplayEffectHandle GEHandle = AbilitySystemComponent->ApplyGameplayEffectSpecToSelf(*SpecHandle.Data.Get());
+		}
+	}
+}
+
+void APenGwynCharacter::GiveDefaultAbilities()
+{
+	if (HasAuthority() && AbilitySystemComponent)
+	{
+		for (TSubclassOf<UGameplayAbility>& StartupAbility : DefaultAbilities)
+		{
+			AbilitySystemComponent->GiveAbility(FGameplayAbilitySpec(StartupAbility.GetDefaultObject(), 1, 0));
+		}
+	}
 }
 
 //////////////////////////////////////////////////////////////////////////

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\temp\\honours\\pengwyn-honours-project\\pengwyn\\source\\pengwyn\\pengwyn.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\temp\\honours\\pengwyn-honours-project\\pengwyn\\intermediate\\build\\win64\\x64\\pengwyneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\temp\\honours\\pengwyn-honours-project\\pengwyn\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pengwyn\\definitions.pengwyn.h",
+            "c:\\temp\\honours\\pengwyn-honours-project\\pengwyn\\source\\pengwyn\\pengwyn.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

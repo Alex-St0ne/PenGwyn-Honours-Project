@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PenGwyn",
+			"Path": "..\\Source\\PenGwyn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PenGwynEditor",
+			"Path": "..\\Source\\PenGwynEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -17,10 +17,19 @@
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Block.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Roll.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Jump.uasset",
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_OnLanded.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsGrounded.uasset",
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsAirborne.uasset"
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsAirborne.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Block.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsBlocking.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_BaseCharacter.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/ANIM_Block_Shield.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Roll.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsRolling.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/AM_Roll.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Jump2.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_OnLanded.uasset"
 			]
 		}
 	]

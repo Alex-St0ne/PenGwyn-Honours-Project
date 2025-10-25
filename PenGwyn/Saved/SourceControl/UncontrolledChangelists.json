@@ -11,7 +11,16 @@
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_Equipment.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_GreatSword.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Equipment/BP_Shield.uasset",
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Block.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Roll.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Jump.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_OnLanded.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsGrounded.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsAirborne.uasset"
 			]
 		}
 	]

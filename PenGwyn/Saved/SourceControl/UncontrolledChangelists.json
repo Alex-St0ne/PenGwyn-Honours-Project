@@ -29,6 +29,16 @@
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GE_IsRolling.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/AM_Roll.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Jump2.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Greatsword_Attack_1.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/AM_Greatsword_Attack_01.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/BP_Enemy_Base.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_Sword_Trace.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/S6/6JM54DD5C2JMQ6OGUL017S.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Weapon_Pack/Skeletal_Mesh/SK_Sword_Skeleton.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/DamageSystem/BPC_StatusComponent.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_End_Trace.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/DamageSystem/Damagable.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_OnLanded.uasset"
 			]
 		}

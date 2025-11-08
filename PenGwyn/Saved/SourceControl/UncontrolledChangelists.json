@@ -40,8 +40,14 @@
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/DamageSystem/Damagable.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/BP_AI_Spawner_Base.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/1W/UR24FYWPR7ATKR8SNLN7XL.uasset",
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Roll-Sprint.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_PlayerCombat.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Attack_Heavy.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Attack_Light.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Greatsword_Attack_Light_1.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Greatsword_Attack_Heavy_1.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/ANIM_Greatsword_Attack_02.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/ANIM_Greatsword_Attack_02_Montage.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Roll-Sprint.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/S6/6JM54DD5C2JMQ6OGUL017S.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/AN_OnLanded.uasset"
 			]

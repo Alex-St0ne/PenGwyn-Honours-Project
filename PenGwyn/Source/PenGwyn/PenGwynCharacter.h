@@ -71,6 +71,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Attributes")
 	int MaxStat = 99;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	bool lockedOn = false;
+
 protected:
 
 	/** Called for movement input */

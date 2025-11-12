@@ -137,6 +137,10 @@ struct Z_Construct_UClass_APenGwynCharacter_Statics
 		{ "Category", "Attributes" },
 		{ "ModuleRelativePath", "PenGwynCharacter.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_lockedOn_MetaData[] = {
+		{ "Category", "PenGwynCharacter" },
+		{ "ModuleRelativePath", "PenGwynCharacter.h" },
+	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DefaultAttributeEffect_MetaData[] = {
 		{ "Category", "Abilities" },
 		{ "ModuleRelativePath", "PenGwynCharacter.h" },
@@ -158,6 +162,8 @@ struct Z_Construct_UClass_APenGwynCharacter_Statics
 	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxMana;
 	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxStamina;
 	static const UECodeGen_Private::FIntPropertyParams NewProp_MaxStat;
+	static void NewProp_lockedOn_SetBit(void* Obj);
+	static const UECodeGen_Private::FBoolPropertyParams NewProp_lockedOn;
 	static const UECodeGen_Private::FClassPropertyParams NewProp_DefaultAttributeEffect;
 	static const UECodeGen_Private::FClassPropertyParams NewProp_DefaultAbilities_Inner;
 	static const UECodeGen_Private::FArrayPropertyParams NewProp_DefaultAbilities;
@@ -181,6 +187,11 @@ const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxMana = { "MaxMana", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxMana), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxMana_MetaData), NewProp_MaxMana_MetaData) };
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStamina = { "MaxStamina", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxStamina), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxStamina_MetaData), NewProp_MaxStamina_MetaData) };
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStat = { "MaxStat", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, MaxStat), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_MaxStat_MetaData), NewProp_MaxStat_MetaData) };
+void Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_lockedOn_SetBit(void* Obj)
+{
+	((APenGwynCharacter*)Obj)->lockedOn = 1;
+}
+const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_lockedOn = { "lockedOn", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(APenGwynCharacter), &Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_lockedOn_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_lockedOn_MetaData), NewProp_lockedOn_MetaData) };
 const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAttributeEffect = { "DefaultAttributeEffect", nullptr, (EPropertyFlags)0x0014000000010015, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, DefaultAttributeEffect), Z_Construct_UClass_UClass, Z_Construct_UClass_UGameplayEffect_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultAttributeEffect_MetaData), NewProp_DefaultAttributeEffect_MetaData) };
 const UECodeGen_Private::FClassPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities_Inner = { "DefaultAbilities", nullptr, (EPropertyFlags)0x0004000000000000, UECodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, Z_Construct_UClass_UClass, Z_Construct_UClass_UGameplayAbility_NoRegister, METADATA_PARAMS(0, nullptr) };
 const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities = { "DefaultAbilities", nullptr, (EPropertyFlags)0x0014000000010015, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(APenGwynCharacter, DefaultAbilities), EArrayPropertyFlags::None, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DefaultAbilities_MetaData), NewProp_DefaultAbilities_MetaData) };
@@ -197,6 +208,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APenGwynC
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxMana,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStamina,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_MaxStat,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_lockedOn,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAttributeEffect,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities_Inner,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APenGwynCharacter_Statics::NewProp_DefaultAbilities,
@@ -245,10 +257,10 @@ APenGwynCharacter::~APenGwynCharacter() {}
 struct Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 3792557640U) },
+		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 1230885868U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_3303529132(TEXT("/Script/PenGwyn"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_3920078548(TEXT("/Script/PenGwyn"),
 	Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

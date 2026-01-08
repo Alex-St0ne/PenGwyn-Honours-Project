@@ -5356,3 +5356,593 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.01.08-20.39.05:041][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15049.512695
 [2026.01.08-20.39.06:042][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.08-20.39.06:042][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15050.181641, Update Interval: 310.818207
+[2026.01.08-20.43.02:899][ 34]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+[2026.01.08-20.43.03:451][ 34]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.01.08-20.43.04:042][ 34]LogStreaming: Display: FlushAsyncLoading(908): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-20.43.11:994][248]LogSlate: Window 'SM_tower_4' being destroyed
+[2026.01.08-20.43.12:170][248]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-20.43.12:199][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-20.43.13:039][248]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2026.01.08-20.43.15:731][442]Cmd: DELETE
+[2026.01.08-20.43.15:734][442]Cmd: ACTOR DELETE
+[2026.01.08-20.43.15:965][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.08-20.43.16:050][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.08-20.43.16:053][442]LogEditorActor: Deleted 1 Actors (0.207 secs)
+[2026.01.08-20.44.19:327][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.01.08-20.44.19:332][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.034
+[2026.01.08-20.44.59:878][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15404.338867
+[2026.01.08-20.45.00:881][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-20.45.00:881][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15405.004883, Update Interval: 350.917694
+[2026.01.08-20.45.54:927][649]Cmd: DELETE
+[2026.01.08-20.45.54:927][649]Cmd: ACTOR DELETE
+[2026.01.08-20.45.54:959][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.08-20.45.54:995][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.01.08-20.45.54:997][649]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.01.08-20.45.55:720][705]Cmd: DELETE
+[2026.01.08-20.45.55:720][705]Cmd: ACTOR DELETE
+[2026.01.08-20.45.55:723][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.08-20.45.55:751][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.01.08-20.45.55:753][705]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.01.08-20.47.44:044][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.08-20.47.44:111][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-20.47.44:591][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.01.08-20.47.44:665][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.08-20.47.44:729][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.08-20.47.44:777][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 665.021 ms (total: 3.72 sec)
+[2026.01.08-20.48.32:018][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+[2026.01.08-20.48.32:021][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+[2026.01.08-20.48.32:104][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_1
+[2026.01.08-20.48.33:273][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.08-20.48.33:285][206]LogEditorActor: Deleted 0 Actors (0.098 secs)
+[2026.01.08-20.48.33:310][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+[2026.01.08-20.48.33:311][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+[2026.01.08-20.48.33:398][206]LogActorFactory: Actor Factory spawned StaticMesh /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4 as actor: StaticMeshActor /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_UAID_D8BBC1D1494A77B302_1178076773
+[2026.01.08-20.48.36:287][291]Cmd: DELETE
+[2026.01.08-20.48.36:287][291]Cmd: ACTOR DELETE
+[2026.01.08-20.48.36:322][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.08-20.48.36:396][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.08-20.48.36:404][291]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2026.01.08-20.48.49:667][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.01.08-20.48.53:898][720]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.48.54:572][720]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Abandoned_Cathedral/Assets/Tower_4/Texture/T_tower_4_Material_9_BC.T_tower_4_Material_9_BC
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Assets/Tower_4/Texture/T_tower_4_Material_9_N.T_tower_4_Material_9_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Assets/Tower_4/Texture/T_tower_4_Material_9_ORM.T_tower_4_Material_9_ORM
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Assets/Tower_4/Material_Instance/MI_Tower_4_M9.MI_Tower_4_M9
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4.SM_tower_4
+	Asset Type: StaticMesh
+[2026.01.08-20.48.55:867][720]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 5224.679199 MiB, MemoryLimit = 2122.972656 MiB 
+[2026.01.08-20.48.55:869][720]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 5224.679199 MiB, MemoryLimit = 2119.847656 MiB 
+[2026.01.08-20.48.56:832][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.01.08-20.48.56:893][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.01.08-20.48.56:935][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.08-20.48.57:112][720]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-20.49.10:419][126]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.01.08-20.49.10:445][126]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 60 assets. Are you sure you want to continue?
+[2026.01.08-20.49.10:503][126]LogStreaming: Display: FlushAsyncLoading(914): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-20.49.11:019][126]LogLinker: Warning: Unable to load NODE_AddBP_Weapon_Component-0 with outer BlueprintGeneratedClass /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C because its class (BP_Weapon_Component_C) does not exist
+[2026.01.08-20.49.11:062][126]LogBlueprint: Error: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPerson\Blueprints\BP_Pickup_Rifle.uasset: [Compiler] In use pin  Weapon  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.01.08-20.49.11:065][126]LogBlueprint: Error: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPerson\Blueprints\BP_Pickup_Rifle.uasset: [Compiler] Unknown template referenced by 'Add Component
+Target is Actor' for  Add Component
+[2026.01.08-20.49.11:578][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Fire.AS_FP_Rifle_Fire (Required Memory Estimate: 4.46 MB)
+[2026.01.08-20.49.11:620][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Fire.AS_FP_Rifle_Fire, at AnimationSequence/0ccf69e03f67536d94cdcb685ecea45b9a9c85e6
+[2026.01.08-20.49.12:173][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Run_Fwd.AS_FP_Run_Fwd (Required Memory Estimate: 1.09 MB)
+[2026.01.08-20.49.12:174][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Run.AS_FP_Rifle_Run (Required Memory Estimate: 12.69 MB)
+[2026.01.08-20.49.12:175][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Land.AS_FP_Rifle_Land (Required Memory Estimate: 7.36 MB)
+[2026.01.08-20.49.12:176][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Jump.AS_FP_Rifle_Jump (Required Memory Estimate: 11.23 MB)
+[2026.01.08-20.49.12:179][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Falling.AS_FP_Rifle_Falling (Required Memory Estimate: 17.53 MB)
+[2026.01.08-20.49.12:180][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Idle.AS_FP_Rifle_Idle (Required Memory Estimate: 44.63 MB)
+[2026.01.08-20.49.12:180][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Land.AS_FP_Land (Required Memory Estimate: 0.52 MB)
+[2026.01.08-20.49.12:183][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Jump.AS_FP_Jump (Required Memory Estimate: 0.52 MB)
+[2026.01.08-20.49.12:183][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Idle.AS_FP_Idle (Required Memory Estimate: 4.22 MB)
+[2026.01.08-20.49.12:189][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Land.AS_FP_Land, at AnimationSequence/68be5260751f95623618d6a89070cc577c240eef
+[2026.01.08-20.49.12:192][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Run_Fwd.AS_FP_Run_Fwd, at AnimationSequence/d16a4bc375d60a859822421f227a32ea9999dbae
+[2026.01.08-20.49.12:192][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Jump.AS_FP_Jump, at AnimationSequence/ca4e70ba052f19e60eb379f746138fe3b48de5ac
+[2026.01.08-20.49.12:210][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Falling.AS_FP_Falling (Required Memory Estimate: 1.70 MB)
+[2026.01.08-20.49.12:213][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Land.AS_FP_Rifle_Land, at AnimationSequence/a45ca70a1e5843368e7616a064888d2e6b885cda
+[2026.01.08-20.49.12:221][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Walk_Fwd.AS_FP_Walk_Fwd (Required Memory Estimate: 0.66 MB)
+[2026.01.08-20.49.12:226][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Run.AS_FP_Rifle_Run, at AnimationSequence/0f9d56bfe1df4806581733704e994a66bad9026a
+[2026.01.08-20.49.12:230][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Jump.AS_FP_Rifle_Jump, at AnimationSequence/d7fbca05456a2562a9a142074d613aeec18b02f3
+[2026.01.08-20.49.12:234][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Walk_Fwd.AS_FP_Walk_Fwd, at AnimationSequence/775744576a5e91dc1c046e8cd643fe632eaeb47a
+[2026.01.08-20.49.12:238][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Falling.AS_FP_Falling, at AnimationSequence/00b1b0f615eb2cb093eab83ecd596ccb4b81dd99
+[2026.01.08-20.49.12:239][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Idle.AS_FP_Idle, at AnimationSequence/bb4f24e5db3f71c9a0bd7f3da861d1f0581c07c1
+[2026.01.08-20.49.12:248][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Falling.AS_FP_Rifle_Falling, at AnimationSequence/38b5a0919ef0d73f0b97cf6da4f6a5b6c10af55d
+[2026.01.08-20.49.12:297][126]LogAnimationCompression: Display: Storing compressed animation data for /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Animations/AS_FP_Rifle_Idle.AS_FP_Rifle_Idle, at AnimationSequence/3d5e4a37b89efe8b2ef32aa825ba8f90a02cab08
+[2026.01.08-20.49.12:661][126]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2026.01.08-20.49.12:903][126]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2026.01.08-20.49.13:528][126]LogSkeletalMesh: Built Skeletal Mesh [0.87s] /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2026.01.08-20.49.13:541][126]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Demo/Volumetric_Cloud_Setup/T_Lightning.T_Lightning (TFO_BC6H, 512x512 x1x1x1) (Required Memory Estimate: 22.666648 MB), EncodeSpeed: Fast
+[2026.01.08-20.49.13:602][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.01.08-20.49.27:385][126]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.49.27:753][126]LogUObjectGlobals: Force Deleting 62 Package(s):
+	Asset Name: /Game/Abandoned_Cathedral/Demo/Texture/T_CandleFlame.T_CandleFlame
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Demo/Texture/T_WaveNoise.T_WaveNoise
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+	Asset Type: Blueprint
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+	Asset Type: Blueprint
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController
+	Asset Type: Blueprint
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+	Asset Type: Blueprint
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+	Asset Type: Blueprint
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Input/MobileControls.MobileControls
+	Asset Type: TouchInterface
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Input/IMC_Weapons.IMC_Weapons
+	Asset Type: InputMappingContext
+	Asset Name: /Game/Abandoned_Cathedral/Demo/FirstPerson/Input/IMC_Default.IMC_Default
+	Asset Type: InputMappingContext
+[2026.01.08-20.49.28:117][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\Volumetric_Cloud_Setup\M_VM_5_5.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureObjectParameter) This texture defines the world location for each type of cloud where each channel describes a different cloud type  ( r = stratocumulus, g = altostratus, and b = cirrostratus, a = nimbostratus ).> Requires valid texture
+	(Node TextureObjectParameter) This texture can be used to add clouds to or remove clouds from the global pattern texture in the masked region.  Each channel of this texture applies to a different cloud type ( r = stratocumulus, g = altostratus, and b = cirrostratus ).  The alpha channel is unused.> Requires valid texture
+	(Node TextureObjectParameter) This texture describes the shape of the clouds as the altitue changes.  Each channel of this texture describes the profile shape and relative altitude of a different cloud type ( r = stratocumulus, g = altostratus, and b = cirrostratus, a = nimbostratus )> Requires valid texture
+	(Node TextureObjectParameter) This texture is used to break up the shapes of the clouds for authoring their general form.  Each channel of the texture describes a different noise pattern the influence of which is determined by the Noise controls (r = Noise1, g = Noise2, and b = Noise3).  The texture has an alpha channel which is unused in the material. > Requires valid texture
+
+[2026.01.08-20.49.28:117][126]LogMaterial: Warning: M_VM_5_5: Requesting an invalid TextureIndex! (5 / 1)
+[2026.01.08-20.49.28:129][126]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Demo/FirstPersonArms/Character/Materials/Functions/CA_Mannequin.CA_Mannequin (RGBA16F, 64x64 x1x1x1) (Required Memory Estimate: 1.177074 MB), EncodeSpeed: Fast
+[2026.01.08-20.49.28:131][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.28:225][126]LogMaterial: Display: Missing cached shadermap for WorldGridMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 6be2a567a34ede27b81a2b05f4f15b21a2d9c2df), compiling. Is special engine material.
+[2026.01.08-20.49.31:616][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.31:619][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.31:621][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.31:624][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.31:627][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Demo\FirstPersonArms\Character\Materials\M_Mannequin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.49.31:660][126]LogMaterial: Display: Missing cached shadermap for MI_Manny_01 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 1d6046865c5113747d92dc33a9015c76384e1d07), compiling. Is special engine material.
+[2026.01.08-20.52.53:732][126]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin_Arms) ...
+[2026.01.08-20.52.53:782][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Master_Material\M_Candle_Fire.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.52.53:787][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Master_Material\M_Candle_Fire.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.52.53:791][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Master_Material\M_Candle_Fire.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.52.53:796][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Master_Material\M_Candle_Fire.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.52.53:801][126]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Master_Material\M_Candle_Fire.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.52.55:747][126]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2026.01.08-20.52.59:480][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.08-20.52.59:513][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.08-20.52.59:531][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.08-20.52.59:709][126]LogShaderCompilers: Display: ================================================
+[2026.01.08-20.52.59:709][126]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.08-20.52.59:709][126]LogShaderCompilers: Display: Total job queries 5,512, among them cache hits 409 (7.42%), DDC hits 1,980 (35.92%), Duplicates 1,593 (28.90%)
+[2026.01.08-20.52.59:709][126]LogShaderCompilers: Display: Tracking 3,510 distinct input hashes that result in 1,834 distinct outputs (52.25%)
+[2026.01.08-20.52.59:710][126]LogShaderCompilers: Display: RAM used: 18.62 MiB of 819.20 MiB budget. Usage: 2.27%
+[2026.01.08-20.52.59:710][126]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.08-20.52.59:710][126]LogShaderCompilers: Display: Shaders Compiled: 1,530
+[2026.01.08-20.52.59:710][126]LogShaderCompilers: Display: Jobs assigned 1,530, completed 1,530 (100%)
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Time job spent in pending queue: average 100.20 s, longest 199.09 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 10.11 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Job life time (pending + execution): average 101.78 s, max 199.51
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Shader code size: total 18.537 MiB, numShaders 1,553, average 12.223 KiB, min 1.199 KiB, max 35.43 KiB
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 201.52 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.34%
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Jobs were issued in 1,530 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Average processing rate: 7.59 jobs/sec
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Total thread time: 2,172.292 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Total thread preprocess time: 95.333 s
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Percentage time preprocessing: 4.39%
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Effective parallelization: 10.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.898306
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.92 sec, max 7.92 sec, min 7.92 sec)
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 7.91 sec, max 7.91 sec, min 7.91 sec)
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 7.73 sec, max 7.73 sec, min 7.73 sec)
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 7.72 sec, max 7.72 sec, min 7.72 sec)
+[2026.01.08-20.52.59:711][126]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 7.58 sec, max 7.58 sec, min 7.58 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 57.00% of total time (compiled  440 times, average 2.81 sec, max 7.32 sec, min 0.00 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display:                                               FHWRasterizeMS - 2.89% of total time (compiled  120 times, average 0.52 sec, max 0.69 sec, min 0.34 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.08% of total time (compiled   84 times, average 0.54 sec, max 0.71 sec, min 0.27 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.79% of total time (compiled   17 times, average 2.29 sec, max 4.44 sec, min 1.05 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display:                                                  FVelocityPS - 1.44% of total time (compiled   23 times, average 1.36 sec, max 2.71 sec, min 0.66 sec)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: === Material stats ===
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Materials Translated:    181
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Material Total Translate Time: 0.43 s
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Material Translation Only: 0.16 s (38%)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: Material Cache Hits: 37 (20%)
+[2026.01.08-20.52.59:713][126]LogShaderCompilers: Display: ================================================
+[2026.01.08-20.52.59:897][126]LogEOSSDK: Warning: LogAnalytics: EventCache either took too long to flush (1.220 ms) or had a very large payload (1.482 KB, 2 events). Listing events in the payload for investigation:
+[2026.01.08-20.52.59:897][126]LogEOSSDK: Warning: LogAnalytics: EOSSDK.HTTP.Complete,714
+[2026.01.08-20.52.59:897][126]LogEOSSDK: Warning: LogAnalytics: EOSSDK.Heartbeat,791
+[2026.01.08-20.52.59:930][126]LogAnalytics: Display: EventCache took too long to flush (1.729 ms > 1.000 ms). Payload size: 0.436 KB, 1 events. Listing events in the payload for investigation:
+[2026.01.08-20.52.59:930][126]LogAnalytics: Display:     Editor.Usage.Heartbeat,433
+[2026.01.08-20.53.00:015][126]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Pickup_Rifle, a dependent package /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Weapon_Component was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Weapon_Component has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_Weapon_Component'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.53.00:023][126]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-20.53.48:930][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15933.291992
+[2026.01.08-20.53.49:080][605]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-20.53.49:081][605]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15933.474609, Update Interval: 335.671875
+[2026.01.08-20.54.29:646][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.01.08-20.54.29:650][294]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.021
+[2026.01.08-20.54.29:666][294]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire] ([1] browsable assets)...
+[2026.01.08-20.54.29:805][294]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire.M_Candle_Fire]
+[2026.01.08-20.54.29:805][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire]
+[2026.01.08-20.54.29:905][294]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire_Auto0
+[2026.01.08-20.54.29:906][294]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/M_Candle_Fire_Auto0AF9153DB49F116722FD387B7E5ABFE2F.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire_Auto0.uasset'
+[2026.01.08-20.54.29:927][294]LogFileHelpers: Auto-saving content packages took 0.276
+[2026.01.08-20.57.19:681][528]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Colors.Foreground'.'
+[2026.01.08-20.57.21:490][695]LogSlate: Window 'T_Sand_C_BaseColor' being destroyed
+[2026.01.08-20.57.21:509][695]LogSlate: Window 'T_Sand_C_BaseColor' being destroyed
+[2026.01.08-20.57.27:892][257]LogStreaming: Display: FlushAsyncLoading(933): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-20.57.27:934][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.08-20.57.28:061][257]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Terrain/texture/T_Sand_C_BaseColor.T_Sand_C_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2026.01.08-20.57.28:210][257]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.01.08-20.57.28:366][257]LogSlate: Took 0.136557 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.01.08-20.57.29:908][257]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.57.29:989][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.01.08-20.57.30:007][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.08-20.57.30:026][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.08-20.57.30:062][257]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-20.58.01:126][255]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.08-20.58.01:126][255]LogStreaming: Display: FlushAsyncLoading(934): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-20.58.01:255][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.08-20.58.03:392][255]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.58.07:283][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.01.08-20.58.08:522][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.01.08-20.58.14:645][599]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.58.17:332][599]LogUObjectGlobals: Force Deleting 9 Package(s):
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_BC.T_trunk_BC
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_N.T_trunk_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_ORM.T_trunk_ORM
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_Bush_BC.T_Bush_BC
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_Bush_N.T_Bush_N
+	Asset Type: Texture2D
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Material_Instance/MI_Bark_02.MI_Bark_02
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Material_Instance/MI_Leaf_02.MI_Leaf_02
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01.SM_Bush_01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02.SM_Bush_02
+	Asset Type: StaticMesh
+[2026.01.08-20.58.17:475][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:480][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:486][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:492][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:497][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:503][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_05.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:509][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:515][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:522][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:527][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:533][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.17:539][599]LogMaterial: Warning: [AssetLog] C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Content\Abandoned_Cathedral\Foliage\Nanite_Foliage\Ivy_01\Material_Instance\MI_Bark_04.uasset: Failed to compile Material Instance with Base M_Foliage_vertex_paint for platform PCD3D_SM6, Default Material will be used in game.
+	(Function MF_Foliage_Set) (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.01.08-20.58.19:096][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.01.08-20.58.19:116][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.08-20.58.19:133][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.08-20.58.19:244][599]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-20.58.40:630][648]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.01.08-20.58.40:630][648]LogStreaming: Display: FlushAsyncLoading(938): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-20.58.40:711][648]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2026.01.08-20.58.40:713][648]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 171.416656 MB), EncodeSpeed: Fast
+[2026.01.08-20.58.40:713][648]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Maps/Overview_BuiltData.Overview_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 171.416656 MB), EncodeSpeed: Fast
+[2026.01.08-20.58.45:233][648]LogChaosDD: Creating Chaos Debug Draw Scene for world Preview
+[2026.01.08-20.58.45:504][648]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2026.01.08-20.58.45:531][648]LogObjectTools: Deleting 2 worlds: /Game/Abandoned_Cathedral/Maps/Preview.Preview, /Game/Abandoned_Cathedral/Maps/Overview.Overview
+[2026.01.08-20.58.45:531][648]LogObjectTools: Currently 4 active worlds: /Game/ThirdPerson/Maps/MainLevel.MainLevel, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3
+[2026.01.08-20.58.45:589][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.08-20.58.48:322][648]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-20.58.50:394][648]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Preview_BuiltData.Preview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Overview_BuiltData.Overview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Preview.Preview
+	Asset Type: World
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Overview.Overview
+	Asset Type: World
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Preview_sharedassets/Paint_L01_LayerInfo.Paint_L01_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+	Asset Name: /Game/Abandoned_Cathedral/Maps/Preview_sharedassets/Automatic_LayerInfo.Automatic_LayerInfo
+	Asset Type: LandscapeLayerInfoObject
+[2026.01.08-20.58.52:514][648]LogWorld: UWorld::CleanupWorld for Preview, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-20.58.52:538][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-20.58.52:686][648]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2026.01.08-20.58.52:686][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.08-20.58.53:852][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.01.08-20.58.53:914][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.08-20.58.53:931][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Preview, a dependent package /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonGameMode was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonGameMode has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Demo/FirstPerson/Blueprints/BP_FirstPersonGameMode'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Preview, a dependent package /Game/Abandoned_Cathedral/Demo/Volumetric_Cloud_Setup/MI_VM_5_5_Inst was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Demo/Volumetric_Cloud_Setup/MI_VM_5_5_Inst has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Demo/Volumetric_Cloud_Setup/MI_VM_5_5_Inst'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Preview, a dependent package /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Preview, a dependent package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Preview, a dependent package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Overview, a dependent package /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Assets/Tower_4/Static_Mesh/SM_tower_4'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Overview, a dependent package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_01'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:137][648]LoadErrors: Warning: While trying to load package /Game/Abandoned_Cathedral/Maps/Overview, a dependent package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Static_Mesh/SM_Bush_02'. Perhaps it has been deleted or was not synced?
+
+[2026.01.08-20.58.54:140][648]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-20.59.00:015][879]LogShaderCompilers: Display: ================================================
+[2026.01.08-20.59.00:015][879]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.08-20.59.00:015][879]LogShaderCompilers: Display: Total job queries 5,535, among them cache hits 412 (7.44%), DDC hits 1,992 (35.99%), Duplicates 1,593 (28.78%)
+[2026.01.08-20.59.00:015][879]LogShaderCompilers: Display: Tracking 3,530 distinct input hashes that result in 1,851 distinct outputs (52.44%)
+[2026.01.08-20.59.00:015][879]LogShaderCompilers: Display: RAM used: 18.91 MiB of 819.20 MiB budget. Usage: 2.31%
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Shaders Compiled: 1,538
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Jobs assigned 1,538, completed 1,538 (100%)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Average time worker was idle: 1.65 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Time job spent in pending queue: average 99.68 s, longest 199.09 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 10.11 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Job life time (pending + execution): average 101.28 s, max 199.51
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Shader code size: total 18.61 MiB, numShaders 1,562, average 12.2 KiB, min 1.199 KiB, max 35.43 KiB
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 206.86 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.34%
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Jobs were issued in 1,538 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Average processing rate: 7.43 jobs/sec
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Total thread time: 2,175.125 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Total thread preprocess time: 95.763 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Percentage time preprocessing: 4.40%
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Effective parallelization: 10.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.876248
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    1 times, average 7.92 sec, max 7.92 sec, min 7.92 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 7.91 sec, max 7.91 sec, min 7.91 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    1 times, average 7.73 sec, max 7.73 sec, min 7.73 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyLQ (compiled    1 times, average 7.72 sec, max 7.72 sec, min 7.72 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                 TBasePassCSTLightMapPolicyHQ (compiled    1 times, average 7.58 sec, max 7.58 sec, min 7.58 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 56.92% of total time (compiled  440 times, average 2.81 sec, max 7.32 sec, min 0.00 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                               FHWRasterizeMS - 2.89% of total time (compiled  120 times, average 0.52 sec, max 0.69 sec, min 0.34 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.07% of total time (compiled   84 times, average 0.54 sec, max 0.71 sec, min 0.27 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.79% of total time (compiled   17 times, average 2.29 sec, max 4.44 sec, min 1.05 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display:                                                  FVelocityPS - 1.47% of total time (compiled   24 times, average 1.33 sec, max 2.71 sec, min 0.49 sec)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: === Material stats ===
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Materials Translated:    209
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Material Total Translate Time: 0.48 s
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Material Translation Only: 0.21 s (43%)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: Material Cache Hits: 44 (21%)
+[2026.01.08-20.59.00:016][879]LogShaderCompilers: Display: ================================================
+[2026.01.08-20.59.01:115][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.08-20.59.02:217][965]LogSlate: Window 'Save Content' being destroyed
+[2026.01.08-20.59.02:242][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.08-20.59.02:270][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abandoned_Cathedral/Terrain/LGT/LGT_Layer_02] ([1] browsable assets)...
+[2026.01.08-20.59.02:270][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Terrain/LGT/LGT_Layer_02]
+[2026.01.08-20.59.02:283][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Terrain/LGT/LGT_Layer_02
+[2026.01.08-20.59.02:283][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/LGT_Layer_02CB7F90A34B36A8A5AC74AF8381C46745.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Terrain/LGT/LGT_Layer_02.uasset'
+[2026.01.08-20.59.02:291][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set] ([1] browsable assets)...
+[2026.01.08-20.59.02:341][965]OBJ SavePackage:     Rendered thumbnail for [MaterialFunction /Game/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set.MF_Foliage_Set]
+[2026.01.08-20.59.02:341][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set]
+[2026.01.08-20.59.02:362][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set
+[2026.01.08-20.59.02:363][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/MF_Foliage_Set0C367FD6452C8379450921A34567E4CE.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set.uasset'
+[2026.01.08-20.59.02:364][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04] ([1] browsable assets)...
+[2026.01.08-20.59.02:370][965]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04.MI_Bark_04]
+[2026.01.08-20.59.02:370][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04]
+[2026.01.08-20.59.02:379][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04
+[2026.01.08-20.59.02:379][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/MI_Bark_042851C54640969FBCEB4899879727FF25.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04.uasset'
+[2026.01.08-20.59.02:379][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05] ([1] browsable assets)...
+[2026.01.08-20.59.02:385][965]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05.MI_Bark_05]
+[2026.01.08-20.59.02:385][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05]
+[2026.01.08-20.59.02:394][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05
+[2026.01.08-20.59.02:394][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/MI_Bark_057E0DA765467AFE91D14900A077DFB304.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05.uasset'
+[2026.01.08-20.59.02:395][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire] ([1] browsable assets)...
+[2026.01.08-20.59.02:395][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire]
+[2026.01.08-20.59.02:407][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire
+[2026.01.08-20.59.02:407][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/M_Candle_Fire75AEB8AD4608A3D95EEE19BFFF6E5C9C.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Master_Material/M_Candle_Fire.uasset'
+[2026.01.08-20.59.02:407][965]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint] ([1] browsable assets)...
+[2026.01.08-20.59.26:804][965]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint.M_Foliage_vertex_paint]
+[2026.01.08-20.59.26:805][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint]
+[2026.01.08-20.59.26:813][965]LogSavePackage: Moving output files for package: /Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint
+[2026.01.08-20.59.26:813][965]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/M_Foliage_vertex_paint2039F7D2498B5CDD0FDD51BC5A3B81B3.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint.uasset'
+[2026.01.08-20.59.26:827][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.5 sec (total: 28.3 sec)
+[2026.01.08-20.59.26:904][965]LogContentValidation: Display: Starting to validate 6 assets
+[2026.01.08-20.59.26:904][965]LogContentValidation: Enabled validators:
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.08-20.59.26:905][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Terrain/LGT/LGT_Layer_02 Validating asset
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Foliage/Material_Function/MF_Foliage_Set Validating asset
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_04 Validating asset
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_Bark_05 Validating asset
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire Validating asset
+[2026.01.08-20.59.26:911][965]AssetCheck: /Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint Validating asset
+[2026.01.08-20.59.26:938][965]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-21.00.02:560][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16306.978516
+[2026.01.08-21.00.02:681][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.00.02:681][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16307.085938, Update Interval: 352.525391
+[2026.01.08-21.00.21:935][450]LogStreaming: Display: FlushAsyncLoading(942): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.08-21.00.21:961][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.01.08-21.00.22:211][450]LogTexture: Display: Building textures: /Game/Abandoned_Cathedral/Terrain/texture/T_Sand_C_N.T_Sand_C_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 449.000 MB), EncodeSpeed: Fast
+[2026.01.08-21.00.23:209][450]LogSlate: Window 'Delete Assets' being destroyed
+[2026.01.08-21.00.23:288][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.08-21.00.23:307][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.01.08-21.00.23:324][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.01.08-21.00.23:357][450]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.08-21.00.27:453][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.08-21.02.00:280][372]LogShaderCompilers: Display: ================================================
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Total job queries 5,850, among them cache hits 445 (7.61%), DDC hits 1,992 (34.05%), Duplicates 1,688 (28.85%)
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Tracking 3,717 distinct input hashes that result in 1,998 distinct outputs (53.75%)
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: RAM used: 20.48 MiB of 819.20 MiB budget. Usage: 2.50%
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Shaders Compiled: 1,725
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Jobs assigned 1,725, completed 1,725 (100%)
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Average time worker was idle: 2.56 s
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Time job spent in pending queue: average 90.42 s, longest 199.09 s
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Job execution time: average 1.59 s, max 10.11 s
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Job life time (pending + execution): average 92.01 s, max 199.51
+[2026.01.08-21.02.00:281][372]LogShaderCompilers: Display: Shader code size: total 21.05 MiB, numShaders 1,751, average 12.31 KiB, min 1.199 KiB, max 40.391 KiB
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 231.14 s
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.33%
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Jobs were issued in 1,725 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Average processing rate: 7.46 jobs/sec
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Total thread time: 2,385.581 s
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Total thread preprocess time: 101.677 s
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Percentage time preprocessing: 4.26%
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Effective parallelization: 10.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.860062
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:      TBasePassCSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 7.06 sec, max 7.06 sec, min 7.06 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 6.98 sec, max 6.98 sec, min 6.98 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:  TBasePassCSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 5.69 sec, max 7.91 sec, min 3.47 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyHQSkylight (compiled    2 times, average 5.63 sec, max 7.92 sec, min 3.34 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:                         TBasePassCSTLightMapPolicyLQSkylight (compiled    2 times, average 5.56 sec, max 7.73 sec, min 3.39 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 55.14% of total time (compiled  463 times, average 2.84 sec, max 7.32 sec, min 0.00 sec)
+[2026.01.08-21.02.00:282][372]LogShaderCompilers: Display:                                               FHWRasterizeMS - 3.27% of total time (compiled  148 times, average 0.53 sec, max 0.69 sec, min 0.34 sec)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display:                                               FHWRasterizeVS - 2.25% of total time (compiled  102 times, average 0.53 sec, max 0.71 sec, min 0.27 sec)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.74% of total time (compiled   19 times, average 2.18 sec, max 4.44 sec, min 1.05 sec)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display:                                               FHWRasterizePS - 1.65% of total time (compiled   63 times, average 0.62 sec, max 1.48 sec, min 0.01 sec)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: === Material stats ===
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Materials Translated:    209
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Material Total Translate Time: 0.48 s
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Material Translation Only: 0.21 s (43%)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: Material Cache Hits: 44 (21%)
+[2026.01.08-21.02.00:283][372]LogShaderCompilers: Display: ================================================
+[2026.01.08-21.04.31:093][821]LogUObjectHash: Compacting FUObjectHashTables data took  12.73ms
+[2026.01.08-21.04.31:224][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.860
+[2026.01.08-21.06.39:999][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16704.435547
+[2026.01.08-21.06.40:979][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.06.40:980][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16705.101562, Update Interval: 324.447144
+[2026.01.08-21.13.03:387][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17087.994141
+[2026.01.08-21.13.04:380][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.13.04:380][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17088.662109, Update Interval: 317.042145
+[2026.01.08-21.14.32:167][622]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2026.01.08-21.14.32:252][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.568
+[2026.01.08-21.19.08:345][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17453.070312
+[2026.01.08-21.19.09:347][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.19.09:347][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17453.738281, Update Interval: 325.432281
+[2026.01.08-21.24.32:463][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.01.08-21.24.32:465][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.029
+[2026.01.08-21.25.34:740][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17839.720703
+[2026.01.08-21.25.35:740][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.25.35:741][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17840.388672, Update Interval: 302.949921
+[2026.01.08-21.29.28:201][311]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.08-21.31.21:800][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18187.037109
+[2026.01.08-21.31.22:800][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.31.22:800][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18187.705078, Update Interval: 359.893799
+[2026.01.08-21.34.32:892][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.08-21.34.32:894][224]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.024
+[2026.01.08-21.37.56:527][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18581.888672
+[2026.01.08-21.37.57:528][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.37.57:528][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18582.554688, Update Interval: 336.442749
+[2026.01.08-21.44.31:248][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18976.806641
+[2026.01.08-21.44.32:248][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-21.44.32:248][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18977.472656, Update Interval: 317.012848
+[2026.01.08-21.44.33:303][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.01.08-21.44.33:305][ 25]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.027

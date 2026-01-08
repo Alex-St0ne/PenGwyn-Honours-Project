@@ -6,24 +6,50 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "PenGwyn/PenGwynGameMode.h"
+
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
 void EmptyLinkFunctionForGeneratedCodePenGwynGameMode() {}
 
-// Begin Cross Module References
+// ********** Begin Cross Module References ********************************************************
 ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynGameMode();
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynGameMode_NoRegister();
 UPackage* Z_Construct_UPackage__Script_PenGwyn();
-// End Cross Module References
+// ********** End Cross Module References **********************************************************
 
-// Begin Class APenGwynGameMode
+// ********** Begin Class APenGwynGameMode *********************************************************
 void APenGwynGameMode::StaticRegisterNativesAPenGwynGameMode()
 {
 }
-IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(APenGwynGameMode);
+FClassRegistrationInfo Z_Registration_Info_UClass_APenGwynGameMode;
+UClass* APenGwynGameMode::GetPrivateStaticClass()
+{
+	using TClass = APenGwynGameMode;
+	if (!Z_Registration_Info_UClass_APenGwynGameMode.InnerSingleton)
+	{
+		GetPrivateStaticClassBody(
+			StaticPackage(),
+			TEXT("PenGwynGameMode"),
+			Z_Registration_Info_UClass_APenGwynGameMode.InnerSingleton,
+			StaticRegisterNativesAPenGwynGameMode,
+			sizeof(TClass),
+			alignof(TClass),
+			TClass::StaticClassFlags,
+			TClass::StaticClassCastFlags(),
+			TClass::StaticConfigName(),
+			(UClass::ClassConstructorType)InternalConstructor<TClass>,
+			(UClass::ClassVTableHelperCtorCallerType)InternalVTableHelperCtorCaller<TClass>,
+			UOBJECT_CPPCLASS_STATICFUNCTIONS_FORCLASS(TClass),
+			&TClass::Super::StaticClass,
+			&TClass::WithinClass::StaticClass
+		);
+	}
+	return Z_Registration_Info_UClass_APenGwynGameMode.InnerSingleton;
+}
 UClass* Z_Construct_UClass_APenGwynGameMode_NoRegister()
 {
-	return APenGwynGameMode::StaticClass();
+	return APenGwynGameMode::GetPrivateStaticClass();
 }
 struct Z_Construct_UClass_APenGwynGameMode_Statics
 {
@@ -58,7 +84,7 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_APenGwynGameMode_Static
 	0,
 	0,
 	0,
-	0x008802ACu,
+	0x008803ACu,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynGameMode_Statics::Class_MetaDataParams), Z_Construct_UClass_APenGwynGameMode_Statics::Class_MetaDataParams)
 };
 UClass* Z_Construct_UClass_APenGwynGameMode()
@@ -69,24 +95,21 @@ UClass* Z_Construct_UClass_APenGwynGameMode()
 	}
 	return Z_Registration_Info_UClass_APenGwynGameMode.OuterSingleton;
 }
-template<> PENGWYN_API UClass* StaticClass<APenGwynGameMode>()
-{
-	return APenGwynGameMode::StaticClass();
-}
 DEFINE_VTABLE_PTR_HELPER_CTOR(APenGwynGameMode);
 APenGwynGameMode::~APenGwynGameMode() {}
-// End Class APenGwynGameMode
+// ********** End Class APenGwynGameMode ***********************************************************
 
-// Begin Registration
-struct Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynGameMode_h_Statics
+// ********** Begin Registration *******************************************************************
+struct Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynGameMode_h__Script_PenGwyn_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APenGwynGameMode, APenGwynGameMode::StaticClass, TEXT("APenGwynGameMode"), &Z_Registration_Info_UClass_APenGwynGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynGameMode), 575438260U) },
+		{ Z_Construct_UClass_APenGwynGameMode, APenGwynGameMode::StaticClass, TEXT("APenGwynGameMode"), &Z_Registration_Info_UClass_APenGwynGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynGameMode), 338969988U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynGameMode_h_53170049(TEXT("/Script/PenGwyn"),
-	Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynGameMode_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynGameMode_h__Script_PenGwyn_1422889032(TEXT("/Script/PenGwyn"),
+	Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynGameMode_h__Script_PenGwyn_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynGameMode_h__Script_PenGwyn_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
-// End Registration
+// ********** End Registration *********************************************************************
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

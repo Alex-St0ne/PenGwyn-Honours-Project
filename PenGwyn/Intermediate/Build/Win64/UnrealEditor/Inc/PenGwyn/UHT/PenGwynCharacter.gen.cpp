@@ -6,10 +6,12 @@
 
 #include "UObject/GeneratedCppIncludes.h"
 #include "PenGwyn/PenGwynCharacter.h"
+
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
 void EmptyLinkFunctionForGeneratedCodePenGwynCharacter() {}
 
-// Begin Cross Module References
+// ********** Begin Cross Module References ********************************************************
 COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
@@ -24,16 +26,40 @@ PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter();
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister();
 PENGWYN_API UClass* Z_Construct_UClass_UAshenAttributeSet_NoRegister();
 UPackage* Z_Construct_UPackage__Script_PenGwyn();
-// End Cross Module References
+// ********** End Cross Module References **********************************************************
 
-// Begin Class APenGwynCharacter
+// ********** Begin Class APenGwynCharacter ********************************************************
 void APenGwynCharacter::StaticRegisterNativesAPenGwynCharacter()
 {
 }
-IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(APenGwynCharacter);
+FClassRegistrationInfo Z_Registration_Info_UClass_APenGwynCharacter;
+UClass* APenGwynCharacter::GetPrivateStaticClass()
+{
+	using TClass = APenGwynCharacter;
+	if (!Z_Registration_Info_UClass_APenGwynCharacter.InnerSingleton)
+	{
+		GetPrivateStaticClassBody(
+			StaticPackage(),
+			TEXT("PenGwynCharacter"),
+			Z_Registration_Info_UClass_APenGwynCharacter.InnerSingleton,
+			StaticRegisterNativesAPenGwynCharacter,
+			sizeof(TClass),
+			alignof(TClass),
+			TClass::StaticClassFlags,
+			TClass::StaticClassCastFlags(),
+			TClass::StaticConfigName(),
+			(UClass::ClassConstructorType)InternalConstructor<TClass>,
+			(UClass::ClassVTableHelperCtorCallerType)InternalVTableHelperCtorCaller<TClass>,
+			UOBJECT_CPPCLASS_STATICFUNCTIONS_FORCLASS(TClass),
+			&TClass::Super::StaticClass,
+			&TClass::WithinClass::StaticClass
+		);
+	}
+	return Z_Registration_Info_UClass_APenGwynCharacter.InnerSingleton;
+}
 UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister()
 {
-	return APenGwynCharacter::StaticClass();
+	return APenGwynCharacter::GetPrivateStaticClass();
 }
 struct Z_Construct_UClass_APenGwynCharacter_Statics
 {
@@ -220,7 +246,7 @@ UObject* (*const Z_Construct_UClass_APenGwynCharacter_Statics::DependentSingleto
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::DependentSingletons) < 16);
 const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_APenGwynCharacter_Statics::InterfaceParams[] = {
-	{ Z_Construct_UClass_UAbilitySystemInterface_NoRegister, (int32)VTABLE_OFFSET(APenGwynCharacter, IAbilitySystemInterface), false },  // 2272790346
+	{ Z_Construct_UClass_UAbilitySystemInterface_NoRegister, (int32)VTABLE_OFFSET(APenGwynCharacter, IAbilitySystemInterface), false },  // 1199015870
 };
 const UECodeGen_Private::FClassParams Z_Construct_UClass_APenGwynCharacter_Statics::ClassParams = {
 	&APenGwynCharacter::StaticClass,
@@ -234,7 +260,7 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_APenGwynCharacter_Stati
 	0,
 	UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::PropPointers),
 	UE_ARRAY_COUNT(InterfaceParams),
-	0x008000A4u,
+	0x008001A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_APenGwynCharacter_Statics::Class_MetaDataParams), Z_Construct_UClass_APenGwynCharacter_Statics::Class_MetaDataParams)
 };
 UClass* Z_Construct_UClass_APenGwynCharacter()
@@ -245,24 +271,21 @@ UClass* Z_Construct_UClass_APenGwynCharacter()
 	}
 	return Z_Registration_Info_UClass_APenGwynCharacter.OuterSingleton;
 }
-template<> PENGWYN_API UClass* StaticClass<APenGwynCharacter>()
-{
-	return APenGwynCharacter::StaticClass();
-}
 DEFINE_VTABLE_PTR_HELPER_CTOR(APenGwynCharacter);
 APenGwynCharacter::~APenGwynCharacter() {}
-// End Class APenGwynCharacter
+// ********** End Class APenGwynCharacter **********************************************************
 
-// Begin Registration
-struct Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics
+// ********** Begin Registration *******************************************************************
+struct Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 1230885868U) },
+		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 1745622205U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_3920078548(TEXT("/Script/PenGwyn"),
-	Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_2463578339(TEXT("/Script/PenGwyn"),
+	Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
-// End Registration
+// ********** End Registration *********************************************************************
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

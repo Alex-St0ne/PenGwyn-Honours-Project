@@ -5,51 +5,57 @@
 ===========================================================================*/
 
 // IWYU pragma: private, include "PenGwynCharacter.h"
-#include "UObject/ObjectMacros.h"
-#include "UObject/ScriptMacros.h"
 
-PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #ifdef PENGWYN_PenGwynCharacter_generated_h
 #error "PenGwynCharacter.generated.h already included, missing '#pragma once' in PenGwynCharacter.h"
 #endif
 #define PENGWYN_PenGwynCharacter_generated_h
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+
+// ********** Begin Class APenGwynCharacter ********************************************************
+PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister();
+
+#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPenGwynCharacter(); \
 	friend struct Z_Construct_UClass_APenGwynCharacter_Statics; \
+	static UClass* GetPrivateStaticClass(); \
+	friend PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister(); \
 public: \
-	DECLARE_CLASS(APenGwynCharacter, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PenGwyn"), NO_API) \
+	DECLARE_CLASS2(APenGwynCharacter, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/PenGwyn"), Z_Construct_UClass_APenGwynCharacter_NoRegister) \
 	DECLARE_SERIALIZER(APenGwynCharacter) \
 	virtual UObject* _getUObject() const override { return const_cast<APenGwynCharacter*>(this); }
 
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
-private: \
-	/** Private move- and copy-constructors, should never be used */ \
-	APenGwynCharacter(APenGwynCharacter&&); \
-	APenGwynCharacter(const APenGwynCharacter&); \
-public: \
+#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
+	/** Deleted move- and copy-constructors, should never be used */ \
+	APenGwynCharacter(APenGwynCharacter&&) = delete; \
+	APenGwynCharacter(const APenGwynCharacter&) = delete; \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, APenGwynCharacter); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APenGwynCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APenGwynCharacter) \
 	NO_API virtual ~APenGwynCharacter();
 
 
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_22_PROLOG
-#define FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_GENERATED_BODY \
+#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_22_PROLOG
+#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
-	FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
+	FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
+	FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-template<> PENGWYN_API UClass* StaticClass<class APenGwynCharacter>();
+class APenGwynCharacter;
+
+// ********** End Class APenGwynCharacter **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_temp_honours_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h
-
+#define CURRENT_FILE_ID FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,15 +1,17 @@
-"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Source\PenGwyn\PenGwynCharacter.cpp"
-/FI"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\PenGwynEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\UnrealEditor\Development\PenGwyn\Definitions.PenGwyn.h"
-/Yu"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\PenGwynEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\PenGwynEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\UnrealEditor\Development\PenGwyn\PenGwynCharacter.cpp.obj"
-/sourceDependencies "C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\UnrealEditor\Development\PenGwyn\PenGwynCharacter.cpp.dep.json"
-@"C:\temp\honours\PenGwyn-Honours-Project\PenGwyn\Intermediate\Build\Win64\x64\UnrealEditor\Development\PenGwyn\PenGwyn.Shared.rsp"
+"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Source/PenGwyn/PenGwynCharacter.cpp"
+@"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/UnrealEditor/Development/PenGwyn/PenGwyn.Shared.rsp"
+/FI"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/PenGwynEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
+/FI"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/UnrealEditor/Development/PenGwyn/Definitions.PenGwyn.h"
+/Yu"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/PenGwynEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h"
+/Fp"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/PenGwynEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.pch"
+/Fo"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/UnrealEditor/Development/PenGwyn/PenGwynCharacter.cpp.obj"
+/experimental:log "C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/UnrealEditor/Development/PenGwyn/PenGwynCharacter.cpp.sarif"
+/sourceDependencies "C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Intermediate/Build/Win64/x64/UnrealEditor/Development/PenGwyn/PenGwynCharacter.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
 /FC
+/diagnostics:caret
 /c
 /Gw
 /Gy
@@ -37,15 +39,14 @@
 /fp:fast
 /Zo
 /Zp8
+/W4
 /we4456
 /we4458
 /we4459
-/we4668
 /wd4244
 /wd4838
 /TP
 /GR-
-/W4
 /std:c++20
 /Zc:preprocessor
 /wd5054

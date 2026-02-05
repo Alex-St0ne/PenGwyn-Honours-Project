@@ -1194,3 +1194,536 @@ FPackageName: Skipped package /Game/ParagonTerra/Characters/Heroes/Terra/Animati
 [2026.02.05-16.02.08:215][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.198128, Update Interval: 320.704376
 [2026.02.05-16.02.10:718][198]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2026.02.05-16.02.10:761][198]LogSlate: Took 0.011095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.05-16.03.31:127][651]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.05-16.03.36:323][106]LogStreaming: Display: FlushAsyncLoading(1017): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.05-16.03.36:807][134]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.05-16.03.40:491][447]LogStreaming: Display: FlushAsyncLoading(1018): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.05-16.03.40:518][447]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall
+[2026.02.05-16.03.40:518][447]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.05-16.03.42:380][447]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.05-16.03.42:418][447]LogSlate: Took 0.009066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.05-16.03.52:952][242]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.05-16.03.56:175][537]LogSlate: Window 'BP_FogWall' being destroyed
+[2026.02.05-16.03.58:587][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.05-16.03.58:597][811]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.03.58:597][811]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Engine/Transient.World_5:PersistentLevel.BP_Enemy_Light_C_0.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.03.58:675][812]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.05-16.03.58:685][812]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.03.58:685][812]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_6:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.03.58:822][816]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.05-16.03.58:850][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.05-16.04.00:006][912]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Base.BP_Enemy_Base
+[2026.02.05-16.04.00:007][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.05-16.04.00:729][914]LogStreaming: Display: FlushAsyncLoading(1215): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.05-16.04.01:115][915]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.05-16.04.01:380][921]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.05-16.05.08:879][389]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.02.05-16.05.20:707][302]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.05-16.05.20:707][302]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.05-16.05.21:863][434]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.05.21:863][434]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.05.21:865][434]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.05.21:865][434]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.05.32:796][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-16.05.32:831][600]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.05-16.05.32:831][600]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.02.05-16.05.32:847][600]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 16.231 ms
+[2026.02.05-16.05.32:868][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-16.05.32:868][600]BlueprintLog: Warning: Blueprint failed to compile:  BP_PenGwynAssistant
+[2026.02.05-16.05.34:487][600]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant
+[2026.02.05-16.05.34:487][600]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.05-16.05.34:606][600]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.05-16.06.33:529][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.05-16.07.02:927][896]Cmd: DELETE
+[2026.02.05-16.07.02:928][896]Cmd: ACTOR DELETE
+[2026.02.05-16.07.03:001][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.05-16.07.03:031][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.05-16.07.03:034][896]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2026.02.05-16.07.07:728][318]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall_C
+[2026.02.05-16.07.07:728][318]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall_C
+[2026.02.05-16.07.07:733][318]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall as actor: BP_FogWall_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_FogWall_C_0
+[2026.02.05-16.07.07:734][318]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall as actor: BP_FogWall_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_FogWall_C_0
+[2026.02.05-16.07.07:745][318]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.05-16.07.09:736][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.05-16.07.09:738][539]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.02.05-16.07.09:746][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall_C
+[2026.02.05-16.07.09:746][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall_C
+[2026.02.05-16.07.09:766][539]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall as actor: BP_FogWall_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_FogWall_C_UAID_D8BBC1D1494A34BC02_1534053175
+[2026.02.05-16.07.09:767][539]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_FogWall.BP_FogWall as actor: BP_FogWall_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_FogWall_C_UAID_D8BBC1D1494A34BC02_1534053175
+[2026.02.05-16.07.16:767][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-16.07.16:777][211]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.05-16.07.16:777][211]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.02.05-16.07.16:780][211]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.925 ms (total: 19.156 ms)
+[2026.02.05-16.07.16:793][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-16.07.16:839][211]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.05-16.07.16:842][211]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.05-16.07.16:847][211]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.07.16:888][211]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.05-16.07.16:896][211]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.384 ms
+[2026.02.05-16.07.16:896][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049492s)
+[2026.02.05-16.07.16:896][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.049544s)
+[2026.02.05-16.07.16:921][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.05-16.07.16:927][211]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.02.05-16.07.16:931][211]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.05-16.07.16:931][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.05-16.07.16:932][211]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.05-16.07.16:932][211]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.05-16.07.16:942][211]LogWorldPartition: Display: WorldPartition initialize took 12.203 ms (total: 1.65 sec)
+[2026.02.05-16.07.16:942][211]LogPlayLevel: PIE: World Init took: (0.015910s)
+[2026.02.05-16.07.16:946][211]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.05-16.07.16:946][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-16.07.16:946][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-16.07.16:947][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-16.07.16:947][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-16.07.16:947][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-16.07.16:947][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-16.07.16:947][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-16.07.16:947][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-16.07.16:947][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-16.07.16:947][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-16.07.16:947][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-16.07.16:948][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-16.07.16:967][211]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.02.05-16.07.16:967][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-16.07.16:967][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-16.07.16:967][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-16.07.16:967][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.05-16.07.16:967][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.05-16.07.16:970][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.05-16.07.16:970][211]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.05-16.07.16:970][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.05-16.07.16:970][211]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainLevel'.
+[2026.02.05-16.07.16:970][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.05-16.07.16:988][211]LogLoad: Game class is 'PenGwynGameMode'
+[2026.02.05-16.07.17:002][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:002][211]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.07.17:002][211]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.07.17:084][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:084][211]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1303483301.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.07.17:084][211]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.07.17:085][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:085][211]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1288040300.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.07.17:085][211]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.07.17:086][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:086][211]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1280718299.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.07.17:086][211]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.07.17:087][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:087][211]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1219189298.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.07.17:087][211]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.07.17:088][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:088][211]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1098940296.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.07.17:088][211]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.07.17:088][211]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1311888302.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.07.17:095][211]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.02.05-16.07.17
+[2026.02.05-16.07.17:272][211]LogWorld: Bringing up level for play took: 0.280341
+[2026.02.05-16.07.17:277][211]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.02.05-16.07.17:349][211]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.02.05-16.07.17:352][211]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.02.05-16.07.17:431][211]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.02.05-16.07.17:488][211]PIE: Server logged in
+[2026.02.05-16.07.17:492][211]PIE: Play in editor total start time 0.715 seconds.
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.19:621][349]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.07.28:618][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 329.928925
+[2026.02.05-16.07.28:687][974]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.02.05-16.07.28:691][974]LogBlueprintUserMessages: [BPC_StatusComponent] 60.0
+[2026.02.05-16.07.28:692][974]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.02.05-16.07.28:801][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-16.07.28:801][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 330.098175, Update Interval: 303.922241
+[2026.02.05-16.07.30:765][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.02.05-16.07.30:765][121]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 5
+[2026.02.05-16.07.31:808][193]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.02.05-16.07.36:562][526]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.02.05-16.07.36:562][526]LogBlueprintUserMessages: [BPC_StatusComponent] 60.0
+[2026.02.05-16.07.36:562][526]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.02.05-16.07.38:766][679]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.02.05-16.07.38:766][679]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 4
+[2026.02.05-16.07.39:788][750]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.02.05-16.07.41:301][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.07.41:303][848]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.07.41:303][848]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.05-16.07.41:322][848]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-16.07.41:336][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.07.41:336][848]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.02.05-16.07.41:357][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-16.07.41:365][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.07.41:392][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.07.41:397][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.05-16.07.41:400][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.05-16.07.41:402][848]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.05-16.07.41:454][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.05-16.07.41:509][849]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.02.05-16.08.06:916][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.02.05-16.08.17:440][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.02.05-16.08.17:440][754]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.02.05-16.08.18:480][754]LogStreaming: Display: FlushAsyncLoading(1216): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.05-16.08.19:306][762]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.02.05-16.08.53:372][222]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.02.05-16.08.53:383][222]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.02.05-16.08.53:395][223]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.02.05-16.08.58:966][886]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2026.02.05-16.08.58:979][886]LogContentBrowser: End creating deferred item NewInputAction
+[2026.02.05-16.08.59:929][981]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Interact.IA_Interact
+[2026.02.05-16.09.03:031][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-16.09.03:066][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.02.05-16.09.03:066][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_Interact]
+[2026.02.05-16.09.03:066][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Interact" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Interact.uasset" SILENT=true
+[2026.02.05-16.09.03:102][309]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Interact
+[2026.02.05-16.09.03:102][309]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/IA_InteractD5B8337A47BF4384E751B2A3FABD3212.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/Actions/IA_Interact.uasset'
+[2026.02.05-16.09.03:117][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.809 ms
+[2026.02.05-16.09.03:140][309]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-16.09.03:140][309]LogContentValidation: Enabled validators:
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-16.09.03:140][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-16.09.03:141][309]AssetCheck: /Game/ThirdPerson/Input/Actions/IA_Interact Validating asset
+[2026.02.05-16.09.03:160][309]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.05-16.09.08:292][906]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2026.02.05-16.09.59:335][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-16.09.59:369][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.05-16.09.59:370][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2026.02.05-16.09.59:370][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2026.02.05-16.09.59:377][871]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2026.02.05-16.09.59:378][871]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/IMC_Default532AC75A41C1419742FA3BBB86A06A65.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2026.02.05-16.09.59:385][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.796 ms (total: 136.606 ms)
+[2026.02.05-16.09.59:417][871]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-16.09.59:417][871]LogContentValidation: Enabled validators:
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-16.09.59:417][871]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-16.09.59:418][871]AssetCheck: /Game/ThirdPerson/Input/IMC_Default Validating asset
+[2026.02.05-16.10.16:743][927]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_15:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.10.16:744][927]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.10.16:818][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.05-16.12.35:217][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 636.525879
+[2026.02.05-16.12.35:397][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-16.12.35:397][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 636.696960, Update Interval: 300.915558
+[2026.02.05-16.13.05:831][974]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.13.05:832][974]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_15:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_1
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.13.05:832][974]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_0 via property Character, but BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_1
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.13.05:861][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.05-16.13.06:600][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-16.13.06:629][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.05-16.13.06:687][ 14]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.05-16.13.06:687][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.05-16.13.06:812][ 14]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.05-16.13.06:812][ 14]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_ThirdPersonCharacterA95283514AD9F78C4A71EDA00C195CF5.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.05-16.13.06:821][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.387 ms (total: 357.993 ms)
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: Enabled validators:
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-16.13.06:854][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-16.13.06:854][ 14]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.05-16.13.09:511][299]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-16.13.09:525][299]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.05-16.13.09:525][299]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.02.05-16.13.09:530][299]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 4.711 ms (total: 23.868 ms)
+[2026.02.05-16.13.09:530][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-16.13.09:530][299]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.13.09:572][299]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.05-16.13.09:580][299]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.324 ms (total: 14.708 ms)
+[2026.02.05-16.13.09:580][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049922s)
+[2026.02.05-16.13.09:580][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.049964s)
+[2026.02.05-16.13.09:610][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.05-16.13.09:613][299]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.02.05-16.13.09:627][299]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.05-16.13.09:628][299]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.05-16.13.09:628][299]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.05-16.13.09:628][299]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.05-16.13.09:636][299]LogWorldPartition: Display: WorldPartition initialize took 8.849 ms (total: 1.66 sec)
+[2026.02.05-16.13.09:636][299]LogPlayLevel: PIE: World Init took: (0.022275s)
+[2026.02.05-16.13.09:637][299]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-16.13.09:637][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-16.13.09:637][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-16.13.09:637][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-16.13.09:637][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-16.13.09:637][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-16.13.09:638][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-16.13.09:657][299]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.02.05-16.13.09:658][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-16.13.09:658][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-16.13.09:658][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-16.13.09:658][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.05-16.13.09:658][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.05-16.13.09:661][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.05-16.13.09:661][299]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.05-16.13.09:661][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.05-16.13.09:661][299]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2026.02.05-16.13.09:661][299]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.05-16.13.09:665][299]LogLoad: Game class is 'PenGwynGameMode'
+[2026.02.05-16.13.09:672][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:672][299]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.13.09:673][299]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.13.09:673][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:674][299]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1303483301.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.13.09:674][299]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.13.09:674][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:674][299]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1288040300.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.13.09:675][299]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.13.09:675][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:675][299]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1280718299.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.13.09:675][299]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.13.09:676][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:676][299]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1219189298.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.13.09:676][299]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.13.09:677][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:677][299]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1098940296.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.13.09:677][299]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.13.09:677][299]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1311888302.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.13.09:686][299]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.02.05-16.13.09
+[2026.02.05-16.13.09:687][299]LogWorld: Bringing up level for play took: 0.021871
+[2026.02.05-16.13.09:691][299]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.02.05-16.13.09:692][299]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.02.05-16.13.09:692][299]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.02.05-16.13.09:692][299]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.02.05-16.13.09:695][299]PIE: Server logged in
+[2026.02.05-16.13.09:697][299]PIE: Play in editor total start time 0.172 seconds.
+[2026.02.05-16.13.11:857][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:857][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:858][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:858][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:858][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:858][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.11:858][447]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.13.23:400][238]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assitance Updated By fog wall
+[2026.02.05-16.13.25:411][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.13.25:411][375]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.13.25:411][375]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.05-16.13.25:412][375]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-16.13.25:417][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.13.25:418][375]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.02.05-16.13.25:425][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-16.13.25:431][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.13.25:458][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.05-16.13.25:458][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.05-16.13.25:458][375]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.05-16.13.25:464][375]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.05-16.13.25:469][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.13.25:475][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.02.05-16.13.25:535][376]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.02.05-16.13.33:449][115]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.13.33:449][115]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_1 via property Character, but REINST_BP_ThirdPersonCharacter_C_1 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_15:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_AshenTwo_C_1
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.13.33:480][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.05-16.13.49:047][812]LogStreaming: Display: FlushAsyncLoading(1217): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.05-16.14.57:809][370]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.14.57:809][370]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_2 via property Character, but REINST_BP_ThirdPersonCharacter_C_2 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_15:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_2.CharacterMesh0.ABP_AshenTwo_C_1
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.14.57:810][370]LogScript: Warning: Attempted to access BP_ThirdPersonCharacter_C_2 via property Character, but BP_ThirdPersonCharacter_C_2 is not valid (pending kill or garbage)
+	ABP_AshenTwo_C /Engine/Transient.World_14:PersistentLevel.BP_ThirdPersonCharacter_C_2.CharacterMesh0.ABP_AshenTwo_C_1
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:0319
+[2026.02.05-16.14.57:841][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.05-16.14.58:941][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-16.14.58:971][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.05-16.14.59:031][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.05-16.14.59:031][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.05-16.14.59:119][442]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.05-16.14.59:119][442]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_ThirdPersonCharacterA1ECAC264305C944EC11D0AD5B7E7B16.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.05-16.14.59:129][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.404 ms (total: 546.397 ms)
+[2026.02.05-16.14.59:162][442]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.05-16.14.59:162][442]LogContentValidation: Enabled validators:
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-16.14.59:162][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-16.14.59:162][442]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.05-16.15.13:940][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.05-16.15.13:951][940]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.05-16.15.13:951][940]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.02.05-16.15.13:954][940]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 3.200 ms (total: 27.068 ms)
+[2026.02.05-16.15.13:954][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.05-16.15.13:983][940]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.15.14:017][940]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.05-16.15.14:025][940]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.380 ms (total: 22.088 ms)
+[2026.02.05-16.15.14:025][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042560s)
+[2026.02.05-16.15.14:025][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.042608s)
+[2026.02.05-16.15.14:055][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.05-16.15.14:058][940]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.02.05-16.15.14:059][940]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.05-16.15.14:059][940]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.05-16.15.14:059][940]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.05-16.15.14:059][940]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.05-16.15.14:067][940]LogWorldPartition: Display: WorldPartition initialize took 8.616 ms (total: 1.67 sec)
+[2026.02.05-16.15.14:067][940]LogPlayLevel: PIE: World Init took: (0.010462s)
+[2026.02.05-16.15.14:068][940]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.05-16.15.14:068][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.05-16.15.14:068][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.05-16.15.14:068][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.05-16.15.14:068][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.05-16.15.14:068][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.05-16.15.14:070][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.05-16.15.14:090][940]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.02.05-16.15.14:090][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.05-16.15.14:090][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.05-16.15.14:090][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.05-16.15.14:092][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.05-16.15.14:092][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.05-16.15.14:094][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.05-16.15.14:094][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.05-16.15.14:094][940]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.05-16.15.14:094][940]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2026.02.05-16.15.14:094][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.05-16.15.14:098][940]LogLoad: Game class is 'PenGwynGameMode'
+[2026.02.05-16.15.14:106][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:106][940]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.15.14:106][940]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.15.14:107][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:107][940]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1303483301.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.15.14:107][940]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.15.14:108][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:108][940]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1288040300.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.15.14:108][940]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.15.14:109][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:109][940]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1280718299.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.15.14:109][940]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1219189298.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.02.05-16.15.14:110][940]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1098940296.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.05-16.15.14:110][940]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Dummy_C_UAID_D8BBC1D1494AC4B802_1311888302.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.02.05-16.15.14:119][940]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.02.05-16.15.14
+[2026.02.05-16.15.14:121][940]LogWorld: Bringing up level for play took: 0.022236
+[2026.02.05-16.15.14:125][940]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.02.05-16.15.14:126][940]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.02.05-16.15.14:126][940]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.02.05-16.15.14:127][940]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.02.05-16.15.14:130][940]PIE: Server logged in
+[2026.02.05-16.15.14:132][940]PIE: Play in editor total start time 0.18 seconds.
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.16:295][ 87]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.02.05-16.15.33:424][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.15.33:424][267]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.02.05-16.15.33:424][267]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.02.05-16.15.33:424][267]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-16.15.33:430][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.15.33:430][267]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.02.05-16.15.33:438][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.05-16.15.33:443][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.15.33:472][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.05-16.15.33:473][267]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.05-16.15.33:473][267]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.05-16.15.33:475][267]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.05-16.15.33:480][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.05-16.15.33:486][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.02.05-16.15.33:543][268]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.02.05-16.15.35:795][464]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.05-16.15.35:795][464]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.02.05-16.15.51:394][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector_C
+[2026.02.05-16.15.51:394][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector_C
+[2026.02.05-16.15.51:395][750]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector as actor: BP_End_Detector_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_End_Detector_C_0
+[2026.02.05-16.15.51:396][750]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector as actor: BP_End_Detector_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_End_Detector_C_0
+[2026.02.05-16.15.52:744][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.05-16.15.52:748][843]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.02.05-16.15.52:756][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector_C
+[2026.02.05-16.15.52:756][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector_C
+[2026.02.05-16.15.52:770][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector as actor: BP_End_Detector_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_End_Detector_C_UAID_D8BBC1D1494A34BC02_2057062176
+[2026.02.05-16.15.52:771][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector as actor: BP_End_Detector_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_End_Detector_C_UAID_D8BBC1D1494A34BC02_2057062176
+[2026.02.05-16.16.17:646][ 34]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.02.05-16.16.17:660][ 34]LogContentBrowser: Creating deferred item: NewWorld
+[2026.02.05-16.16.17:675][ 35]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.02.05-16.16.23:743][570]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2026.02.05-16.16.23:756][570]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld
+[2026.02.05-16.16.23:760][570]LogContentBrowser: End creating deferred item NewWorld
+[2026.02.05-16.16.25:690][704]LogObjectTools: Deleting 1 worlds: /Game/ThirdPerson/Maps/NewWorld.NewWorld
+[2026.02.05-16.16.25:691][704]LogObjectTools: Currently 18 active worlds: /Game/ThirdPerson/Maps/MainLevel.MainLevel, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16
+[2026.02.05-16.16.25:720][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.05-16.16.25:871][704]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.05-16.16.26:007][704]LogSlate: Took 0.134702 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.05-16.16.27:427][704]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.05-16.16.27:447][704]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2026.02.05-16.16.27:447][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.05-16.16.27:499][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.05-16.16.27:526][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.05-16.16.27:554][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.05-16.16.40:233][771]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.02.05-16.16.40:274][772]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.05-16.16.47:525][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/Enviroment/BP_End_Detector.BP_End_Detector
+[2026.02.05-16.16.47:526][347]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.05-16.17.43:491][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 944.794922
+[2026.02.05-16.17.43:658][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.05-16.17.43:658][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 944.954224, Update Interval: 337.563416
+[2026.02.05-16.18.40:644][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.05-16.18.41:405][276]LogSlate: Window 'Save Content' being destroyed
+[2026.02.05-16.18.41:418][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.05-16.18.41:496][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.05-16.18.41:521][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.05-16.18.41:546][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.05-16.18.41:550][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Enviroment/BP_End_Detector] ([2] browsable assets)...
+[2026.02.05-16.18.41:550][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Enviroment/BP_End_Detector]
+[2026.02.05-16.18.41:563][276]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/Enviroment/BP_End_Detector
+[2026.02.05-16.18.41:563][276]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_End_Detector5BB912D245365300A4B4C9B8B351A58C.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Enviroment/BP_End_Detector.uasset'
+[2026.02.05-16.18.41:571][276]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/9/DJ/GD3VM3AUPZ5UL7THO5I98O
+[2026.02.05-16.18.41:571][276]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/GD3VM3AUPZ5UL7THO5I98O85AEAB4F4F4A29884F0B74B4559ED128.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/9/DJ/GD3VM3AUPZ5UL7THO5I98O.uasset'
+[2026.02.05-16.18.41:580][276]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/0/E0/C5M1MV6JC0KNJ6IIKDCEDZ
+[2026.02.05-16.18.41:580][276]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/C5M1MV6JC0KNJ6IIKDCEDZB98CE4C447C86EF3279FE4A38CDEC684.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/0/E0/C5M1MV6JC0KNJ6IIKDCEDZ.uasset'
+[2026.02.05-16.18.41:587][276]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/5/AO/8TZ3TMUTW8D11OJGD466QT
+[2026.02.05-16.18.41:587][276]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/8TZ3TMUTW8D11OJGD466QT52EFC56847754A564D70089E45D7041F.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/5/AO/8TZ3TMUTW8D11OJGD466QT.uasset'
+[2026.02.05-16.18.41:595][276]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H
+[2026.02.05-16.18.41:595][276]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31H6960022141D9C64A74357A982BF0D4B4.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H.uasset'
+[2026.02.05-16.18.41:604][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.694 ms (total: 733.092 ms)
+[2026.02.05-16.18.41:635][276]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.05-16.18.41:635][276]LogContentValidation: Enabled validators:
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.05-16.18.41:635][276]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.05-16.18.41:635][276]AssetCheck: /Game/Experience/Blueprints/Enviroment/BP_End_Detector Validating asset
+[2026.02.05-16.18.41:635][276]AssetCheck: /Game/ThirdPerson/Maps/MainLevel Validating asset
+[2026.02.05-16.18.41:660][276]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.05-16.18.52:731][596]LogSlate: Window 'Message Log' being destroyed
+[2026.02.05-16.18.52:734][596]LogSlate: Window 'Message Log' being destroyed
+[2026.02.05-16.18.54:562][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms

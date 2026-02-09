@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 // ********** Begin Class APenGwynCharacter ********************************************************
 PENGWYN_API UClass* Z_Construct_UClass_APenGwynCharacter_NoRegister();
 
-#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPenGwynCharacter(); \
 	friend struct Z_Construct_UClass_APenGwynCharacter_Statics; \
@@ -31,7 +31,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<APenGwynCharacter*>(this); }
 
 
-#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	APenGwynCharacter(APenGwynCharacter&&) = delete; \
 	APenGwynCharacter(const APenGwynCharacter&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~APenGwynCharacter();
 
 
-#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_22_PROLOG
-#define FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_GENERATED_BODY \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_22_PROLOG
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
-	FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
+	FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_INCLASS_NO_PURE_DECLS \
+	FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class APenGwynCharacter;
 // ********** End Class APenGwynCharacter **********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h
+#define CURRENT_FILE_ID FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

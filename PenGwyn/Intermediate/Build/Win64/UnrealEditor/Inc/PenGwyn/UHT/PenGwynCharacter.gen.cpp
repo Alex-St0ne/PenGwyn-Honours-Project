@@ -276,14 +276,14 @@ APenGwynCharacter::~APenGwynCharacter() {}
 // ********** End Class APenGwynCharacter **********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics
+struct Z_CompiledInDeferFile_FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_APenGwynCharacter, APenGwynCharacter::StaticClass, TEXT("APenGwynCharacter"), &Z_Registration_Info_UClass_APenGwynCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APenGwynCharacter), 1745622205U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_2463578339(TEXT("/Script/PenGwyn"),
-	Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_2463578339(TEXT("/Script/PenGwyn"),
+	Z_CompiledInDeferFile_FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_PenGwynCharacter_h__Script_PenGwyn_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // ********** End Registration *********************************************************************

@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct FGameplayAttributeData;
 
 // ********** Begin Class UAshenAttributeSet *******************************************************
-#define FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnRep_Luck); \
 	DECLARE_FUNCTION(execOnRep_Faith); \
 	DECLARE_FUNCTION(execOnRep_Intelligence); \
@@ -35,7 +35,7 @@ struct FGameplayAttributeData;
 
 PENGWYN_API UClass* Z_Construct_UClass_UAshenAttributeSet_NoRegister();
 
-#define FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUAshenAttributeSet(); \
 	friend struct Z_Construct_UClass_UAshenAttributeSet_Statics; \
@@ -46,7 +46,7 @@ public: \
 	DECLARE_SERIALIZER(UAshenAttributeSet)
 
 
-#define FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UAshenAttributeSet(UAshenAttributeSet&&) = delete; \
 	UAshenAttributeSet(const UAshenAttributeSet&) = delete; \
@@ -56,13 +56,13 @@ public: \
 	NO_API virtual ~UAshenAttributeSet();
 
 
-#define FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_23_PROLOG
-#define FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_GENERATED_BODY \
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_23_PROLOG
+#define FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_INCLASS_NO_PURE_DECLS \
-	FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_ENHANCED_CONSTRUCTORS \
+	FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_INCLASS_NO_PURE_DECLS \
+	FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -72,6 +72,6 @@ class UAshenAttributeSet;
 // ********** End Class UAshenAttributeSet *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_PenGwyn_Source_PenGwyn_AshenAttributeSet_h
+#define CURRENT_FILE_ID FID_Users_2101501_Documents_GitHub_PenGwyn_Honours_Project_PenGwyn_Source_PenGwyn_AshenAttributeSet_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

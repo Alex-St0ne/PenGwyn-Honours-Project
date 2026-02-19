@@ -3062,6 +3062,14 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/Binaries/Win64/UnrealEditor-RawInput.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/RuntimeTelemetry/Binaries/Win64/UnrealEditor-RuntimeTelemetry.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -3263,6 +3271,18 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/IoStoreInsights/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Controllc83f5121d198V11/Binaries/Win64/UnrealEditor-WindowsDualsense_ds5w.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Controllc83f5121d198V11/Binaries/Win64/UnrealEditor-WindowsDualsense_ds5w.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Controllc83f5121d198V11/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -4079,6 +4099,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/Binaries/Win64/UnrealEditor-WinDualShock.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -28348,6 +28376,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/RawInput/RawInput.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/RuntimeTelemetry/RuntimeTelemetry.uplugin",
 			"Type": "UFS"
 		},
@@ -28401,6 +28433,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/IoStoreInsights/IoStoreInsights.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Controllc83f5121d198V11/WindowsDualsense_ds5w.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -28684,6 +28720,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Runtime/Windows/WinDualShock/WinDualShock.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Runtime/Windows/XInputDevice/XInputDevice.uplugin",
 			"Type": "UFS"
 		},
@@ -28884,6 +28924,7 @@
 		"PropertyBindingUtils",
 		"ProxyLODPlugin",
 		"PythonScriptPlugin",
+		"RawInput",
 		"RenderDocPlugin",
 		"RenderGraphInsights",
 		"ResonanceAudio",
@@ -28922,7 +28963,9 @@
 		"WaveTable",
 		"WebMMedia",
 		"WebMMoviePlayer",
+		"WinDualShock",
 		"WindowsDeviceProfileSelector",
+		"WindowsDualsense_ds5w",
 		"WindowsMoviePlayer",
 		"WmfMedia",
 		"WorldMetrics",

@@ -1,0 +1,31 @@
+{
+	"Stored Data":
+	{
+	},
+	"Saves": [
+		{
+			"Save ID": 0,
+			"Room ID": 0,
+			"Time Taken": 0,
+			"Potions Used": 3,
+			"Leaves Used": 0,
+			"Balm Used": 0,
+			"Average Health": 0,
+			"Num of Deaths": 0,
+			"Num of Attacks": 0,
+			"Num of Successfull Attacks": 0,
+			"Num of Rolls": 0,
+			"Num of Successfull Rolls": 0,
+			"Lock On Used": false,
+			"Time Lock On Used": 0,
+			"Average Time Blocking": 0,
+			"Num Of Attacks Blocked": 0,
+			"Num Of Times Damage Taken": 0,
+			"Num Of Times Item Assitance Used": 0,
+			"Num Of Enemy Attacks": 0,
+			"Num Of Enemy successfull Attacks": 0,
+			"Num of Remaining Enemies": 0,
+			"Average Health Of Enemies At Death": 0
+		}
+	]
+}

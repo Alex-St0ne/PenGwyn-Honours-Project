@@ -4321,3 +4321,471 @@ DiVsDt: 0.149985
 [2026.03.11-14.58.52:817][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.11-14.58.52:817][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.11-14.58.52:817][987]AssetCheck: /Game/ThirdPerson/Maps/MainLevel Validating asset
+[2026.03.11-15.00.16:358][361]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.11-15.00.20:279][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent.BPC_TargetLockOnComponent
+[2026.03.11-15.00.20:279][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.03.11-15.03.39:462][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9173.766602
+[2026.03.11-15.03.39:621][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.03.39:621][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9173.917969, Update Interval: 354.880219
+[2026.03.11-15.04.35:627][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.11-15.04.35:631][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.058
+[2026.03.11-15.04.35:635][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.04.35:635][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.04.35:688][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto9
+[2026.03.11-15.04.35:688][915]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponent_Auto95C045F544B989961B79EC78CF74027FC.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto9.uasset'
+[2026.03.11-15.04.35:689][915]LogFileHelpers: Auto-saving content packages took 0.057
+[2026.03.11-15.08.49:947][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.11-15.08.51:775][531]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.11-15.08.51:788][531]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.11-15.08.51:788][531]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.11-15.08.51:790][531]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.734 ms (total: 36.087 ms)
+[2026.03.11-15.08.51:791][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.11-15.08.51:791][531]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.11-15.08.51:829][531]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.11-15.08.51:837][531]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.444 ms (total: 68.713 ms)
+[2026.03.11-15.08.51:837][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045198s)
+[2026.03.11-15.08.51:837][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.045258s)
+[2026.03.11-15.08.51:870][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.11-15.08.51:876][531]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.11-15.08.51:878][531]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.11-15.08.51:878][531]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.11-15.08.51:878][531]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.11-15.08.51:878][531]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.11-15.08.51:888][531]LogWorldPartition: Display: WorldPartition initialize took 8.813 ms (total: 1.84 sec)
+[2026.03.11-15.08.51:888][531]LogPlayLevel: PIE: World Init took: (0.010736s)
+[2026.03.11-15.08.51:888][531]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.11-15.08.51:888][531]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.11-15.08.51:889][531]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.11-15.08.51:889][531]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.11-15.08.51:889][531]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.11-15.08.51:889][531]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.11-15.08.51:889][531]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.11-15.08.51:891][531]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.11-15.08.51:913][531]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.11-15.08.51:913][531]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.11-15.08.51:913][531]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.11-15.08.51:913][531]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.11-15.08.51:914][531]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.11-15.08.51:914][531]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.11-15.08.51:915][531]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.11-15.08.51:915][531]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.11-15.08.51:915][531]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainLevel'.
+[2026.03.11-15.08.51:915][531]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.11-15.08.51:915][531]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.11-15.08.51:928][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.11-15.08.51:928][531]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.11-15.08.51:941][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:941][531]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.11-15.08.51:941][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.11-15.08.51:969][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:969][531]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.11-15.08.51:969][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.11-15.08.51:993][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:993][531]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.08.51:993][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.08.51:994][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:994][531]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.08.51:994][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.08.51:995][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:995][531]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.08.51:995][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.08.51:996][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:996][531]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.08.51:996][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.08.51:996][531]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.51:996][531]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.08.51:996][531]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.08.52:004][531]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.11-15.08.52
+[2026.03.11-15.08.52:007][531]LogWorld: Bringing up level for play took: 0.077808
+[2026.03.11-15.08.52:012][531]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.03.11-15.08.52:012][531]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.11-15.08.52:013][531]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.11-15.08.52:013][531]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.11-15.08.52:014][531]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.11-15.08.52:019][531]PIE: Server logged in
+[2026.03.11-15.08.52:021][531]PIE: Play in editor total start time 0.233 seconds.
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.54:130][699]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.08.57:092][979]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.2
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 0.0
+DamageEff :0.0
+StaminaEff:0.0
+DiVsDt: 0.0
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.08.59:879][243]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 0
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 0
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.11-15.08.59:879][243]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.11-15.09.05:179][725]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.11-15.09.14:125][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.11-15.09.14:125][612]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.11-15.09.14:125][612]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.11-15.09.14:126][612]LogSlate: Window 'PenGwyn Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.11-15.09.14:131][612]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.11-15.09.14:137][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.11-15.09.14:137][612]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.11-15.09.14:139][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.11-15.09.14:144][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.11-15.09.14:180][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.11-15.09.14:181][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.11-15.09.14:181][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.03.11-15.09.14:183][612]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.03.11-15.09.14:196][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.11-15.09.14:229][613]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.03.11-15.10.19:945][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9574.469727
+[2026.03.11-15.10.20:945][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.10.20:945][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9575.135742, Update Interval: 311.649536
+[2026.03.11-15.13.01:601][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.11-15.13.02:143][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.11-15.13.02:168][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.13.02:168][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.13.02:214][939]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent
+[2026.03.11-15.13.02:215][939]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponent7D4B2D964AE616751AC014B2C73FB56E.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Components/BPC_TargetLockOnComponent.uasset'
+[2026.03.11-15.13.02:222][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.777 ms (total: 16.7 sec)
+[2026.03.11-15.13.02:247][939]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.11-15.13.02:247][939]LogContentValidation: Enabled validators:
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.11-15.13.02:247][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.11-15.13.02:247][939]AssetCheck: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent Validating asset
+[2026.03.11-15.13.59:845][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.11-15.16.29:950][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9944.813477
+[2026.03.11-15.16.30:168][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.16.30:169][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9945.024414, Update Interval: 304.997101
+[2026.03.11-15.17.01:001][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.11-15.17.01:004][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.040
+[2026.03.11-15.17.01:004][514]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.17.01:004][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.17.01:053][514]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto0
+[2026.03.11-15.17.01:053][514]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponent_Auto05C4D54E24CD542E9EE90E0AEEA0CA98D.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto0.uasset'
+[2026.03.11-15.17.01:053][514]LogFileHelpers: Auto-saving content packages took 0.049
+[2026.03.11-15.22.24:218][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10300.003906
+[2026.03.11-15.22.24:385][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.22.24:385][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10300.161133, Update Interval: 355.847046
+[2026.03.11-15.28.55:161][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10692.125000
+[2026.03.11-15.28.55:303][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.28.55:303][205]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10692.257812, Update Interval: 302.814423
+[2026.03.11-15.32.36:780][661]LogDerivedDataCache: C:/Users/2101501/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.11-15.34.35:635][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11033.170898
+[2026.03.11-15.34.36:631][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.34.36:631][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11033.835938, Update Interval: 324.018677
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 0 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 1 (IPv6: (none))
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 2 (IPv4: 100.49.131.47, 34.233.203.118, 54.225.137.74, 54.159.195.168, 3.230.124.190, 32.192.57.56, 34.207.83.110, 98.86.196.193)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 3 (  Trying 100.49.131.47:443...)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 4 (SSL reusing session)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 8 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 11 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 15 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 16 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384 / [blank] / UNDEF)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 17 (ALPN: server accepted http/1.1)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 18 (Server certificate:)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 19 ( subject: CN=sdiguard.abertay.ac.uk)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 20 ( start date: Sep 29 15:41:30 2025 GMT)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 21 ( expire date: Mar 27 22:59:00 2026 GMT)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 22 ( subjectAltName does not match hostname datarouter.ol.epicgames.com)
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 23 (SSL: no alternative certificate subject name matches target hostname 'datarouter.ol.epicgames.com')
+[2026.03.11-15.36.47:653][413]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 24 (closing connection #3)
+[2026.03.11-15.36.47:663][413]LogHttp: Warning: 0000024EEC42D900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D567B42-42E9-E311-8F72-B887A23FDB56%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2bb683784feac87e724dd0a66afee2c8%7Ced4ace41cb604ac1ba69110714634612%7C02b78399-fd0f-42be-afd2-d9557c44b246&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.12s
+[2026.03.11-15.37.47:666][593]LogHttp: Warning: 0000024EEC42D900: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 2 (IPv6: (none))
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 3 (IPv4: 3.234.107.122, 34.192.64.52, 34.207.121.16, 54.156.208.249, 44.218.253.132, 54.174.195.22, 52.22.131.108, 3.223.145.241)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 4 (  Trying 3.234.107.122:443...)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 8 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 11 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 15 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 16 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384 / [blank] / UNDEF)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 17 (ALPN: server accepted http/1.1)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 18 (Server certificate:)
+[2026.03.11-15.37.47:666][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 19 ( subject: CN=sdiguard.abertay.ac.uk)
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 20 ( start date: Sep 29 15:41:30 2025 GMT)
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 21 ( expire date: Mar 27 22:59:00 2026 GMT)
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 22 ( subjectAltName does not match hostname datarouter.ol.epicgames.com)
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 23 (SSL: no alternative certificate subject name matches target hostname 'datarouter.ol.epicgames.com')
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900: libcurl info message cache 24 (closing connection #4)
+[2026.03.11-15.37.47:667][594]LogHttp: Warning: 0000024EEC42D900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D567B42-42E9-E311-8F72-B887A23FDB56%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2bb683784feac87e724dd0a66afee2c8%7Ced4ace41cb604ac1ba69110714634612%7C02b78399-fd0f-42be-afd2-d9557c44b246&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.10s
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 2 (IPv6: (none))
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 3 (IPv4: 44.214.210.165, 18.235.102.224, 3.218.85.239, 34.199.240.205, 34.232.255.112, 100.26.103.41, 98.95.167.2, 54.173.251.78)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 4 (  Trying 44.214.210.165:443...)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.38.47:188][189]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 8 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 11 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 15 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 16 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384 / [blank] / UNDEF)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 17 (ALPN: server accepted http/1.1)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 18 (Server certificate:)
+[2026.03.11-15.38.47:188][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 19 ( subject: CN=sdiguard.abertay.ac.uk)
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 20 ( start date: Sep 29 15:41:30 2025 GMT)
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 21 ( expire date: Mar 27 22:59:00 2026 GMT)
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 22 ( subjectAltName does not match hostname datarouter.ol.epicgames.com)
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 23 (SSL: no alternative certificate subject name matches target hostname 'datarouter.ol.epicgames.com')
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900: libcurl info message cache 24 (closing connection #5)
+[2026.03.11-15.38.47:189][190]LogHttp: Warning: 0000024D3B696900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D567B42-42E9-E311-8F72-B887A23FDB56%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2bb683784feac87e724dd0a66afee2c8%7Ced4ace41cb604ac1ba69110714634612%7C02b78399-fd0f-42be-afd2-d9557c44b246&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.08s
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 2 (IPv6: (none))
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 3 (IPv4: 54.174.195.22, 34.207.121.16, 52.22.131.108, 3.219.251.152, 54.156.208.249, 100.55.124.12, 3.229.11.47, 3.223.145.241)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 4 (  Trying 54.174.195.22:443...)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.03.11-15.39.47:752][972]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 10 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 11 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 12 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 15 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 16 (SSL connection using TLSv1.3 / TLS_AES_256_GCM_SHA384 / [blank] / UNDEF)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 17 (ALPN: server accepted http/1.1)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 18 (Server certificate:)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 19 ( subject: CN=sdiguard.abertay.ac.uk)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 20 ( start date: Sep 29 15:41:30 2025 GMT)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 21 ( expire date: Mar 27 22:59:00 2026 GMT)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 22 ( subjectAltName does not match hostname datarouter.ol.epicgames.com)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 23 (SSL: no alternative certificate subject name matches target hostname 'datarouter.ol.epicgames.com')
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00: libcurl info message cache 24 (closing connection #6)
+[2026.03.11-15.39.47:752][973]LogHttp: Warning: 0000024DC9FE8C00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7D567B42-42E9-E311-8F72-B887A23FDB56%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=2bb683784feac87e724dd0a66afee2c8%7Ced4ace41cb604ac1ba69110714634612%7C02b78399-fd0f-42be-afd2-d9557c44b246&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 0.11s
+[2026.03.11-15.40.11:129][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.11-15.40.11:132][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.036
+[2026.03.11-15.40.11:133][ 42]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.40.11:133][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.40.11:182][ 42]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto1
+[2026.03.11-15.40.11:182][ 42]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponent_Auto1A99B05EA49E0FEE7709A6B8D6EDE4C26.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent_Auto1.uasset'
+[2026.03.11-15.40.11:183][ 42]LogFileHelpers: Auto-saving content packages took 0.050
+[2026.03.11-15.40.35:755][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11393.539062
+[2026.03.11-15.40.36:755][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.11-15.40.36:755][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11394.206055, Update Interval: 332.771393
+[2026.03.11-15.42.48:884][782]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.03.11-15.43.44:174][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.11-15.43.44:813][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.11-15.43.44:840][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.43.44:841][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.43.44:889][273]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent
+[2026.03.11-15.43.44:889][273]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponentCFFE6EDA47AE040763296BA12E65243C.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Components/BPC_TargetLockOnComponent.uasset'
+[2026.03.11-15.43.44:897][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.482 ms (total: 16.7 sec)
+[2026.03.11-15.43.44:917][273]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.11-15.43.44:917][273]LogContentValidation: Enabled validators:
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.11-15.43.44:917][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.11-15.43.44:917][273]AssetCheck: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent Validating asset
+[2026.03.11-15.45.05:866][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_1
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_1
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.06:864][917]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.11-15.45.06:865][917]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.06:865][917]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_1
+[2026.03.11-15.45.07:757][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.11-15.45.07:770][982]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.11-15.45.07:770][982]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.11-15.45.07:773][982]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 3.417 ms (total: 39.505 ms)
+[2026.03.11-15.45.07:773][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.11-15.45.07:805][982]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.11-15.45.07:840][982]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.11-15.45.07:847][982]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 7.504 ms (total: 76.217 ms)
+[2026.03.11-15.45.07:848][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042154s)
+[2026.03.11-15.45.07:848][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.042210s)
+[2026.03.11-15.45.07:879][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.11-15.45.07:884][982]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.11-15.45.07:886][982]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.11-15.45.07:886][982]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.11-15.45.07:886][982]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.11-15.45.07:886][982]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.11-15.45.07:895][982]LogWorldPartition: Display: WorldPartition initialize took 8.895 ms (total: 1.85 sec)
+[2026.03.11-15.45.07:895][982]LogPlayLevel: PIE: World Init took: (0.010594s)
+[2026.03.11-15.45.07:895][982]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.11-15.45.07:895][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.11-15.45.07:895][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.11-15.45.07:895][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.11-15.45.07:895][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.11-15.45.07:895][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.11-15.45.07:897][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.11-15.45.07:923][982]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.11-15.45.07:923][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.11-15.45.07:923][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.11-15.45.07:923][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.11-15.45.07:925][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.11-15.45.07:925][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.11-15.45.07:926][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.11-15.45.07:926][982]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.11-15.45.07:926][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.11-15.45.07:926][982]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainLevel'.
+[2026.03.11-15.45.07:926][982]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.11-15.45.07:933][982]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.11-15.45.07:943][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:943][982]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.11-15.45.07:943][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.11-15.45.07:969][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:969][982]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.11-15.45.07:969][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.11-15.45.07:993][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:993][982]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.45.07:993][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.45.07:994][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:994][982]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.45.07:994][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.45.07:994][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:994][982]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.45.07:994][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.45.07:995][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:995][982]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.45.07:995][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.45.07:996][982]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.07:996][982]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.11-15.45.07:996][982]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.11-15.45.08:004][982]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.11-15.45.08
+[2026.03.11-15.45.08:005][982]LogWorld: Bringing up level for play took: 0.072186
+[2026.03.11-15.45.08:009][982]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.03.11-15.45.08:011][982]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.11-15.45.08:011][982]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.11-15.45.08:011][982]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.11-15.45.08:013][982]PIE: Server logged in
+[2026.03.11-15.45.08:016][982]PIE: Play in editor total start time 0.245 seconds.
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.10:106][201]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.11-15.45.12:915][499]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 0.0
+DamageEff :0.0
+StaminaEff:0.0
+DiVsDt: 0.0
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.11-15.45.17:343][974]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 0
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 0
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.11-15.45.17:343][974]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 3
+[2026.03.11-15.45.22:709][523]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.11-15.45.24:720][748]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.11-15.45.27:596][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.11-15.45.27:596][ 46]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.11-15.45.27:596][ 46]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.11-15.45.27:597][ 46]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.11-15.45.27:603][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.11-15.45.27:603][ 46]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.11-15.45.27:605][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.11-15.45.27:609][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.11-15.45.27:643][ 46]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.11-15.45.27:643][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.11-15.45.27:643][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.03.11-15.45.27:646][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.03.11-15.45.27:649][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.11-15.45.27:655][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.11-15.45.27:710][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.03.11-15.45.29:465][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.11-15.45.30:151][225]LogSlate: Window 'Save Content' being destroyed
+[2026.03.11-15.45.30:177][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.11-15.45.30:193][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent] ([2] browsable assets)...
+[2026.03.11-15.45.30:193][225]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent]
+[2026.03.11-15.45.30:240][225]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent
+[2026.03.11-15.45.30:240][225]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BPC_TargetLockOnComponentDC4B4D484395B2AF860B128FB366C63E.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Components/BPC_TargetLockOnComponent.uasset'
+[2026.03.11-15.45.30:248][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.593 ms (total: 16.8 sec)
+[2026.03.11-15.45.30:268][225]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.11-15.45.30:268][225]LogContentValidation: Enabled validators:
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.11-15.45.30:268][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.11-15.45.30:268][225]AssetCheck: /Game/Experience/Blueprints/Components/BPC_TargetLockOnComponent Validating asset

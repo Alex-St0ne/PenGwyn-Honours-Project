@@ -1,2 +1,3 @@
-2026/02/10-15:11:22.368 39c8 Creating DB C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/02/10-15:11:22.384 39c8 Reusing MANIFEST C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/17-16:30:26.411 6eac Reusing MANIFEST C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/17-16:30:26.413 6eac Recovering log #3
+2026/03/17-16:30:26.414 6eac Reusing old log C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/webcache_4430\Local Storage\leveldb/000003.log 

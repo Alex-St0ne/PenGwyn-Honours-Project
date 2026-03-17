@@ -35484,3 +35484,43 @@ DiVsDt: 0.0
 [2026.03.17-16.50.08:297][548]LogFileHelpers: Auto-saving content packages took 0.079
 [2026.03.17-16.52.02:700][147]LogSlate: Window 'Find in Blueprints' being destroyed
 [2026.03.17-16.52.02:709][147]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.03.17-16.55.39:574][ 19]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18999.416016
+[2026.03.17-16.55.40:575][ 22]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.55.40:575][ 22]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19000.082031, Update Interval: 333.135773
+[2026.03.17-17.00.09:033][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.17-17.00.09:036][827]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.041
+[2026.03.17-17.00.09:037][827]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Enviroment/BP_MusicManager] ([2] browsable assets)...
+[2026.03.17-17.00.09:037][827]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Enviroment/BP_MusicManager]
+[2026.03.17-17.00.09:050][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Experience/Blueprints/Enviroment/BP_MusicManager_Auto0
+[2026.03.17-17.00.09:050][827]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BP_MusicManager_Auto07F87A8B34A5A154F343684B2406DBF39.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Experience/Blueprints/Enviroment/BP_MusicManager_Auto0.uasset'
+[2026.03.17-17.00.09:050][827]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.03.17-17.02.12:654][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19392.492188
+[2026.03.17-17.02.13:660][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-17.02.13:660][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19393.164062, Update Interval: 308.494507
+[2026.03.17-17.06.52:370][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.03.17-17.06.53:171][453]LogSlate: Window 'Save Content' being destroyed
+[2026.03.17-17.06.53:180][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.06.53:197][453]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Experience/Blueprints/Enviroment/BP_MusicManager] ([2] browsable assets)...
+[2026.03.17-17.06.53:198][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/Enviroment/BP_MusicManager]
+[2026.03.17-17.06.53:214][453]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/Enviroment/BP_MusicManager
+[2026.03.17-17.06.53:214][453]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BP_MusicManager487014534BA2AC44F562D1BC8532DB59.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Enviroment/BP_MusicManager.uasset'
+[2026.03.17-17.06.53:215][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Widgits/UI_AsistanceImage] ([2] browsable assets)...
+[2026.03.17-17.06.53:215][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgits/UI_AsistanceImage]
+[2026.03.17-17.06.53:224][453]LogSavePackage: Moving output files for package: /Game/UI/Widgits/UI_AsistanceImage
+[2026.03.17-17.06.53:224][453]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/UI_AsistanceImage26276E0E474513A2B55DA3B83F273B80.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_AsistanceImage.uasset'
+[2026.03.17-17.06.53:225][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Widgits/UI_PlayerCombat] ([2] browsable assets)...
+[2026.03.17-17.06.53:225][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgits/UI_PlayerCombat]
+[2026.03.17-17.06.53:261][453]LogSavePackage: Moving output files for package: /Game/UI/Widgits/UI_PlayerCombat
+[2026.03.17-17.06.53:261][453]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/UI_PlayerCombatA7F6896B4C983AA0ED45C592EC7745FF.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_PlayerCombat.uasset'
+[2026.03.17-17.06.53:268][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.193 ms (total: 9.33 sec)
+[2026.03.17-17.06.53:296][453]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.17-17.06.53:296][453]LogContentValidation: Enabled validators:
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.06.53:296][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.06.53:296][453]AssetCheck: /Game/Experience/Blueprints/Enviroment/BP_MusicManager Validating asset
+[2026.03.17-17.06.53:297][453]AssetCheck: /Game/UI/Widgits/UI_AsistanceImage Validating asset
+[2026.03.17-17.06.53:298][453]AssetCheck: /Game/UI/Widgits/UI_PlayerCombat Validating asset

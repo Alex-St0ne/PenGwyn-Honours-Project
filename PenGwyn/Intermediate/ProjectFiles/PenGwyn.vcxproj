@@ -252,6 +252,9 @@
     <None Include="..\..\PenGwyn.uproject"/>
     <None Include="..\..\Source\PenGwyn.Target.cs"/>
     <None Include="..\..\Source\PenGwynEditor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\RawLogData.json"/>
+    <None Include="..\..\SavedData.json"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

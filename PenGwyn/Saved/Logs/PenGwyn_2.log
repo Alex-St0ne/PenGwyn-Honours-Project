@@ -5824,3 +5824,376 @@ DiVsDt: 0.20831
 [2026.03.25-16.13.35:205][ 77]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
 [2026.03.25-16.13.35:205][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.03.25-16.13.35:361][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.25-16.14.10:113][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4328.331055
+[2026.03.25-16.14.11:114][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.14.11:114][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4328.996094, Update Interval: 313.171173
+[2026.03.25-16.19.36:304][471]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.25-16.19.47:304][514]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-16.19.47:304][514]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-16.19.47:399][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.25-16.19.57:623][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4675.809570
+[2026.03.25-16.19.57:802][458]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.19.57:802][458]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4675.979004, Update Interval: 349.778748
+[2026.03.25-16.20.55:163][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.25-16.20.55:186][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.064
+[2026.03.25-16.20.55:186][204]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-16.20.55:244][204]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-16.20.55:244][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-16.20.55:487][204]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto5
+[2026.03.25-16.20.55:488][204]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto5169DD7F4485FE58088A1768F4A4D0F63.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto5.uasset'
+[2026.03.25-16.20.55:489][204]LogFileHelpers: Auto-saving content packages took 0.303
+[2026.03.25-16.23.23:637][574]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-16.23.23:637][574]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-16.23.23:733][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.25-16.26.15:925][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.03.25-16.26.15:974][715]LogScript: Warning: Accessed None trying to read (real) property BPC_TargetLockOnComponent in BP_ThirdPersonCharacter_C
+	ABP_AshenTwo_C /Engine/Transient.World_31:PersistentLevel.BP_ThirdPersonCharacter_C_2.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:03EE
+[2026.03.25-16.26.25:035][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5063.226074
+[2026.03.25-16.26.25:193][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.26.25:193][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5063.375977, Update Interval: 355.186005
+[2026.03.25-16.27.03:858][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.25-16.27.03:906][ 10]LogScript: Warning: Accessed None trying to read (real) property BPC_TargetLockOnComponent in BP_ThirdPersonCharacter_C
+	ABP_AshenTwo_C /Engine/Transient.World_31:PersistentLevel.BP_ThirdPersonCharacter_C_3.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:03EE
+[2026.03.25-16.27.04:533][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-16.27.04:563][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.25-16.27.04:640][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.25-16.27.04:640][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.25-16.27.04:812][ 32]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.25-16.27.04:813][ 32]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_ThirdPersonCharacterA9A928314257FF04454EF7A118DFD2D1.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.25-16.27.04:822][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.551 ms (total: 3.11 sec)
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: Enabled validators:
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-16.27.04:856][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-16.27.04:856][ 32]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.25-16.27.56:764][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-16.27.56:800][576]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-16.27.56:888][576]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-16.27.56:888][576]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-16.27.56:888][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-16.27.57:130][576]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-16.27.57:131][576]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistantF8691AD54FD953908909098E7343D550.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-16.27.57:143][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 378.826 ms (total: 3.49 sec)
+[2026.03.25-16.27.57:172][576]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-16.27.57:172][576]LogContentValidation: Enabled validators:
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-16.27.57:172][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-16.27.57:173][576]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-16.30.55:525][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.25-16.30.55:546][727]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto6
+[2026.03.25-16.30.55:547][727]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31H_Auto66820CB33420527D9B907B59D2E6975CD.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto6.uasset'
+[2026.03.25-16.30.55:548][727]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.072
+[2026.03.25-16.30.55:548][727]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2026.03.25-16.33.11:285][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5469.449707
+[2026.03.25-16.33.11:445][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.33.11:446][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5469.601074, Update Interval: 351.659302
+[2026.03.25-16.39.42:419][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5860.591309
+[2026.03.25-16.39.42:609][504]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.39.42:609][504]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5860.771973, Update Interval: 308.853424
+[2026.03.25-16.45.46:543][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6224.741699
+[2026.03.25-16.45.46:711][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.45.46:711][ 25]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6224.900879, Update Interval: 352.056641
+[2026.03.25-16.52.28:359][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6626.536133
+[2026.03.25-16.52.28:634][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.52.28:634][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6626.803711, Update Interval: 349.304474
+[2026.03.25-16.58.59:357][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7017.553711
+[2026.03.25-16.58.59:550][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.58.59:550][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7017.736816, Update Interval: 332.244019
+[2026.03.25-17.03.15:822][465]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-17.05.22:781][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7400.963379
+[2026.03.25-17.05.23:120][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7401.238281
+[2026.03.25-17.05.23:197][689]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1019657875
+[2026.03.25-17.05.23:197][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7401.238281, Update Interval: 354.257629
+[2026.03.25-17.11.17:322][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7755.504395
+[2026.03.25-17.11.17:498][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.11.17:498][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7755.672363, Update Interval: 327.796265
+[2026.03.25-17.16.47:607][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8085.770508
+[2026.03.25-17.16.47:782][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.16.47:782][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8085.936523, Update Interval: 308.507324
+[2026.03.25-17.22.04:008][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8402.439453
+[2026.03.25-17.22.04:164][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.22.04:164][900]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8402.587891, Update Interval: 303.891113
+[2026.03.25-17.27.23:440][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8722.285156
+[2026.03.25-17.27.23:704][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.27.23:704][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8722.539062, Update Interval: 336.808990
+[2026.03.25-17.33.23:609][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9082.759766
+[2026.03.25-17.33.23:886][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.33.23:886][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9083.027344, Update Interval: 346.235535
+[2026.03.25-17.39.56:762][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9475.744141
+[2026.03.25-17.39.56:946][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.39.56:946][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9475.918945, Update Interval: 337.015900
+[2026.03.25-17.46.13:621][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9852.407227
+[2026.03.25-17.46.13:816][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.46.13:816][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9852.592773, Update Interval: 314.410828
+[2026.03.25-17.48.00:676][389]LogSlate: Took 0.009475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.25-17.50.59:731][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2026.03.25-17.50.59:744][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.142
+[2026.03.25-17.50.59:745][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-17.50.59:895][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-17.50.59:895][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-17.51.00:173][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto7
+[2026.03.25-17.51.00:174][850]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto74A93CA1F4BBF58367265528490DBC946.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto7.uasset'
+[2026.03.25-17.51.00:175][850]LogFileHelpers: Auto-saving content packages took 0.431
+[2026.03.25-17.52.20:587][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10219.304688
+[2026.03.25-17.52.20:938][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.52.20:938][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10219.643555, Update Interval: 355.391083
+[2026.03.25-17.59.12:245][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10630.995117
+[2026.03.25-17.59.12:449][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-17.59.12:449][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10631.191406, Update Interval: 354.596405
+[2026.03.25-18.01.56:410][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.25-18.01.56:423][735]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.066
+[2026.03.25-18.01.56:423][735]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.01.56:544][735]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.01.56:544][735]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.01.56:790][735]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto8
+[2026.03.25-18.01.56:790][735]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto8F0D175D14E904543284468B04673EBAF.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto8.uasset'
+[2026.03.25-18.01.56:791][735]LogFileHelpers: Auto-saving content packages took 0.369
+[2026.03.25-18.03.15:823][680]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-18.05.57:515][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11036.175781
+[2026.03.25-18.05.57:706][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.05.57:706][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11036.347656, Update Interval: 355.922119
+[2026.03.25-18.12.31:552][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11430.300781
+[2026.03.25-18.12.31:709][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.12.31:709][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11430.447266, Update Interval: 338.464294
+[2026.03.25-18.12.41:456][ 16]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.12.41:456][ 16]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.12.41:588][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.25-18.12.49:267][628]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.12.49:267][628]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.12.49:381][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.25-18.15.18:616][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.25-18.15.18:640][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto9
+[2026.03.25-18.15.18:641][391]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31H_Auto9242F9AFF40A2EDB9044FCE8270083688.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto9.uasset'
+[2026.03.25-18.15.18:642][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.071
+[2026.03.25-18.15.18:642][391]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2026.03.25-18.15.18:643][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.15.18:721][391]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.15.18:721][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.15.18:972][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto9
+[2026.03.25-18.15.18:973][391]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto9CE24FF2C4054795BEB102A9712FE274E.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto9.uasset'
+[2026.03.25-18.15.18:974][391]LogFileHelpers: Auto-saving content packages took 0.332
+[2026.03.25-18.16.54:745][ 95]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.16.54:745][ 95]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.16.54:842][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.25-18.16.55:817][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.16.55:849][135]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.16.55:898][135]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.16.55:898][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.16.55:898][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-18.16.56:140][135]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-18.16.56:141][135]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant1333D8A746E9CF12DB83EA9D489E8485.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-18.16.56:151][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.447 ms (total: 3.82 sec)
+[2026.03.25-18.16.56:186][135]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.16.56:186][135]LogContentValidation: Enabled validators:
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.16.56:186][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.16.56:187][135]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-18.19.01:573][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11820.367188
+[2026.03.25-18.19.02:574][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.19.02:574][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11821.033203, Update Interval: 345.550720
+[2026.03.25-18.20.28:877][140]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.20.28:877][140]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.20.28:982][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.25-18.20.29:820][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.20.29:851][164]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.20.29:913][164]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.20.29:913][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.20.29:913][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-18.20.30:162][164]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-18.20.30:162][164]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistantDDDCAFA74FD5FE25FB414CB34EFD0931.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-18.20.30:173][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 353.016 ms (total: 4.18 sec)
+[2026.03.25-18.20.30:206][164]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.20.30:206][164]LogContentValidation: Enabled validators:
+[2026.03.25-18.20.30:206][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.20.30:206][164]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.20.30:206][164]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.20.30:207][164]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.20.30:207][164]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.20.30:207][164]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.20.30:207][164]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-18.25.41:675][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12220.469727
+[2026.03.25-18.25.41:836][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.25.41:837][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12220.621094, Update Interval: 345.193634
+[2026.03.25-18.26.11:664][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.25-18.26.11:687][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto0
+[2026.03.25-18.26.11:687][598]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31H_Auto05233D64944830269C47B04866357755B.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H_Auto0.uasset'
+[2026.03.25-18.26.11:688][598]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.073
+[2026.03.25-18.26.11:688][598]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.073
+[2026.03.25-18.31.20:052][869]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Add_DoubleDouble' [The specified module could not be found.]
+[2026.03.25-18.32.02:247][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12601.083008
+[2026.03.25-18.32.02:423][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.32.02:423][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12601.248047, Update Interval: 347.167572
+[2026.03.25-18.34.01:676][784]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.34.01:676][784]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.34.01:791][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.25-18.34.02:659][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.34.02:689][804]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.34.02:745][804]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.34.02:746][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.34.02:746][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-18.34.02:994][804]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-18.34.02:995][804]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant21ECD6AE4E5889A0EB7C07BBE8B484CA.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-18.34.03:007][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.401 ms (total: 4.52 sec)
+[2026.03.25-18.34.03:041][804]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.34.03:041][804]LogContentValidation: Enabled validators:
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.34.03:041][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.34.03:041][804]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-18.34.04:682][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.25-18.34.06:800][933]LogSlate: Window 'Save Content' being destroyed
+[2026.03.25-18.34.06:817][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.34.06:855][933]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H
+[2026.03.25-18.34.06:855][933]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31HF5A070954C071F64D993BE8A6C4F8FB5.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H.uasset'
+[2026.03.25-18.34.06:866][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.619 ms (total: 4.57 sec)
+[2026.03.25-18.34.06:900][933]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.34.06:900][933]LogContentValidation: Enabled validators:
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.34.06:900][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.34.06:900][933]AssetCheck: /Game/ThirdPerson/Maps/MainLevel Validating asset
+[2026.03.25-18.37.12:270][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.25-18.37.12:284][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.059
+[2026.03.25-18.37.12:284][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.37.12:364][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.37.12:364][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.37.12:624][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto1
+[2026.03.25-18.37.12:625][384]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto1AE4FE5984EA76E22D5D9CDBE578C75BC.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto1.uasset'
+[2026.03.25-18.37.12:625][384]LogFileHelpers: Auto-saving content packages took 0.342
+[2026.03.25-18.38.44:616][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13003.435547
+[2026.03.25-18.38.44:895][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.38.44:895][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13003.706055, Update Interval: 313.422028
+[2026.03.25-18.44.56:305][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13375.167969
+[2026.03.25-18.44.56:468][373]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.44.56:468][373]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13375.317383, Update Interval: 342.254700
+[2026.03.25-18.45.15:106][878]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.45.15:106][878]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.45.15:237][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.25-18.45.15:957][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-18.45.16:000][893]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.45.16:059][893]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.45.16:059][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.45.16:059][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-18.45.16:315][893]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-18.45.16:315][893]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant60E65DCA47800D4156CFAD9A7919236E.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-18.45.16:325][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 369.059 ms (total: 4.94 sec)
+[2026.03.25-18.45.16:358][893]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-18.45.16:359][893]LogContentValidation: Enabled validators:
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-18.45.16:359][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-18.45.16:359][893]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-18.50.55:913][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.25-18.50.55:929][531]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.074
+[2026.03.25-18.50.55:930][531]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-18.50.55:988][531]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-18.50.55:988][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-18.50.56:252][531]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto2
+[2026.03.25-18.50.56:252][531]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto2E946F4C6400E878EAB92C991760A9641.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto2.uasset'
+[2026.03.25-18.50.56:253][531]LogFileHelpers: Auto-saving content packages took 0.324
+[2026.03.25-18.51.19:947][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13758.855469
+[2026.03.25-18.51.20:125][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.51.20:125][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13759.020508, Update Interval: 320.050659
+[2026.03.25-18.56.12:541][324]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.56.12:541][324]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.56.12:656][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.25-18.57.19:661][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14118.782227
+[2026.03.25-18.57.19:820][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-18.57.19:820][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14118.928711, Update Interval: 335.047455
+[2026.03.25-18.57.33:531][607]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.57.33:531][607]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.57.33:636][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.25-18.59.19:921][347]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-18.59.19:921][347]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-18.59.20:033][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.25-19.01.34:582][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.25-19.01.34:594][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.060
+[2026.03.25-19.01.34:595][684]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-19.01.34:646][684]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-19.01.34:646][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-19.01.34:905][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto3
+[2026.03.25-19.01.34:905][684]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant_Auto309B047EA46F15893CECA1CA82E92734D.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/AssistiveControlScheme/BP_PenGwynAssistant_Auto3.uasset'
+[2026.03.25-19.01.34:906][684]LogFileHelpers: Auto-saving content packages took 0.312
+[2026.03.25-19.03.15:824][762]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-19.03.32:048][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14491.352539
+[2026.03.25-19.03.32:232][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-19.03.32:232][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14491.524414, Update Interval: 332.736603
+[2026.03.25-19.06.06:165][390]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-19.06.06:165][390]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-19.06.06:271][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.25-19.06.07:263][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-19.06.07:292][424]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-19.06.07:348][424]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-19.06.07:348][424]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-19.06.07:348][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-19.06.07:608][424]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-19.06.07:608][424]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant8FBD5C354611519B031A68BBE22EFF48.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-19.06.07:618][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 355.436 ms (total: 5.30 sec)
+[2026.03.25-19.06.07:652][424]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-19.06.07:652][424]LogContentValidation: Enabled validators:
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-19.06.07:652][424]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-19.06.07:652][424]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.25-19.09.36:709][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14856.003906
+[2026.03.25-19.09.36:890][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-19.09.36:890][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14856.177734, Update Interval: 300.109863
+[2026.03.25-19.13.26:873][614]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.25-19.13.26:873][614]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.25-19.13.26:997][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2026.03.25-19.13.27:679][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-19.13.27:725][624]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.25-19.13.27:807][624]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.25-19.13.27:807][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.25-19.13.27:807][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AssistiveControlScheme/BP_PenGwynAssistant" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset" SILENT=true
+[2026.03.25-19.13.28:074][624]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.25-19.13.28:075][624]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant76DA30114C4F9BA8B85164B27DB13786.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.25-19.13.28:085][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 405.887 ms (total: 5.70 sec)
+[2026.03.25-19.13.28:117][624]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-19.13.28:117][624]LogContentValidation: Enabled validators:
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-19.13.28:117][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-19.13.28:117][624]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset

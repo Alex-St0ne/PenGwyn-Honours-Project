@@ -4432,3 +4432,1395 @@ DiVsDt: 0.0
 [2026.03.25-15.56.45:121][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3283.332520
 [2026.03.25-15.56.46:119][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.25-15.56.46:119][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3283.999268, Update Interval: 302.669769
+[2026.03.25-15.58.29:686][482]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Dummy.BP_Enemy_Dummy
+[2026.03.25-15.58.29:687][482]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.03.25-15.58.32:188][657]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-15.58.32:188][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-15.58.32:247][657]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Dummy.BP_Enemy_Dummy
+[2026.03.25-15.58.32:248][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.03.25-15.58.32:869][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.25-15.58.50:236][ 33]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-15.58.50:236][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-15.58.50:370][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.25-15.58.54:146][395]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.03.25-15.58.54:156][395]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-15.58.54:156][395]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Engine/Transient.World_49:PersistentLevel.BP_Enemy_Light_C_0.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-15.58.54:219][396]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.03.25-15.58.54:228][396]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-15.58.54:228][396]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-15.58.54:249][397]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.03.25-15.58.54:273][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.03.25-15.58.56:191][540]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Heavy.BP_Enemy_Heavy
+[2026.03.25-15.58.56:191][540]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.03.25-15.58.56:779][540]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-15.58.56:779][540]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-15.58.58:430][619]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-15.58.58:430][619]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-15.59.20:321][862]LogShaderCompilers: Display: ================================================
+[2026.03.25-15.59.20:321][862]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.25-15.59.20:321][862]LogShaderCompilers: Display: Total job queries 733, among them cache hits 77 (10.50%), DDC hits 588 (80.22%), Duplicates 53 (7.23%)
+[2026.03.25-15.59.20:321][862]LogShaderCompilers: Display: Tracking 603 distinct input hashes that result in 453 distinct outputs (75.12%)
+[2026.03.25-15.59.20:323][862]LogShaderCompilers: Display: RAM used: 5.54 MiB of 819.20 MiB budget. Usage: 0.68%
+[2026.03.25-15.59.20:323][862]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.25-15.59.20:323][862]LogShaderCompilers: Display: Shaders Compiled: 15
+[2026.03.25-15.59.20:323][862]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Time job spent in pending queue: average 1.61 s, longest 7.43 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Job execution time: average 6.01 s, max 7.72 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Job life time (pending + execution): average 7.61 s, max 8.34
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Shader code size: total 138.492 KiB, numShaders 18, average 7.693 KiB, min 1.77 KiB, max 16.117 KiB
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.37 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Average processing rate: 1.79 jobs/sec
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Total thread time: 7.743 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Total thread preprocess time: 11.86 s
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Percentage time preprocessing: 153.17%
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Effective parallelization: 0.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.077103
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.63 sec, max 0.69 sec, min 0.56 sec)
+[2026.03.25-15.59.20:324][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.57 sec, max 0.59 sec, min 0.56 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.44 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:                                                  FVelocityPS - 16.15% of total time (compiled    2 times, average 0.63 sec, max 0.69 sec, min 0.56 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.85% of total time (compiled    2 times, average 0.57 sec, max 0.59 sec, min 0.56 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.58% of total time (compiled    2 times, average 0.49 sec, max 0.54 sec, min 0.44 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 11.70% of total time (compiled    2 times, average 0.45 sec, max 0.49 sec, min 0.41 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 8.55% of total time (compiled    2 times, average 0.33 sec, max 0.46 sec, min 0.21 sec)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: === Material stats ===
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Materials Translated:    206
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Material Translation Only: 0.08 s (28%)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: Material Cache Hits: 54 (26%)
+[2026.03.25-15.59.20:325][862]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.01.17:928][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.03.25-16.01.57:259][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:259][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:262][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:262][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:264][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:264][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:266][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:266][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:267][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:267][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:268][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:268][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:269][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:269][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:270][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:270][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.57:289][994]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.57:289][994]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.58:656][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.25-16.01.58:673][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:673][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:675][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:675][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:676][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:676][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:676][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:676][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:677][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:677][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:678][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:678][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:679][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:679][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:679][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:679][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:680][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:680][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.58:691][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:691][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:691][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:691][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:692][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:692][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:693][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:693][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:694][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:694][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:695][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:695][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.01.58:696][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:696][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.58:697][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:697][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.01.58:931][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.01.58:932][ 99]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Total job queries 765, among them cache hits 77 (10.07%), DDC hits 588 (76.86%), Duplicates 53 (6.93%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Tracking 635 distinct input hashes that result in 473 distinct outputs (74.49%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: RAM used: 5.72 MiB of 819.20 MiB budget. Usage: 0.70%
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Shaders Compiled: 47
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Jobs assigned 47, completed 47 (100%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Average time worker was idle: 46.11 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Time job spent in pending queue: average 0.86 s, longest 7.43 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Job execution time: average 3.08 s, max 7.72 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Job life time (pending + execution): average 3.94 s, max 8.34
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Shader code size: total 468.703 KiB, numShaders 54, average 8.68 KiB, min 1.77 KiB, max 17.207 KiB
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.16 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Jobs were issued in 47 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Average processing rate: 3.10 jobs/sec
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Total thread time: 19.785 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Total thread preprocess time: 12.292 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Percentage time preprocessing: 62.13%
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.108784
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.49 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    6 times, average 0.42 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                                  FVelocityPS - 17.54% of total time (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.75% of total time (compiled    6 times, average 0.49 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.64% of total time (compiled    6 times, average 0.42 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 11.03% of total time (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 9.93% of total time (compiled    6 times, average 0.33 sec, max 0.46 sec, min 0.21 sec)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: === Material stats ===
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Materials Translated:    206
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Material Translation Only: 0.08 s (28%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: Material Cache Hits: 54 (26%)
+[2026.03.25-16.02.20:283][ 14]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.02.23:461][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.25-16.02.23:522][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/48/OCS548FHQ95W38P95H8I4L_Auto4
+[2026.03.25-16.02.23:522][279]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/OCS548FHQ95W38P95H8I4L_Auto4A537E58A46C92133D0B8B88BEB6B4D6C.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/48/OCS548FHQ95W38P95H8I4L_Auto4.uasset'
+[2026.03.25-16.02.23:531][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/9O/IQF51373ZCZL10UKGXS48A_Auto4
+[2026.03.25-16.02.23:531][279]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/IQF51373ZCZL10UKGXS48A_Auto442EF41D042FF950BFC17B096D5C4DDB4.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/9O/IQF51373ZCZL10UKGXS48A_Auto4.uasset'
+[2026.03.25-16.02.23:532][279]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainLevel' took 0.116
+[2026.03.25-16.02.23:532][279]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2026.03.25-16.02.23:532][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Experience/Blueprints/AI/BP_Enemy_Heavy] ([2] browsable assets)...
+[2026.03.25-16.02.23:533][279]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2026.03.25-16.02.23:539][279]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.02.23:539][279]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.02.23:549][279]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Experience/Blueprints/AI/BP_Enemy_Heavy.BP_Enemy_Heavy_C]
+[2026.03.25-16.02.23:555][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Heavy.BP_Enemy_Heavy]
+[2026.03.25-16.02.23:555][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/AI/BP_Enemy_Heavy]
+[2026.03.25-16.02.23:572][279]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Experience/Blueprints/AI/BP_Enemy_Heavy_Auto4
+[2026.03.25-16.02.23:572][279]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_Enemy_Heavy_Auto4D7C2899345324F1AE66B9AA5D7179C4A.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Experience/Blueprints/AI/BP_Enemy_Heavy_Auto4.uasset'
+[2026.03.25-16.02.23:572][279]LogFileHelpers: Auto-saving content packages took 0.040
+[2026.03.25-16.02.25:252][415]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3623.459229
+[2026.03.25-16.02.25:420][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.02.25:420][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3623.616943, Update Interval: 305.372467
+[2026.03.25-16.03.15:867][ 60]LogDerivedDataCache: C:/Users/alex/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.046 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-16.03.54:039][648]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.25-16.03.54:055][648]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.25-16.03.54:055][648]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.25-16.03.54:058][648]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 3.323 ms (total: 61.570 ms)
+[2026.03.25-16.03.54:058][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.25-16.03.54:058][648]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.03.54:098][648]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.25-16.03.54:107][648]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.294 ms (total: 115.005 ms)
+[2026.03.25-16.03.54:107][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047671s)
+[2026.03.25-16.03.54:107][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.047704s)
+[2026.03.25-16.03.54:141][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.25-16.03.54:144][648]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.25-16.03.54:146][648]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.25-16.03.54:146][648]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.25-16.03.54:146][648]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.25-16.03.54:146][648]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.25-16.03.54:156][648]LogWorldPartition: Display: WorldPartition initialize took 9.309 ms (total: 4.01 sec)
+[2026.03.25-16.03.54:156][648]LogPlayLevel: PIE: World Init took: (0.011110s)
+[2026.03.25-16.03.54:156][648]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.25-16.03.54:156][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.25-16.03.54:156][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.25-16.03.54:156][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.25-16.03.54:156][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.25-16.03.54:156][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.25-16.03.54:159][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.25-16.03.54:174][648]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.03.25-16.03.54:174][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.25-16.03.54:174][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.25-16.03.54:174][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.25-16.03.54:174][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.03.25-16.03.54:174][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.03.25-16.03.54:178][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.03.25-16.03.54:178][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.03.25-16.03.54:178][648]LogInit: FAudioDevice initialized with ID 15.
+[2026.03.25-16.03.54:178][648]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2026.03.25-16.03.54:178][648]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.25-16.03.54:205][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.03.54:220][648]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.25-16.03.54:228][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:228][648]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.03.54:228][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.03.54:230][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:230][648]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.03.54:230][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.03.54:234][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:234][648]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.03.54:235][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.03.54:235][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:235][648]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.03.54:235][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.03.54:236][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:236][648]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.03.54:236][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.03.54:236][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:236][648]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.03.54:236][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.03.54:266][648]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.03.54:266][648]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.03.54:266][648]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.03.54:300][648]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.25-16.03.54
+[2026.03.25-16.03.54:303][648]LogWorld: Bringing up level for play took: 0.083117
+[2026.03.25-16.03.54:308][648]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.03.25-16.03.54:311][648]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.25-16.03.54:335][648]PIE: Server logged in
+[2026.03.25-16.03.54:339][648]PIE: Play in editor total start time 0.284 seconds.
+[2026.03.25-16.03.54:763][650]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.03.54:971][651]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.25-16.03.54:971][651]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.03.56:405][724]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 0.0
+DamageEff :0.0
+StaminaEff:0.0
+DiVsDt: 0.0
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.02:300][ 19]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 0
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 0
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.04.02:300][ 19]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.04.08:120][298]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.25-16.04.13:649][582]LogBlueprintUserMessages: [BPC_StatusComponent] -0.983459
+[2026.03.25-16.04.13:649][582]LogBlueprintUserMessages: [BPC_StatusComponent] Back
+[2026.03.25-16.04.13:649][582]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.13:649][582]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.04.13:649][582]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.04.14:913][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.18:836][851]LogBlueprintUserMessages: [BPC_StatusComponent] 0.941653
+[2026.03.25-16.04.18:836][851]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.18:836][851]LogBlueprintUserMessages: [BPC_StatusComponent] 0.2
+[2026.03.25-16.04.18:836][851]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.04.19:569][889]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 1.9
+[2026.03.25-16.04.20:222][923]LogBlueprintUserMessages: [BPC_StatusComponent] 0.992203
+[2026.03.25-16.04.20:222][923]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.20:222][923]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.20:222][923]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.04.20:222][923]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.04.21:512][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.22:162][ 22]LogBlueprintUserMessages: [BPC_StatusComponent] 0.994256
+[2026.03.25-16.04.22:162][ 22]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.22:162][ 22]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.22:162][ 22]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.04.22:162][ 22]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.04.23:174][ 74]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.24:046][119]LogBlueprintUserMessages: [BPC_StatusComponent] 0.99493
+[2026.03.25-16.04.24:046][119]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.24:046][119]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.24:046][119]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.04.24:046][119]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Dead
+[2026.03.25-16.04.25:303][184]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 7.134014
+DamageEff :6.234414
+StaminaEff:0.149975
+DiVsDt: 0.749625
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.04.28:855][373]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 1
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 3
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.04.28:855][373]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.04.29:055][384]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.25-16.04.29:550][412]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.30:050][441]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.30:556][471]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.31:047][501]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.31:544][532]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.32:056][563]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.32:551][594]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.33:053][625]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.33:548][656]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.34:050][687]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.34:558][719]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.35:046][749]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.35:555][781]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.36:043][811]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.36:302][826]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1871599531] Player collided with rerspawn point
+[2026.03.25-16.04.36:560][842]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.37:058][871]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.37:552][900]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.38:049][929]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.38:559][958]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.39:052][983]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.39:561][  8]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.40:052][ 32]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.40:551][ 57]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.41:044][ 81]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.41:549][106]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.04.42:687][161]LogBlueprintUserMessages: [BPC_StatusComponent] -0.765354
+[2026.03.25-16.04.42:687][161]LogBlueprintUserMessages: [BPC_StatusComponent] Back
+[2026.03.25-16.04.42:687][161]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.42:687][161]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.04.42:687][161]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.04.42:687][161]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.04.42:687][161]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.04.43:084][180]LogBlueprintUserMessages: [BPC_StatusComponent] 0.922663
+[2026.03.25-16.04.43:084][180]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.43:084][180]LogBlueprintUserMessages: [BPC_StatusComponent] 0.15
+[2026.03.25-16.04.43:084][180]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.04.43:831][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.04.43:952][222]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input buffering
+[2026.03.25-16.04.44:320][240]LogBlueprintUserMessages: [BPC_StatusComponent] 0.929062
+[2026.03.25-16.04.44:320][240]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.44:320][240]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.44:320][240]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.04.44:320][240]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.04.44:320][240]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.04.44:320][240]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.04.45:370][291]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.47:501][393]LogBlueprintUserMessages: [BPC_StatusComponent] 0.816352
+[2026.03.25-16.04.47:501][393]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.47:501][393]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.47:501][393]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.04.47:501][393]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.04.47:501][393]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.04.47:501][393]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.04.48:809][455]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.50:091][514]LogBlueprintUserMessages: [BPC_StatusComponent] 0.90904
+[2026.03.25-16.04.50:091][514]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.50:091][514]LogBlueprintUserMessages: [BPC_StatusComponent] 0.15
+[2026.03.25-16.04.50:091][514]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.04.51:557][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.52:474][627]LogBlueprintUserMessages: [BPC_StatusComponent] 0.799901
+[2026.03.25-16.04.52:474][627]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.52:474][627]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.52:474][627]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.04.52:474][627]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.04.52:474][627]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.04.52:474][627]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.04.53:504][675]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.04.56:392][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.04.56:393][814]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input buffering
+[2026.03.25-16.04.56:755][832]LogBlueprintUserMessages: [BPC_StatusComponent] 0.800406
+[2026.03.25-16.04.56:755][832]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.56:755][832]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.56:755][832]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.04.56:755][832]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.04.56:755][832]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.04.56:755][832]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.04.57:249][856]LogBlueprintUserMessages: [BPC_StatusComponent] 0.637952
+[2026.03.25-16.04.57:249][856]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.04.57:249][856]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.04.57:249][856]LogBlueprintUserMessages: [BPC_StatusComponent] 30.0
+[2026.03.25-16.04.57:249][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.04.57:814][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.05.03:000][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.05.04:570][213]LogBlueprintUserMessages: [BPC_StatusComponent] 0.785199
+[2026.03.25-16.05.04:570][213]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.05.04:570][213]LogBlueprintUserMessages: [BPC_StatusComponent] 0.15
+[2026.03.25-16.05.04:570][213]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.05.05:498][257]LogBlueprintUserMessages: [BPC_StatusComponent] 0.921465
+[2026.03.25-16.05.05:498][257]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.05.05:498][257]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.05.05:498][257]LogBlueprintUserMessages: [BPC_StatusComponent] 31.25
+[2026.03.25-16.05.05:498][257]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.05.05:498][257]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.05.05:498][257]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.05.06:779][319]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.05.08:389][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.05.08:389][395]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.05.08:389][395]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.25-16.05.08:390][395]LogSlate: Window 'PenGwyn Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.25-16.05.08:406][395]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.05.08:414][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.05.08:415][395]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.25-16.05.08:416][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.25-16.05.08:423][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.05.08:461][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.03.25-16.05.08:461][395]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.03.25-16.05.08:464][395]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.03.25-16.05.08:478][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.25-16.05.08:598][396]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.03.25-16.05.21:821][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:821][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:823][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:824][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:825][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:825][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:827][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:827][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:828][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:828][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:830][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:830][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.21:831][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:831][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.21:832][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:832][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.21:833][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:833][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.21:834][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:834][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.21:895][447]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.21:895][447]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:650][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:650][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:652][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:652][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:653][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:653][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:656][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:656][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:657][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:657][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:659][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:659][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.29:660][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:660][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.29:661][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:661][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.29:661][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:661][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.29:662][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:662][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.29:708][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.29:708][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:278][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:278][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:280][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:280][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:282][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:282][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:283][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:283][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:285][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:285][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:286][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:286][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.33:288][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:288][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.33:288][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:288][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.33:289][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:289][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.33:290][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:290][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.33:348][362]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.33:348][362]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.37:715][669]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2026.03.25-16.05.43:278][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:278][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:280][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:280][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:281][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:281][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:283][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:283][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:284][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:284][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:286][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:286][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.43:288][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:288][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.43:288][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:288][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.43:289][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:289][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.43:290][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:290][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.43:337][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.43:337][ 29]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:691][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.03.25-16.05.45:698][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:698][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:700][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:700][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:701][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:701][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:702][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:702][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:703][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:703][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:704][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:704][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:705][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:705][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:706][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:706][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_1.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:707][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:707][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:707][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:707][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:708][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:708][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_2.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.45:715][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:715][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:716][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:716][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:717][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:717][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:718][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:718][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:719][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:719][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:720][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:720][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:721][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:721][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:722][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:722][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.05.45:722][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:722][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_2.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.45:723][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:723][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_2.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.05.45:964][198]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.05.45:964][198]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:278][498]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.25-16.06.33:301][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:301][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:302][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:302][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:304][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:304][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:304][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:304][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:307][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:307][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:308][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:308][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:309][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:309][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:310][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:310][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:311][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:311][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:312][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:312][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:313][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:313][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:314][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:314][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.33:501][498]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.33:501][498]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:194][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.25-16.06.42:203][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:203][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:205][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:205][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:206][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:206][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:206][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:206][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:207][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:207][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:208][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:208][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:209][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:209][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:210][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:210][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:210][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:210][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_2.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:211][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:211][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_2.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:212][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:212][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.06.42:220][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:220][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:222][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:222][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:222][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:222][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:224][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:224][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:224][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:224][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:225][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:225][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:226][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:226][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:226][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:226][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.42:227][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:227][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.06.42:228][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:228][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.06.42:468][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.42:468][ 61]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.06.44:250][178]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.25-16.06.44:265][178]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.25-16.06.44:265][178]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.25-16.06.44:269][178]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 3.057 ms (total: 64.628 ms)
+[2026.03.25-16.06.44:269][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.25-16.06.44:269][178]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.06.44:308][178]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.25-16.06.44:317][178]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.385 ms (total: 123.390 ms)
+[2026.03.25-16.06.44:317][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048025s)
+[2026.03.25-16.06.44:317][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.048061s)
+[2026.03.25-16.06.44:354][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.25-16.06.44:358][178]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.25-16.06.44:365][178]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.25-16.06.44:365][178]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.25-16.06.44:365][178]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.25-16.06.44:365][178]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.25-16.06.44:374][178]LogWorldPartition: Display: WorldPartition initialize took 10.006 ms (total: 4.02 sec)
+[2026.03.25-16.06.44:374][178]LogPlayLevel: PIE: World Init took: (0.016669s)
+[2026.03.25-16.06.44:374][178]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.25-16.06.44:374][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.25-16.06.44:374][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.25-16.06.44:374][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.25-16.06.44:376][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.25-16.06.44:376][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.25-16.06.44:378][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.25-16.06.44:394][178]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.03.25-16.06.44:394][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.25-16.06.44:394][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.25-16.06.44:394][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.25-16.06.44:394][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.03.25-16.06.44:394][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.03.25-16.06.44:396][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.03.25-16.06.44:396][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.03.25-16.06.44:396][178]LogInit: FAudioDevice initialized with ID 16.
+[2026.03.25-16.06.44:396][178]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2026.03.25-16.06.44:396][178]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.25-16.06.44:415][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.06.44:416][178]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.25-16.06.44:425][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:425][178]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.06.44:425][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.06.44:427][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:427][178]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.06.44:427][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.06.44:431][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:431][178]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.06.44:431][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.06.44:432][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:432][178]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.06.44:432][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.06.44:433][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:433][178]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.06.44:433][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.06.44:434][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:434][178]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.06.44:434][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.06.44:462][178]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.44:462][178]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.06.44:462][178]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.06.44:499][178]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.25-16.06.44
+[2026.03.25-16.06.44:501][178]LogWorld: Bringing up level for play took: 0.085996
+[2026.03.25-16.06.44:507][178]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.25-16.06.44:510][178]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.25-16.06.44:516][178]PIE: Server logged in
+[2026.03.25-16.06.44:519][178]PIE: Play in editor total start time 0.254 seconds.
+[2026.03.25-16.06.44:830][181]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.06.45:029][192]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.25-16.06.45:029][192]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.46:608][274]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.06.56:194][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.06.56:194][737]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 5
+[2026.03.25-16.06.57:211][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.06.57:211][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.06.57:681][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:100][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 0.0
+DamageEff :0.0
+StaminaEff:0.0
+DiVsDt: 0.0
+[2026.03.25-16.06.58:100][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:101][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:101][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:101][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:101][838]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.06.58:101][838]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 0
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 0
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.06.58:101][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.07.03:472][ 87]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.25-16.07.09:906][416]LogBlueprintUserMessages: [BPC_StatusComponent] 0.995083
+[2026.03.25-16.07.09:906][416]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.09:906][416]LogBlueprintUserMessages: [BPC_StatusComponent] 0.2
+[2026.03.25-16.07.09:906][416]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.07.10:307][437]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 2.1
+[2026.03.25-16.07.10:756][460]LogBlueprintUserMessages: [BPC_StatusComponent] 0.993668
+[2026.03.25-16.07.10:756][460]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.10:756][460]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.10:756][460]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.07.10:756][460]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.07.11:199][483]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.11:956][522]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.5
+[2026.03.25-16.07.13:425][598]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.14:649][661]LogBlueprintUserMessages: [BPC_StatusComponent] 0.993975
+[2026.03.25-16.07.14:649][661]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.14:649][661]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.14:649][661]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.07.14:649][661]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.07.15:653][712]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.16:225][741]LogBlueprintUserMessages: [BPC_StatusComponent] 0.991865
+[2026.03.25-16.07.16:225][741]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.16:225][741]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.16:226][741]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.07.16:226][741]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.07.17:263][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.19:003][880]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.07.19:062][883]LogBlueprintUserMessages: [BPC_StatusComponent] 0.993826
+[2026.03.25-16.07.19:062][883]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.19:062][883]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.19:062][883]LogBlueprintUserMessages: [BPC_StatusComponent] 20.0
+[2026.03.25-16.07.19:062][883]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.07.19:670][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input buffering
+[2026.03.25-16.07.20:052][933]LogBlueprintUserMessages: [BPC_StatusComponent] 0.995236
+[2026.03.25-16.07.20:052][933]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.20:052][933]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.20:052][933]LogBlueprintUserMessages: [BPC_StatusComponent] 25.0
+[2026.03.25-16.07.20:052][933]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Dead
+[2026.03.25-16.07.21:077][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.25:786][235]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008 via property CallFunc_Array_Get_Item, but BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008 is not valid (pending kill or garbage)". Node:  Line Trace By Channel Graph:  CheckIfInLineOfSight Function:  Check if in Line Of Sight Blueprint:  BPC_TargetLockOnComponent
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 4.684624
+DamageEff :4.159734
+StaminaEff:0.149984
+DiVsDt: 0.374906
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.30:783][511]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 2
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 3
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.07.30:783][511]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.07.31:265][537]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.25-16.07.31:762][566]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.32:266][594]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.32:766][625]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.33:156][648]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1871599531] Player collided with rerspawn point
+[2026.03.25-16.07.33:263][654]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.33:762][683]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.34:264][712]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.34:757][740]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.35:255][766]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.35:768][791]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.36:254][814]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.4
+[2026.03.25-16.07.36:778][838]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.5
+[2026.03.25-16.07.37:266][857]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.4
+[2026.03.25-16.07.37:416][863]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.25-16.07.38:772][916]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.9
+[2026.03.25-16.07.39:256][935]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.25-16.07.39:764][958]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.40:259][982]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.07.41:774][ 47]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.43:532][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.44:750][184]LogBlueprintUserMessages: [BPC_StatusComponent] 0.856245
+[2026.03.25-16.07.44:750][184]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.44:750][184]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.07.44:750][184]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.07.44:750][184]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.07.44:750][184]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.07.44:750][184]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.07.45:203][206]LogBlueprintUserMessages: [BPC_StatusComponent] 0.856243
+[2026.03.25-16.07.45:203][206]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.07.45:203][206]LogBlueprintUserMessages: [BPC_StatusComponent] 0.15
+[2026.03.25-16.07.45:203][206]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.07.45:746][233]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.47:473][317]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.07.49:998][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.07.49:998][445]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.07.49:998][445]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.25-16.07.49:999][445]LogSlate: Window 'PenGwyn Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.25-16.07.50:037][445]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.07.50:046][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.07.50:046][445]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.25-16.07.50:048][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.25-16.07.50:054][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.07.50:097][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.25-16.07.50:098][445]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.03.25-16.07.50:098][445]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.03.25-16.07.50:101][445]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.03.25-16.07.50:127][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2026.03.25-16.07.50:327][446]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.25-16.07.53:901][671]LogSlate: Window 'Message Log' being destroyed
+[2026.03.25-16.07.53:913][671]LogSlate: Window 'Message Log' being destroyed
+[2026.03.25-16.07.59:129][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:129][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:132][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:132][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:134][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:134][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:137][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:137][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:139][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:139][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:141][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:141][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:143][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:143][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:145][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:145][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.07.59:146][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:146][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.07.59:147][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:147][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.07.59:202][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.07.59:202][ 24]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Total job queries 773, among them cache hits 79 (10.22%), DDC hits 590 (76.33%), Duplicates 53 (6.86%)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Tracking 641 distinct input hashes that result in 478 distinct outputs (74.57%)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: RAM used: 5.75 MiB of 819.20 MiB budget. Usage: 0.70%
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Shaders Compiled: 51
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Jobs assigned 51, completed 51 (100%)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Average time worker was idle: 67.68 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Time job spent in pending queue: average 0.80 s, longest 7.43 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Job execution time: average 2.90 s, max 7.72 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Job life time (pending + execution): average 3.71 s, max 8.34
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Shader code size: total 500.531 KiB, numShaders 58, average 8.629 KiB, min 1.77 KiB, max 17.207 KiB
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.21 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Average processing rate: 3.15 jobs/sec
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Total thread time: 20.973 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Total thread preprocess time: 12.378 s
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Percentage time preprocessing: 59.02%
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.107800
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 0.40 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                                  FVelocityPS - 16.54% of total time (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.90% of total time (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.44% of total time (compiled    7 times, average 0.40 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.08.20:301][529]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 10.40% of total time (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.17% of total time (compiled    7 times, average 0.30 sec, max 0.41 sec, min 0.23 sec)
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: === Material stats ===
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Materials Translated:    206
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Material Translation Only: 0.08 s (28%)
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: Material Cache Hits: 54 (26%)
+[2026.03.25-16.08.20:302][529]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.08.22:155][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3980.391357
+[2026.03.25-16.08.22:348][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-16.08.22:348][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3980.569336, Update Interval: 306.573700
+[2026.03.25-16.08.45:834][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.03.25-16.08.47:933][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2026.03.25-16.08.47:958][374]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2026.03.25-16.08.49:585][467]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonSevarog/Characters/Heroes/Sevarog/Meshes/Sevarog.Sevarog
+[2026.03.25-16.08.49:967][467]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2026.03.25-16.08.50:044][467]LogStreaming: Display: FlushAsyncLoading(1245): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-16.08.50:123][467]LogStaticMesh: Display: Building static mesh MaskedReaper (Required Memory Estimate: 3.91296 MB)...
+[2026.03.25-16.08.50:161][467]LogStaticMesh: Built static mesh [0.04s] /Game/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Mesh/MaskedReaper.MaskedReaper
+[2026.03.25-16.08.50:642][467]LogTexture: Display: Building textures: /Game/ParagonSevarog/Characters/Global/FX/Textures/Smoke/Inky/T_ShadowSwirls_v2_N.T_ShadowSwirls_v2_N (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.25-16.08.50:803][467]LogTexture: Display: Building textures: /Game/ParagonSevarog/Characters/Global/FX/Textures/T_ShadowSwirls_v2B.T_ShadowSwirls_v2B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.25-16.08.51:291][467]LogTexture: Display: Building textures: /Game/ParagonSevarog/Characters/Heroes/Sevarog/Effects/P_Sevarog_Homescreen_Hammer.P_Sevarog_Homescreen_Hammer:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2026.03.25-16.08.51:293][467]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Sevarog'
+[2026.03.25-16.08.51:324][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.25-16.08.54:006][467]LoadErrors: Warning: While trying to load package /Game/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Mesh/MaskedReaper, a dependent package /Game/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/MHammerTencentMask was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/MHammerTencentMask has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ParagonSevarog/Characters/Heroes/Sevarog/Skins/Tier_1_5/MaskedReaper/Materials/MHammerTencentMask'. Perhaps it has been deleted or was not synced?
+
+[2026.03.25-16.09.22:982][531]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.09.22:982][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.09.23:076][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.25-16.09.25:768][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.25-16.09.25:775][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:775][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:776][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:776][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:776][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:776][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:777][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:777][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:778][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:778][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:779][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:779][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:780][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:780][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:780][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:780][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:781][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:781][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:782][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:782][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_3.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:782][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:782][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_4.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.09.25:791][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:791][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:792][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:792][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:792][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:792][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:793][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:793][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:794][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:794][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:795][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:795][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:795][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:795][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:796][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:796][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_55:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.25:796][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:796][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_4.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.09.25:797][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.25:797][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_50:PersistentLevel.BP_Enemy_Heavy_C_4.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.09.26:041][710]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.26:041][710]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Engine/Transient.World_53:PersistentLevel.BP_Enemy_Heavy_C_0.CharacterMesh0.Sevarog_AnimBlueprint_C_1
+[2026.03.25-16.09.28:534][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-16.09.28:568][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Experience/Blueprints/AI/BP_Enemy_Heavy] ([2] browsable assets)...
+[2026.03.25-16.09.28:600][887]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Experience/Blueprints/AI/BP_Enemy_Heavy.BP_Enemy_Heavy]
+[2026.03.25-16.09.28:600][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Experience/Blueprints/AI/BP_Enemy_Heavy]
+[2026.03.25-16.09.28:600][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Experience/Blueprints/AI/BP_Enemy_Heavy" FILE="C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/BP_Enemy_Heavy.uasset" SILENT=true
+[2026.03.25-16.09.28:614][887]LogSavePackage: Moving output files for package: /Game/Experience/Blueprints/AI/BP_Enemy_Heavy
+[2026.03.25-16.09.28:616][887]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_Enemy_Heavy1A25C2BF4AC412066F3BD38BFF604633.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/BP_Enemy_Heavy.uasset'
+[2026.03.25-16.09.28:627][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.940 ms (total: 2.48 sec)
+[2026.03.25-16.09.28:661][887]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-16.09.28:661][887]LogContentValidation: Enabled validators:
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-16.09.28:662][887]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-16.09.28:662][887]AssetCheck: /Game/Experience/Blueprints/AI/BP_Enemy_Heavy Validating asset
+[2026.03.25-16.09.48:051][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.25-16.09.48:233][361]LogScript: Warning: Accessed None trying to read (real) property BPC_TargetLockOnComponent in BP_ThirdPersonCharacter_C
+	ABP_AshenTwo_C /Engine/Transient.World_31:PersistentLevel.BP_ThirdPersonCharacter_C_1.CharacterMesh0.ABP_AshenTwo_C_0
+	Function /Game/Experience/ABP_AshenTwo.ABP_AshenTwo_C:ExecuteUbergraph_ABP_AshenTwo:03EE
+[2026.03.25-16.09.50:015][422]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.25-16.09.50:030][422]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.25-16.09.50:032][422]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.25-16.09.50:033][422]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.980 ms (total: 67.608 ms)
+[2026.03.25-16.09.50:034][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.25-16.09.50:034][422]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.09.50:072][422]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.25-16.09.50:081][422]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.497 ms (total: 131.887 ms)
+[2026.03.25-16.09.50:081][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047176s)
+[2026.03.25-16.09.50:081][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainLevel.MainLevel to /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel (0.047209s)
+[2026.03.25-16.09.50:126][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.25-16.09.50:133][422]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.25-16.09.50:134][422]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.25-16.09.50:134][422]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.25-16.09.50:134][422]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.25-16.09.50:134][422]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.25-16.09.50:145][422]LogWorldPartition: Display: WorldPartition initialize took 9.671 ms (total: 4.03 sec)
+[2026.03.25-16.09.50:145][422]LogPlayLevel: PIE: World Init took: (0.011751s)
+[2026.03.25-16.09.50:146][422]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.25-16.09.50:146][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.25-16.09.50:146][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.25-16.09.50:146][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.25-16.09.50:146][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.25-16.09.50:146][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.25-16.09.50:147][422]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.25-16.09.50:166][422]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- Arctis Nova Pro Wireless)
+[2026.03.25-16.09.50:166][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.25-16.09.50:166][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.25-16.09.50:166][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.25-16.09.50:167][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.03.25-16.09.50:167][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.03.25-16.09.50:169][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.03.25-16.09.50:170][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.03.25-16.09.50:170][422]LogInit: FAudioDevice initialized with ID 17.
+[2026.03.25-16.09.50:170][422]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2026.03.25-16.09.50:170][422]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.25-16.09.50:197][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.09.50:198][422]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.25-16.09.50:208][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:208][422]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.09.50:208][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.09.50:209][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:209][422]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.09.50:209][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.09.50:213][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:213][422]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.09.50:213][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.09.50:214][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:214][422]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.09.50:214][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.09.50:215][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:215][422]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.25-16.09.50:215][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.25-16.09.50:216][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:216][422]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.09.50:216][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.09.50:243][422]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.09.50:243][422]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.25-16.09.50:243][422]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.25-16.09.50:277][422]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.25-16.09.50
+[2026.03.25-16.09.50:280][422]LogWorld: Bringing up level for play took: 0.082070
+[2026.03.25-16.09.50:284][422]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.03.25-16.09.50:284][422]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.25-16.09.50:287][422]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.25-16.09.50:303][422]PIE: Server logged in
+[2026.03.25-16.09.50:316][422]PIE: Play in editor total start time 0.286 seconds.
+[2026.03.25-16.09.50:536][424]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.09.50:738][426]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.25-16.09.50:738][426]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.52:366][504]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.25-16.09.59:199][843]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 0.1499
+DamageEff :0.0
+StaminaEff:0.1499
+DiVsDt: 0.0
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.01:783][971]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 3
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 0
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.10.01:783][971]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] false
+[2026.03.25-16.10.07:381][233]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.10.07:381][233]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 5
+[2026.03.25-16.10.08:378][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.10.08:378][279]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.08:878][302]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.09:616][336]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.25-16.10.11:576][434]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1852976530] Player collided with rerspawn point
+[2026.03.25-16.10.16:192][666]LogBlueprintUserMessages: [BPC_StatusComponent] 0.970658
+[2026.03.25-16.10.16:192][666]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.16:192][666]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.16:192][666]LogBlueprintUserMessages: [BPC_StatusComponent] 20.0
+[2026.03.25-16.10.16:192][666]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.10.16:938][704]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.10.17:344][725]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.10.17:591][738]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input buffering
+[2026.03.25-16.10.17:974][757]LogBlueprintUserMessages: [BPC_StatusComponent] 0.991175
+[2026.03.25-16.10.17:974][757]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.17:974][757]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.17:974][757]LogBlueprintUserMessages: [BPC_StatusComponent] 62.5
+[2026.03.25-16.10.17:974][757]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Damaged
+[2026.03.25-16.10.19:009][809]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.20:457][883]LogBlueprintUserMessages: [BPC_StatusComponent] 0.995252
+[2026.03.25-16.10.20:457][883]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.20:457][883]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.20:457][883]LogBlueprintUserMessages: [BPC_StatusComponent] 62.5
+[2026.03.25-16.10.20:457][883]LogBlueprintUserMessages: [BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008] Dead
+[2026.03.25-16.10.20:498][885]LogBlueprintUserMessages: [BPC_StatusComponent] 0.981598
+[2026.03.25-16.10.20:498][885]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.20:498][885]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.20:498][885]LogBlueprintUserMessages: [BPC_StatusComponent] 20.0
+[2026.03.25-16.10.20:498][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.10.21:484][935]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.27:031][214]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 3.454635
+DamageEff :3.117207
+StaminaEff:0.149975
+DiVsDt: 0.187453
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.10.33:635][569]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 2
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 0
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 3
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.10.33:635][569]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.10.36:515][729]LogBlueprintUserMessages: [BP_PlayerSpawnPoint_C_UAID_D8BBC1D1494A36BC02_1871599531] Player collided with rerspawn point
+[2026.03.25-16.10.40:686][947]LogBlueprintUserMessages: [BPC_StatusComponent] 0.896665
+[2026.03.25-16.10.40:686][947]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.40:686][947]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.40:686][947]LogBlueprintUserMessages: [BPC_StatusComponent] 30.0
+[2026.03.25-16.10.40:686][947]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.10.41:846][  2]LogBlueprintUserMessages: [BPC_StatusComponent] 0.833606
+[2026.03.25-16.10.41:846][  2]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.41:846][  2]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.41:846][  2]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.10.41:846][  2]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.10.41:846][  2]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.10.41:846][  2]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.10.43:167][ 65]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.43:741][ 92]LogBlueprintUserMessages: [BPC_StatusComponent] 0.927514
+[2026.03.25-16.10.43:741][ 92]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.43:741][ 92]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.43:741][ 92]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.10.43:741][ 92]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.10.43:741][ 92]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.10.43:741][ 92]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.10.44:729][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.45:168][158]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.10.45:168][158]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 4
+[2026.03.25-16.10.46:175][203]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.10.46:176][203]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.46:656][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.48:604][315]LogBlueprintUserMessages: [BPC_StatusComponent] 0.852832
+[2026.03.25-16.10.48:604][315]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.48:604][315]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.48:604][315]LogBlueprintUserMessages: [BPC_StatusComponent] 30.0
+[2026.03.25-16.10.48:604][315]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Damaged
+[2026.03.25-16.10.49:303][347]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Stored Input
+[2026.03.25-16.10.50:230][391]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input buffering
+[2026.03.25-16.10.50:587][408]LogBlueprintUserMessages: [BPC_StatusComponent] 0.904734
+[2026.03.25-16.10.50:588][408]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.50:588][408]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.50:588][408]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.10.50:588][408]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.10.50:588][408]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.10.50:588][408]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.10.51:630][457]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.52:141][479]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Roll Back
+[2026.03.25-16.10.52:824][514]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.10.55:929][659]LogBlueprintUserMessages: [BPC_StatusComponent] 0.846599
+[2026.03.25-16.10.55:929][659]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.55:929][659]LogBlueprintUserMessages: [BPC_StatusComponent] 0.2
+[2026.03.25-16.10.55:929][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] Blocked
+[2026.03.25-16.10.56:527][687]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 1.5
+[2026.03.25-16.10.57:269][722]LogBlueprintUserMessages: [BPC_StatusComponent] 0.88259
+[2026.03.25-16.10.57:269][722]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.10.57:269][722]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.10.57:269][722]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.10.57:269][722]LogScript: Warning: Script Msg: Attempted to access random index from empty array!
+[2026.03.25-16.10.57:269][722]LogScript: Warning: Script Msg called by: BP_Enemy_Heavy_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511
+[2026.03.25-16.10.57:269][722]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Damaged
+[2026.03.25-16.10.58:589][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.00:033][854]LogBlueprintUserMessages: [BPC_StatusComponent] 0.802027
+[2026.03.25-16.11.00:033][854]LogBlueprintUserMessages: [BPC_StatusComponent] Front
+[2026.03.25-16.11.00:033][854]LogBlueprintUserMessages: [BPC_StatusComponent] Blade
+[2026.03.25-16.11.00:033][854]LogBlueprintUserMessages: [BPC_StatusComponent] 43.75
+[2026.03.25-16.11.00:033][854]LogBlueprintUserMessages: [BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511] Dead
+[2026.03.25-16.11.01:076][905]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.02:796][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.11.02:796][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 3
+[2026.03.25-16.11.03:794][ 34]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.11.03:794][ 34]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.04:286][ 57]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.04:752][ 80]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.11.04:753][ 80]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 2
+[2026.03.25-16.11.05:766][129]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.11.05:766][129]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.06:242][152]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.06:552][167]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] input used
+[2026.03.25-16.11.06:552][167]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] 1
+[2026.03.25-16.11.07:567][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] heal
+[2026.03.25-16.11.07:567][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.08:039][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_UAID_D8BBC1D1494AAEB402_1518689199] No input buffer
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: Total job queries 777, among them cache hits 79 (10.17%), DDC hits 590 (75.93%), Duplicates 53 (6.82%)
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: Tracking 645 distinct input hashes that result in 482 distinct outputs (74.73%)
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: RAM used: 5.79 MiB of 819.20 MiB budget. Usage: 0.71%
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.25-16.11.20:313][829]LogShaderCompilers: Display: Shaders Compiled: 55
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Jobs assigned 55, completed 55 (100%)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Average time worker was idle: 79.19 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Time job spent in pending queue: average 0.75 s, longest 7.43 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Job execution time: average 2.75 s, max 7.72 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Job life time (pending + execution): average 3.50 s, max 8.34
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Shader code size: total 555.102 KiB, numShaders 62, average 8.953 KiB, min 1.77 KiB, max 17.207 KiB
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.01 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Jobs were issued in 55 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Average processing rate: 3.23 jobs/sec
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Total thread time: 21.838 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Total thread preprocess time: 12.427 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Percentage time preprocessing: 56.90%
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.106996
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 0.40 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                                  FVelocityPS - 15.89% of total time (compiled    6 times, average 0.58 sec, max 0.69 sec, min 0.53 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.27% of total time (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.37 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.91% of total time (compiled    7 times, average 0.40 sec, max 0.54 sec, min 0.31 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.59% of total time (compiled    9 times, average 0.28 sec, max 0.41 sec, min 0.20 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.99% of total time (compiled    6 times, average 0.36 sec, max 0.49 sec, min 0.26 sec)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: === Material stats ===
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Materials Translated:    210
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Material Translation Only: 0.12 s (38%)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: Material Cache Hits: 54 (26%)
+[2026.03.25-16.11.20:314][829]LogShaderCompilers: Display: ================================================
+[2026.03.25-16.11.29:664][279]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.25-16.11.29:664][279]LogScript: Warning: Script Msg called by: BP_PenGwynAssistant_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attacking score: 5.557961
+DamageEff :5.199667
+StaminaEff:0.149983
+DiVsDt: 0.20831
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Attack Assistance level 2
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Roll Assistance level 3
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Defence Assistance level 3
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Targeting Assistance level 0
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.25-16.11.29:665][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Save made
+[2026.03.25-16.11.29:666][279]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Log Save made
+[2026.03.25-16.11.30:024][297]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.25-16.11.30:537][322]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.11.31:029][346]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.0
+[2026.03.25-16.11.31:247][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.25-16.11.31:247][355]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.25-16.11.31:247][355]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.25-16.11.31:248][355]LogSlate: Window 'PenGwyn Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.25-16.11.31:284][355]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.11.31:290][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.11.31:290][355]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.25-16.11.31:292][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.25-16.11.31:301][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.11.31:338][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.25-16.11.31:339][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.03.25-16.11.31:339][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.03.25-16.11.31:340][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.03.25-16.11.31:354][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.25-16.11.31:461][356]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.03.25-16.11.37:921][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.25-16.11.38:953][870]LogSlate: Window 'Save Content' being destroyed
+[2026.03.25-16.11.38:978][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-16.11.39:018][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/48/OCS548FHQ95W38P95H8I4L
+[2026.03.25-16.11.39:018][870]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/OCS548FHQ95W38P95H8I4L1049C8584B7F84F8240258887A3B6896.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/48/OCS548FHQ95W38P95H8I4L.uasset'
+[2026.03.25-16.11.39:026][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/9O/IQF51373ZCZL10UKGXS48A
+[2026.03.25-16.11.39:026][870]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/IQF51373ZCZL10UKGXS48A0516C1E348867F87424F0490F98DE26F.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/9O/IQF51373ZCZL10UKGXS48A.uasset'
+[2026.03.25-16.11.39:028][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.25-16.11.39:112][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.25-16.11.39:112][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.25-16.11.39:290][870]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.25-16.11.39:291][870]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/BP_ThirdPersonCharacter2C2922584C503AC3A6825492E1C5FB79.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.25-16.11.39:302][870]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H
+[2026.03.25-16.11.39:303][870]LogSavePackage: Moving 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/Y85DWUJUJD0XIMDJPFX31H762B7DD64DA69A0AD5D1B583AA0FBDAB.tmp' to 'C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H.uasset'
+[2026.03.25-16.11.39:317][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 338.571 ms (total: 2.82 sec)
+[2026.03.25-16.11.39:355][870]LogContentValidation: Display: Starting to validate 4 assets
+[2026.03.25-16.11.39:355][870]LogContentValidation: Enabled validators:
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-16.11.39:355][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-16.11.39:355][870]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.25-16.11.39:356][870]AssetCheck: /Game/ThirdPerson/Maps/MainLevel Validating asset
+[2026.03.25-16.11.39:397][870]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-16.13.27:122][343]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.13.27:122][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.13.27:389][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.25-16.13.29:337][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-16.13.29:338][528]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.13.29:338][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.13.29:573][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.25-16.13.35:205][ 77]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-16.13.35:205][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-16.13.35:361][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms

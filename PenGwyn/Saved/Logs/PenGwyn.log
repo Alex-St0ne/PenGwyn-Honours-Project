@@ -2556,3 +2556,282 @@ Script Stack (0 frames) :
 [2026.03.26-12.45.01:825][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5761.102539
 [2026.03.26-12.45.02:831][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.26-12.45.02:831][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5761.773926, Update Interval: 306.106750
+[2026.03.26-12.46.07:331][734]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.26-12.46.07:331][734]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.26-12.46.07:412][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.26-12.46.08:434][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.46.08:462][780]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.26-12.46.08:550][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.26-12.46.08:550][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.26-12.46.08:880][780]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.26-12.46.08:880][780]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistantE824A8B441A77E2B0BBF839B66ADB8AD.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.26-12.46.08:888][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 453.396 ms (total: 9.29 sec)
+[2026.03.26-12.46.08:911][780]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.46.08:911][780]LogContentValidation: Enabled validators:
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.46.08:911][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.46.08:911][780]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.26-12.47.20:064][147]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.26-12.47.20:064][147]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.26-12.47.20:152][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.26-12.47.21:177][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.47.21:204][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.26-12.47.21:240][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.26-12.47.21:240][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.26-12.47.21:568][197]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.26-12.47.21:568][197]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistantFA270EE242DE0F99B9DB46B3FA67513E.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.26-12.47.21:575][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 397.383 ms (total: 9.69 sec)
+[2026.03.26-12.47.21:603][197]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.47.21:603][197]LogContentValidation: Enabled validators:
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.47.21:603][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.47.21:603][197]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.26-12.48.02:547][891]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgits/UI_MainMenu.UI_MainMenu
+[2026.03.26-12.48.02:547][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2026.03.26-12.48.02:557][891]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_68
+[2026.03.26-12.48.12:792][260]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgits/UI_Settings.UI_Settings
+[2026.03.26-12.48.12:792][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_69
+[2026.03.26-12.48.12:803][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_70
+[2026.03.26-12.48.16:078][482]LogSlate: Window 'UI_MainMenu' being destroyed
+[2026.03.26-12.48.16:090][482]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.48.16:090][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.48.16:105][482]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.48.16:105][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.48.16:203][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.26-12.49.07:437][944]Cmd: TRANSACTION UNDO
+[2026.03.26-12.49.07:446][944]LogEditorTransaction: Undo Clear Children
+[2026.03.26-12.49.30:442][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.26-12.49.48:142][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.49.48:166][964]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgits/UI_Settings] ([2] browsable assets)...
+[2026.03.26-12.49.48:168][964]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgits/UI_Settings.UI_Settings]
+[2026.03.26-12.49.48:168][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgits/UI_Settings]
+[2026.03.26-12.49.48:168][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgits/UI_Settings" FILE="../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Settings.uasset" SILENT=true
+[2026.03.26-12.49.48:188][964]LogSavePackage: Moving output files for package: /Game/UI/Widgits/UI_Settings
+[2026.03.26-12.49.48:188][964]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/UI_SettingsBCE2DBAB427001F750EFFAA632763213.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Settings.uasset'
+[2026.03.26-12.49.48:195][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.947 ms (total: 9.74 sec)
+[2026.03.26-12.49.48:215][964]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.49.48:215][964]LogContentValidation: Enabled validators:
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.49.48:215][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.49.48:216][964]AssetCheck: /Game/UI/Widgits/UI_Settings Validating asset
+[2026.03.26-12.49.48:242][964]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.26-12.49.49:943][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.26-12.50.49:227][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6108.519043
+[2026.03.26-12.50.49:384][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-12.50.49:385][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6108.669434, Update Interval: 348.703888
+[2026.03.26-12.51.38:915][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.26-12.52.23:796][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.26-12.52.24:691][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.52.24:712][372]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgits/UI_Settings] ([2] browsable assets)...
+[2026.03.26-12.52.24:713][372]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgits/UI_Settings.UI_Settings]
+[2026.03.26-12.52.24:713][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgits/UI_Settings]
+[2026.03.26-12.52.24:713][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgits/UI_Settings" FILE="../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Settings.uasset" SILENT=true
+[2026.03.26-12.52.24:739][372]LogSavePackage: Moving output files for package: /Game/UI/Widgits/UI_Settings
+[2026.03.26-12.52.24:740][372]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/UI_SettingsF511CC21469FE333FD58FD8B82E76E5F.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Settings.uasset'
+[2026.03.26-12.52.24:747][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.480 ms (total: 9.80 sec)
+[2026.03.26-12.52.24:769][372]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.52.24:769][372]LogContentValidation: Enabled validators:
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.52.24:769][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.52.24:770][372]AssetCheck: /Game/UI/Widgits/UI_Settings Validating asset
+[2026.03.26-12.54.11:318][726]Warning: FJsonObjectWrapper::ImportTextItem - Unable to parse json: ()
+
+[2026.03.26-12.54.11:318][726]ImportText (/Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:Json Tick Object): Missing opening parenthesis: 
+[2026.03.26-12.54.11:403][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.26-12.54.15:936][155]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.03.26-12.54.15:949][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.26-12.54.15:950][155]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu
+[2026.03.26-12.54.15:952][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2026.03.26-12.54.15:952][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MainMenu.MainMenu to /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu.MainMenu (0.001932s)
+[2026.03.26-12.54.15:984][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.26-12.54.15:998][155]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.26-12.54.15:999][155]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2026.03.26-12.54.16:000][155]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.26-12.54.16:000][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.26-12.54.16:000][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.26-12.54.16:000][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.26-12.54.16:000][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.26-12.54.16:000][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.26-12.54.16:002][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.26-12.54.16:025][155]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2026.03.26-12.54.16:025][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.26-12.54.16:025][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.26-12.54.16:025][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.26-12.54.16:026][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.26-12.54.16:026][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.26-12.54.16:027][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.26-12.54.16:027][155]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.26-12.54.16:027][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.26-12.54.16:028][155]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2026.03.26-12.54.16:028][155]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.26-12.54.16:044][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-12.54.16:045][155]LogLoad: Game class is 'MenuGameMode_C'
+[2026.03.26-12.54.16:047][155]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2026.03.26-12.54.16
+[2026.03.26-12.54.16:047][155]LogWorld: Bringing up level for play took: 0.002603
+[2026.03.26-12.54.16:049][155]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.26-12.54.16:051][155]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.26-12.54.16:051][155]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.26-12.54.16:055][155]PIE: Server logged in
+[2026.03.26-12.54.16:057][155]PIE: Play in editor total start time 0.107 seconds.
+[2026.03.26-12.54.27:464][240]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.26-12.54.27:464][240]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.26-12.54.27:468][240]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/MainLevel"
+[2026.03.26-12.54.27:468][240]LogNet: Browse: /Game/ThirdPerson/Maps/MainLevel
+[2026.03.26-12.54.27:468][240]LogLoad: LoadMap: /Game/ThirdPerson/Maps/MainLevel
+[2026.03.26-12.54.27:468][240]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainMenu
+[2026.03.26-12.54.27:470][240]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.54.27:471][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.54.27:536][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.26-12.54.27:541][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.26-12.54.27:545][240]LogStreaming: Display: FlushAsyncLoading(2616): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-12.54.27:578][240]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainLevel'.
+[2026.03.26-12.54.27:578][240]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.03.26-12.54.27:579][240]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.26-12.54.27:579][240]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.26-12.54.27:579][240]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.03.26-12.54.27:579][240]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.26-12.54.27:591][240]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.03.26-12.54.27:940][240]LogLinker: Display: [AssetLog] C:\Users\2101501\Documents\GitHub\PenGwyn-Honours-Project\PenGwyn\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: CreateExport: Failed to load Parent for Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:Blocking; removing parent information, but keeping function
+[2026.03.26-12.54.27:940][240]LogLinker: Display: [AssetLog] C:\Users\2101501\Documents\GitHub\PenGwyn-Honours-Project\PenGwyn\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: CreateExport: Failed to load Parent for Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:FinishedBlocking; removing parent information, but keeping function
+[2026.03.26-12.54.27:955][240]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 364.243 ms (total: 1.75 sec)
+[2026.03.26-12.54.27:963][240]LogWorldPartition: Display: WorldPartition initialize took 383.994 ms (total: 2.35 sec)
+[2026.03.26-12.54.27:964][240]LogPlayLevel: PIE: World Init took: (0.385380s)
+[2026.03.26-12.54.27:964][240]LogLoad: Game class is 'BP_GameMode_C'
+[2026.03.26-12.54.27:965][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.27:965][240]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_D8BBC1D1494AB1B902_1292989008.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.26-12.54.27:965][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.26-12.54.27:967][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.27:967][240]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F40C002_1487173511.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.26-12.54.27:968][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.26-12.54.28:002][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.28:002][240]LogScript: Warning: Script Msg called by: Sevarog_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Heavy_C_UAID_E89C25DE765F47C002_1147612747.CharacterMesh0.Sevarog_AnimBlueprint_C_0
+[2026.03.26-12.54.28:003][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Sevarog'
+[2026.03.26-12.54.28:030][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.28:030][240]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1111547746.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.26-12.54.28:030][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.26-12.54.28:032][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.28:032][240]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1104763745.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.26-12.54.28:032][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.26-12.54.28:034][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.28:034][240]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1178452749.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.26-12.54.28:034][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.26-12.54.28:042][240]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.03.26-12.54.28:042][240]LogScript: Warning: Script Msg called by: Terra_AnimBlueprint_C /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_Enemy_Light_C_UAID_E89C25DE765F47C002_1165826748.CharacterMesh0.Terra_AnimBlueprint_C_0
+[2026.03.26-12.54.28:042][240]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Terra_MountainForge'
+[2026.03.26-12.54.28:071][240]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.03.26-12.54.28
+[2026.03.26-12.54.28:073][240]LogWorld: Bringing up level for play took: 0.108537
+[2026.03.26-12.54.28:077][240]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.26-12.54.28:078][240]LogMovieScene: Starting new camera cut: 'CineCameraActor_UAID_D8BBC1D1494AAEB402_1709157201'
+[2026.03.26-12.54.28:081][240]LogLoad: Took 0.612943 seconds to LoadMap(/Game/ThirdPerson/Maps/MainLevel)
+[2026.03.26-12.54.28:081][240]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/MainLevel
+[2026.03.26-12.54.28:227][245]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] true
+[2026.03.26-12.54.28:432][257]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] Assistance Updated
+[2026.03.26-12.54.28:432][257]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 149
+[2026.03.26-12.54.28:432][257]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:ExecuteUbergraph_BP_PenGwynAssistant
+	Function /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant_C:ApplyAssitanceSetting
+
+[2026.03.26-12.54.32:935][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTerra/Characters/Heroes/Terra/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.32:936][322]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonSevarog/Characters/Heroes/Sevarog/Animations/LevelStart_Montage.LevelStart_Montage'
+[2026.03.26-12.54.38:725][665]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.4
+[2026.03.26-12.54.41:096][815]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.5
+[2026.03.26-12.54.41:760][859]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.4
+[2026.03.26-12.54.42:300][891]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.26-12.54.42:498][904]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.26-12.54.42:666][915]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.26-12.54.42:851][925]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.1
+[2026.03.26-12.54.43:027][936]LogBlueprintUserMessages: [BP_PenGwynAssistant_C_UAID_D8BBC1D1494A63B902_1482320279] 0.2
+[2026.03.26-12.54.43:718][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-12.54.43:718][957]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel
+[2026.03.26-12.54.43:718][957]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.26-12.54.43:718][957]LogSlate: Window 'PenGwyn Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.03.26-12.54.43:724][957]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.54.43:730][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.54.43:730][957]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_MainLevel.MainLevel
+[2026.03.26-12.54.43:731][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.26-12.54.43:738][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.54.43:770][957]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.26-12.54.43:770][957]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.03.26-12.54.43:772][957]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.03.26-12.54.43:797][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.26-12.54.43:830][958]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.26-12.54.46:062][190]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant without an associated node. The blueprint breakpoint has been removed
+[2026.03.26-12.54.46:062][190]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant without an associated node. The blueprint breakpoint has been removed
+[2026.03.26-12.54.50:849][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.54.50:871][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssistiveControlScheme/BP_PenGwynAssistant] ([2] browsable assets)...
+[2026.03.26-12.54.50:921][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssistiveControlScheme/BP_PenGwynAssistant.BP_PenGwynAssistant]
+[2026.03.26-12.54.50:921][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssistiveControlScheme/BP_PenGwynAssistant]
+[2026.03.26-12.54.51:325][637]LogSavePackage: Moving output files for package: /Game/AssistiveControlScheme/BP_PenGwynAssistant
+[2026.03.26-12.54.51:326][637]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/BP_PenGwynAssistant9EC98D8D43D9230B02C29FBA33E3A814.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset'
+[2026.03.26-12.54.51:336][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 486.623 ms (total: 10.2 sec)
+[2026.03.26-12.54.51:362][637]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.54.51:362][637]LogContentValidation: Enabled validators:
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.54.51:362][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.54.51:362][637]AssetCheck: /Game/AssistiveControlScheme/BP_PenGwynAssistant Validating asset
+[2026.03.26-12.55.37:589][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.26-12.55.37:593][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MainMenu' took 0.035
+[2026.03.26-12.55.37:593][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Save/GI_Options] ([2] browsable assets)...
+[2026.03.26-12.55.37:593][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Save/GI_Options]
+[2026.03.26-12.55.37:600][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Save/GI_Options_Auto5
+[2026.03.26-12.55.37:600][626]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/GI_Options_Auto5500653A34ED346E4B5BF189DFE4872AD.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/Autosaves/Game/Save/GI_Options_Auto5.uasset'
+[2026.03.26-12.55.37:601][626]LogFileHelpers: Auto-saving content packages took 0.008
+[2026.03.26-12.57.37:031][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6516.276367
+[2026.03.26-12.57.37:185][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-12.57.37:185][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6516.422363, Update Interval: 355.660278
+[2026.03.26-13.04.08:894][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6908.153809
+[2026.03.26-13.04.09:049][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-13.04.09:049][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6908.300781, Update Interval: 302.988373
+[2026.03.26-13.06.54:888][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.26-13.06.55:958][919]LogSlate: Window 'Save Content' being destroyed
+[2026.03.26-13.06.55:987][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-13.06.56:002][919]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Save/GI_Options] ([2] browsable assets)...
+[2026.03.26-13.06.56:002][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Save/GI_Options]
+[2026.03.26-13.06.56:002][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Save/GI_Options" FILE="../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Save/GI_Options.uasset" SILENT=true
+[2026.03.26-13.06.56:010][919]LogSavePackage: Moving output files for package: /Game/Save/GI_Options
+[2026.03.26-13.06.56:010][919]LogSavePackage: Moving '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Saved/GI_OptionsE996113C43175C8B1CAFD0B38D5ACCE3.tmp' to '../../../../../../Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Save/GI_Options.uasset'
+[2026.03.26-13.06.56:017][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 29.714 ms (total: 10.3 sec)
+[2026.03.26-13.06.56:040][919]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-13.06.56:040][919]LogContentValidation: Enabled validators:
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-13.06.56:040][919]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-13.06.56:040][919]AssetCheck: /Game/Save/GI_Options Validating asset
+[2026.03.26-13.07.08:435][ 65]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_76

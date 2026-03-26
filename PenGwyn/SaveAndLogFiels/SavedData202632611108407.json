@@ -1,0 +1,47 @@
+{
+	"Stored Data":
+	{
+	},
+	"Saves": [
+		{
+			"Save ID": 0,
+			"Room ID": 0,
+			"Time": 26,
+			"Potions Used": 0,
+			"Leaves Used": 0,
+			"Balm Used": 0,
+			"Average Health": 0,
+			"Num of Deaths": 0,
+			"Num of Attacks": 4,
+			"Num of Successfull Attacks": 0,
+			"DamageDelt": 0,
+			"DamageTaken": 0,
+			"DamageBlocked": 0,
+			"Num of Rolls": 8,
+			"Num of Successfull Rolls": 4,
+			"Time Taken Since Last Check": 26,
+			"Lock On Used": false,
+			"Total Time Lock On Used": 0,
+			"Average Lock On Time": 0,
+			"Total Block Time": 2.8999999999999999,
+			"Average Time Blocking": 0.72499999999999998,
+			"Num Of Attacks Blocked": 0,
+			"Num Of Times Damage Taken": 0,
+			"Num Of Times Item Assitance Used": 0,
+			"Num Of Enemy Attacks": 0,
+			"Num Of Enemy successfull Attacks": 0,
+			"Num of Remaining Enemies": 2,
+			"Average Health Of Enemies At Death": 5050,
+			"Total Stamina Used": 100,
+			"Stamina USed for Rolling": 40,
+			"Stamina used for Attacking": 60,
+			"Stamina used for Blocking": 0,
+			"AttackingScore": 0,
+			"DefendingScore": 0,
+			"AvoidingScore": 0,
+			"ItemScore": 0,
+			"TargetingScore": 0,
+			"FitnessScore": 0
+		}
+	]
+}

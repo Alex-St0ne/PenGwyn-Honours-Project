@@ -1,0 +1,73 @@
+{
+	"Logged Data":
+	{
+	},
+	"Saves": [
+		{
+			"LogID": 1,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:38:34",
+			"EventType": "LockOnStarted"
+		},
+		{
+			"LogID": 2,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:38:286",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 3,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:39:955",
+			"EventType": "Roll"
+		},
+		{
+			"LogID": 4,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:41:7",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 5,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:42:587",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 6,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:43:979",
+			"EventType": "LocOnEnded"
+		},
+		{
+			"LogID": 7,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:44:944",
+			"EventType": "LockOnStarted"
+		},
+		{
+			"LogID": 8,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:46:500",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 9,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:48:382",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 10,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:49:921",
+			"EventType": "LocOnEnded"
+		},
+		{
+			"LogID": 11,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:31:50:741",
+			"EventType": "Roll"
+		}
+	]
+}

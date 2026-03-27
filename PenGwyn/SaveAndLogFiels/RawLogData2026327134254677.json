@@ -1,0 +1,109 @@
+{
+	"Logged Data":
+	{
+	},
+	"Saves": [
+		{
+			"LogID": 1,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:45:758",
+			"EventType": "LockOnStarted"
+		},
+		{
+			"LogID": 2,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:45:758",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 3,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:46:265",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 4,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:46:762",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 5,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:47:260",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 6,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:47:759",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 7,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:48:261",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 8,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:48:758",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 9,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:49:259",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 10,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:49:759",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 11,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:50:266",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 12,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:50:767",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 13,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:51:266",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 14,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:51:763",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 15,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:52:264",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 16,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:52:759",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 17,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 13:42:53:265",
+			"EventType": "BlockReleased"
+		}
+	]
+}

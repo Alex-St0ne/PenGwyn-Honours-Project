@@ -1,0 +1,589 @@
+{
+	"Logged Data":
+	{
+	},
+	"Saves": [
+		{
+			"LogID": 1,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:6:303",
+			"EventType": "LockOnStarted"
+		},
+		{
+			"LogID": 2,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:8:382",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 3,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:9:374",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 4,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:14:635",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 5,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:14:747",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 6,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:15:769",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 7,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:16:627",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 8,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:16:692",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 9,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:17:646",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 10,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:18:526",
+			"EventType": "DamageBlocked"
+		},
+		{
+			"LogID": 11,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:18:789",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 12,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:18:999",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 13,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:24:554",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 14,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:25:56",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 15,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:25:559",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 16,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:26:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 17,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:26:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 18,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:27:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 19,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:27:558",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 20,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:28:57",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 21,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:28:557",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 22,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:29:59",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 23,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:29:560",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 24,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:29:907",
+			"EventType": "LockOnStarted"
+		},
+		{
+			"LogID": 25,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:30:51",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 26,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:30:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 27,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:30:793",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 28,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:31:578",
+			"EventType": "DamageBlocked"
+		},
+		{
+			"LogID": 29,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:32:35",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 30,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:32:51",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 31,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:32:279",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 32,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:34:958",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 33,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:35:53",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 34,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:35:138",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 35,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:37:503",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 36,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:37:561",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 37,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:37:653",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 38,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:39:147",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 39,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:39:248",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 40,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:39:551",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 41,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:41:377",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 42,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:45:554",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 43,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:46:59",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 44,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:46:606",
+			"EventType": "DamageBlocked"
+		},
+		{
+			"LogID": 45,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:47:424",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 46,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:47:558",
+			"EventType": "BlockedPressed"
+		},
+		{
+			"LogID": 47,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:47:699",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 48,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:50:93",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 49,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:52:589",
+			"EventType": "Attack"
+		},
+		{
+			"LogID": 50,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:53:51",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 51,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:53:555",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 52,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:53:950",
+			"EventType": "DamageTaken"
+		},
+		{
+			"LogID": 53,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:54:56",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 54,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:54:554",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 55,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:55:54",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 56,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:55:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 57,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:56:54",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 58,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:56:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 59,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:57:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 60,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:57:566",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 61,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:58:56",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 62,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:58:552",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 63,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:59:53",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 64,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:13:59:550",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 65,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:0:58",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 66,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:0:555",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 67,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:1:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 68,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:1:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 69,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:2:56",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 70,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:2:555",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 71,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:3:51",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 72,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:3:556",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 73,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:4:55",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 74,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:4:549",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 75,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:5:58",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 76,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:5:550",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 77,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:6:50",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 78,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:6:557",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 79,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:7:58",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 80,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:7:562",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 81,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:8:57",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 82,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:8:561",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 83,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:9:49",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 84,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:9:551",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 85,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:10:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 86,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:10:560",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 87,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:11:57",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 88,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:11:551",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 89,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:12:55",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 90,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:12:551",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 91,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:13:52",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 92,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:13:550",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 93,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:14:58",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 94,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:14:560",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 95,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:15:50",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 96,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:15:557",
+			"EventType": "BlockReleased"
+		},
+		{
+			"LogID": 97,
+			"Room ID": 0,
+			"WorldTime": "2026/3/27 15:14:16:55",
+			"EventType": "BlockReleased"
+		}
+	]
+}

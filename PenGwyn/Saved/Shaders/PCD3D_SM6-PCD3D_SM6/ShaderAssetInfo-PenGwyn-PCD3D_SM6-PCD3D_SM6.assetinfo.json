@@ -1,0 +1,997 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "DF6504000F56731BADC860E57C5058AE83971763",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_ArmourRuins"
+			]
+		},
+		{
+			"ShaderMapHash": "F624DB0128C197D28DC56EA685D3E01A822A47E2",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D36F1204CA08E81F4C6C65A7131F39D18E8E5CC2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FA52800552C66E663EF495DFAB143CC1CCC1CAF6",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "2A438B05FDC77F4C7DE4F2AB9CC6B9253056302C",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Cloth_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "3E739205B43DB4660ACAD183C011F6FBEB89C0E1",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA7A9C0566816F8F54084A803A51A5357EE279DB",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "EFC4B709709B999EE7B8CEC36CC8ED85C338B002",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "670CA80D937B40D59558676C2ECCEA486C0A2985",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_PonyhairInside"
+			]
+		},
+		{
+			"ShaderMapHash": "46FA600E1F7835738A2D1A3345B4A0F0F4232D0A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B300F615DF61A81581C1E105A3DD9FB615EF7E3A",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E84D4C17EF795CC2BF915B6D11F45F0B391C9E10",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F578D01864FDE10060911D471044041B2A46529D",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EEF5691B4BBD993279CAC6B30D0B410791B6DE03",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Axe"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5EA71BEF7F7E4F3B39C64019FF5A61F6A20DF4",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Master_Material/M_Auto_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "0533B81B7A0C13E5D0362AB8981F0DD7FD2E0337",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "4AD8BC1CA1C3D0AE1BEAE4A7717F3982C4F1BC1A",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Back_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7ED182230540595E4DC60C112D67C0B29027DBC3",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A45B4E24097F696E72AAC69D3ABAEE81F3F6C28F",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "3BC84B271E44F79F7C722D731E84396E7C27F169",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Helmet_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "0FA88D28728C82C3B27B8043D904AF449712B509",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Sparks/M_hardSpark_Alpha_GPU_Random"
+			]
+		},
+		{
+			"ShaderMapHash": "DE1E832CF656BA70CBE1C984742452CBC3416C2E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "852BA630033C3A5C3850807060F318F05696C1DA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "0EDDD530AE56B7FCF6D712DF31A45E015F8D27F1",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E7E29434E266CC2B8DF1CAEAE3B62600D40BF48B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "83802537F1B2278F46694625E2C19EC7B91BB5A9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "56687C38FE9B356038E83A9357A3FB39D86C8575",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Hammer_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5F6211392DB9372BB1CC0623DAFBC1B7ED21B272",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "35C4FE39C471CC8010752A059F555F0AA5B0E30A",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Smoke_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "E92C3E3DE7E1B120D45D22CA4715426C8F199F65",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "DD773D3E168F3C9E699B83E015F613862D180182",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "C422523EC65EC08A5688719D4A0E0869AB9AF370",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "A1E39A404E11BA8585933CA296551F9C2884ED2B",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2E68E4401152663A818FB8BC55F412850F718BB6",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "49631F446F40787B85263E8893346E59841DAA2E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30000A455ABFCDC00C20FF127B2136B3CF53A8E3",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "84C89D466C3E4B2BE73CCB7F340B5770753DBE12",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "75423C4775B322AB4FC513E81E4D0ACA8329CB3B",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Sparks"
+			]
+		},
+		{
+			"ShaderMapHash": "FAF85547F578ECDFFC71B9FB1287EDBD737FE82A",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "99A7FF4A031D661D58807F8F32E16A5C04B9F7A5",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Master_Material/M_Candle_Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "80485D4E5EAD3F9DD33FF7439B5B256A2A917594",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "344523525C5B44F49F416518FB9FC2270C7B05E9",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Axe"
+			]
+		},
+		{
+			"ShaderMapHash": "96203252F21D2D4F2831417ECFB1FD4E6B802A63",
+			"Assets": [
+				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_1"
+			]
+		},
+		{
+			"ShaderMapHash": "D0687C52A0D386E2A1B6AB7361C2FEC7AE85DA65",
+			"Assets": [
+				"/Game/IronSpear_Content/Iron_Juggernaut/Materials/M_Armor1",
+				"/Game/IronSpear_Content/Iron_Juggernaut/Materials/M_Armor2",
+				"/Game/IronSpear_Content/Iron_Juggernaut/Materials/M_Cloth2"
+			]
+		},
+		{
+			"ShaderMapHash": "E20197525EB1542332BABCF1AD59E1C01BD5AA46",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "30CB075301DC39DFCDD2A0AD200CBDC9B04BB63F",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Chainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "1BDA1556CFB3EB064D78D0561CBBC01D52144A37",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E9916C56758573DB87A1670A4733038552184792",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "9DADE258E7CD08597074CF7CA24842F4DADE8C95",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "A85EED58DD11BF666C21FD7203A91F1EE51532D2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "6BAC275B2F8C8739A81FBB23F58FC3D5B5879F94",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3DD9555B34E05619244F82B6300F79B6AD470120",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_invis"
+			]
+		},
+		{
+			"ShaderMapHash": "39144B5D69F82B84BF4181D8E7E9317CFF4A1BC4",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "709CAF5D84AEC36D62CFE3FB88CFD1CEFF8780D0",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Cloth_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "58FBCF5DD6146659C3B2B5CEDE68C2892D50D9AC",
+			"Assets": [
+				"/Game/IronSpear_Content/Iron_Juggernaut/Materials/M_Dark"
+			]
+		},
+		{
+			"ShaderMapHash": "D699455EDA93C8C8C5221F3939749034F9F9CD08",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D568E5EB984920837AAC3636D4726A5DC16C5C6",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E147555F31187B3F0C596673C38A53E13E3205E4",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "FEBB14605A83285D144CFD42B1BA522F32F2598C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "6133996299443ACFAA50678C220DDA136CA173B9",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "B55C32635A2D192BC1900FC36B50AF5FD6900909",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B6D536326283B4CC5EDD59C8C86AF0DE38F9BBC",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/M_Wisp_SplineThicken_Small"
+			]
+		},
+		{
+			"ShaderMapHash": "10E5E163357CD843478CECC934200703653ACCF8",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "BA222864A4A3E1E6FC49929988F86BB61F4B47F6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "722658642E14BFB7143E8C3B5CE8BB40019E1554",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "A68B4368DA2DD44D673D59D6559F1DF78279BD14",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B914ED696A8FD57C79D7149E33FD2568943C073D",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A2DB6CB036A2B57E662C1EA987A4BDB68CF442",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "D69AFA6C16327E88C3AC5A2021B0565FB5895457",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Foliage/M_Foliage_vertex_paint",
+				"/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_ivy_01"
+			]
+		},
+		{
+			"ShaderMapHash": "31EEC96FEEB0A874ACBB14E51ABAB885A6E9104C",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_Hair_Blue",
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_HairPonytail_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "AA562970FD491163D29E32F0E269FCD9A20A6ED3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C8C4D67009C51EC866B06C1D3EF2F3843C464D99",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B47A037162407207416BBF2874020B6052086C20",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultEvenSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "2D115472BBD1AA13E6BEB56580E6BB8A2D0AF7F6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "41F5EE73CF62836B6D7718FF24FF01457819ECDE",
+			"Assets": [
+				"/Game/IronSpear_Content/Iron_Juggernaut/Materials/M_Cloth1"
+			]
+		},
+		{
+			"ShaderMapHash": "2401AB74D38FF01E7943BB3905BF1C7B0DEFDA4D",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "F32D677539CDA626D251979AAE7C9B746BE9E330",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7676957572FB23BC9E7E9032BE4BA7DEF725E3B1",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_ArmourRuins"
+			]
+		},
+		{
+			"ShaderMapHash": "5CE34576A2B214D75D2400649A513E03F31C1C83",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "3E76D57615EB494C33904930EEDA3C0812612884",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9B39774C98C922839E151DF410861CD5CC37A1",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Wisp_SplineThicken_Claw"
+			]
+		},
+		{
+			"ShaderMapHash": "12707D772D3366B8DE56C507D04A383FF7D09C2E",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A826EC77297B5398EC6AAF3EA58FAD694B80BDDF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "1D292F7922C64972D15106E14B1343045EEC5DC2",
+			"Assets": [
+				"/Game/Movies/MP_GuardVideo_Video_Mat",
+				"/Game/Movies/MP_HeavyAttack_Video_Mat",
+				"/Game/Movies/MP_Interact_Video_Mat",
+				"/Game/Movies/MP_LightAttack_Video_Mat",
+				"/Game/Movies/MP_LocOnSplash_Video_Mat",
+				"/Game/Movies/MP_MovmentVid_Video_Mat",
+				"/Game/Movies/MP_RollSplashMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6900AD7C53BCB984F9ABA70C0F18A28D108E6292",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Assets/door_1/Material_Instance/MI_door_1_A",
+				"/Game/Abandoned_Cathedral/Assets/door_1/Material_Instance/MI_door_1_B",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M1",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M2",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M3",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M4",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M5",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M6",
+				"/Game/Abandoned_Cathedral/Assets/floor_1/Material_Instance/MI_Floor_1",
+				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M1",
+				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M2",
+				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M3",
+				"/Game/Abandoned_Cathedral/Assets/Wall_1/Material_Instance/MI_wall_1",
+				"/Game/Abandoned_Cathedral/Assets/wall_2/Material_Instance/MI_wall_2",
+				"/Game/Abandoned_Cathedral/Assets/wall_9/Material_Instance/MI_wall_9",
+				"/Game/Abandoned_Cathedral/Assets/window_3/Material_Instance/MI_window_3_M1",
+				"/Game/Abandoned_Cathedral/Assets/window_3/Material_Instance/MI_window_3_M2",
+				"/Game/Abandoned_Cathedral/Master_Material/M_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9EFEAE7D3195DD421CC34C1E661F3DC20DCD4178",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Eye_Occlusion_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB31B7E22EE34D3721248CB202CFE93DB782D75",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "A2A08A7E0AE489FB75DD7D856055BE635E12C5F9",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Helmet_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "52B18A7E8D4B8630FEEB6CD1111B12BC7D557773",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "03913285507954DEC6108DC1A0B3A2111AAC608A",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "52BF608859CD28980F253F11A4057A9A741CF49F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B1396D89FA4DD7D8C8A1F650A42621B2B16C9186",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "70459B89FD08C27F6AD8A0583DD94876E2CEA5F2",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "CFE6D88C844AC95B705E7F61E80B6E3FC5535327",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Hair/Materials/M_HairSheet_Master2"
+			]
+		},
+		{
+			"ShaderMapHash": "54F32E8E1E8DF9BD3141728F5A0413BFBC9D2422",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "53765A9316E594FA045B2B08C7F7F22E8E39719F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "09A8899663FD1878345C9DB113BBDF9D70512AFD",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "68719996428D30EEB5CF1AD1F0759DC49F12F85F",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "34225697B3CE4EB4D83D4536A4E2FE41E5D7F9D1",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Foliage/Nanite_Foliage/Ivy_01/Material_Instance/MI_ivy_03"
+			]
+		},
+		{
+			"ShaderMapHash": "6AE843989A09747AD123893EEAF84540723F90D5",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F2B8F9992928A5CD3F1B6FDA3C498ECDD73E319E",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Hammer_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4CCE789ACD614E01D5274A1CF8999D13CAD319FB",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "D2EF789B8BD374BFF1F9D563E312028C849B9BD4",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "EFCA699C8FA88AFF31E4D575D3E75A50D9D0195D",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "33A8469DE6B314087CCDE2B339E67DCEDD9A8263",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "9DDF7EA2E28E7432696D5C35E464CDE0723285E0",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "880B60A36308E6A733902F6C318AE5A3467F16E0",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9B9FC5A3626FF4281AC4905966BB8A0140A8F0F5",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7EF5F9A4B1AA0FF31E4097DB288EEC49CE040DAA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E3C045AD60DEE89E1A44E986D3EAA50F2B44B533",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Sparks/M_Hotdog_Spark_VLerp_COLOUR"
+			]
+		},
+		{
+			"ShaderMapHash": "EFF221AE3FCD85454AA743475D6592BFFBB20578",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/M_ArrowFlare"
+			]
+		},
+		{
+			"ShaderMapHash": "6FCBC2B53B695F35A3B9BC5E969E6B62D6DEF84F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1C032DB644493E2D3CDE14507245ED29147AFE34",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "8DBB5DB8B5364E18B5FEE7B176023684E3683156",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F86A7AB9292866011452450CE81CF4989F769DBC",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultOddSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "4CEBEDBB366E6A3A67E4DCF8297B6041648ACC46",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Heroes/M_Radial_Blur_Refraction"
+			]
+		},
+		{
+			"ShaderMapHash": "07C982BCEA3D0B8686CEC91539874E823D261429",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0C0D6C0034F322C7B059F622DB919B10B27A06B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4AF254C20AAF0EB830CCD9A9803CC3F742ADE4B6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "503CA6C270964236C888F07883B30C275B469BF6",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Skin_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "213669C612C98DD921F98C6215434C0CD87476E6",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "78A8E9C7E863D61BA8451F787C1A8696FE1BEA1B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D08B2ACD35397F31779DD58ADD8850D54FBB8469",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "4A2440CD1BF27DF0F3D7DA15B1BA75CD7A198038",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E1FD73CD11FBAB456618F2387F779B0A44C9046A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "EFB735CE981579C4999D7ED856507D2E9A162E98",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Master_Material/M_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "B4788ED253A0A7C89048C476C67098AB2F1F6D5E",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "264E75D4CE1A819DA51197468CC522CB0E50673F",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "356230D72DC83F78C87E7CABA78F12EB723A6058",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "994AD0D80601CD267258F6268D2F5225BF8E97FD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "96BEDBD852712763478109EF24BB2943281ED8E0",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Helmet_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "D770A1DB1FC8EB5528A87F6C7A800F43084C8CD8",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Chainmail"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0FC4DBAE6BF55B31B600CA4C87430D2674EC8E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "2A5DA3DCC4C082CB8D8BF1DBBAA4FEC53DD181D1",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Axe"
+			]
+		},
+		{
+			"ShaderMapHash": "1A6A2BDF2C22D1357FE6A6594A3E922FE4FFC75E",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "3572E3E19D53FE7CBD4A7EC52EC43607A21DA36F",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "6FB006E217E9CA8F5E7BD5AA0616A6614D751291",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_Hair_Blue",
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_HairPonytail_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "5D3313E2555949EFF129E8186C076597679925E9",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E37E9AE23166E9A63D52981823634B54007331C0",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2E12BFE4A9532148288EFE3C9E01844CD8D0784E",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Skin_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "F9BFA3E6BC162304F73C5193580605C7992DC495",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "505E14E8DD60A504EF11D2F3C1D33BFA4382A591",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Eye_Occlusion_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "7156DDE87C8E7AD97DCCAF306F2F24C84D1E03F2",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "30EA8CEB0C4FD3351767CB30625E756E5C8EC6C8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B04ED4ED6AEC60991362FB5E34C54D00F905BFCA",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/M_Terra_Skin_MountainForge"
+			]
+		},
+		{
+			"ShaderMapHash": "355C6CEE25F468EB4E648F02DEFD3DA60253DBF0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B9ABB7F1334CFC526CEA4B017D1168EF9FCA855B",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "C5522CF24E04013DB5837467E86CB0A42657B562",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "49B04AF3BB6ADACF2FF7F6FB0902BB30F55EFC4D",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5C849BF3802D08839B7ACCC56F16AAB12F622201",
+			"Assets": [
+				"/Game/ParagonSevarog/Characters/Heroes/Sevarog/Materials/M_Sevarog_Back_01"
+			]
+		},
+		{
+			"ShaderMapHash": "18C019F4306F23A925617B672CE49D7A2FECC895",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F43BF5F5E21264A69CFA6600D0806F69E368EC2F",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A0BD02F66D6606CF7575D791945F335B31443DB6",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1F5783F82F35F53BD186C27BDA38E0E84CEB6256",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "A83605F92B477D561CA5F8474271BA8059F41DFA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "C84F58F984A36451AE86ABB4FA57CD2267CBFB57",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "DF3053FBEC862132944EC4AA7E7E0A561447238C",
+			"Assets": [
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_PonyhairInside"
+			]
+		},
+		{
+			"ShaderMapHash": "D7F01FFD6D8EC8AA1FA8C1BBF6DF36D8A11DDE81",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3020F9FE79CAD9BF05AC6AD7B983DC826A9D24CA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "5CF573FF56805AF03CF7EB693C2BCA67F5CC3D41",
+			"Assets": [
+				"/Game/ParagonGreystone/FX/Materials/Game/M_Tri_Test"
+			]
+		}
+	]
+}

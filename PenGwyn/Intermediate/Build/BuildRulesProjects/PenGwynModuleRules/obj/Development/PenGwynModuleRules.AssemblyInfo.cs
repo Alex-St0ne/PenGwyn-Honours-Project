@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PenGwynModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d26f915c8be5ff1a680640c04ca23c9c43e157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94400dd34456266ffcd05b070bc91b820a95deb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PenGwynModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PenGwynModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

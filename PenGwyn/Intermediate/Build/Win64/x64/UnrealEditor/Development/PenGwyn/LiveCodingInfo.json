@@ -1,11 +1,5 @@
 {
 	"RemapUnityFiles": 
 	{
-		"Module.PenGwyn.gen.cpp.obj": [
-			"AshenAttributeSet.gen.cpp.obj",
-			"PenGwyn.init.gen.cpp.obj",
-			"PenGwynCharacter.gen.cpp.obj",
-			"PenGwynGameMode.gen.cpp.obj"
-		]
 	}
 }

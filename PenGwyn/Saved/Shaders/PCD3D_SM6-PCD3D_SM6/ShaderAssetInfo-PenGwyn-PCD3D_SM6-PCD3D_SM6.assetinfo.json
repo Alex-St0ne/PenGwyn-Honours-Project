@@ -566,6 +566,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3ACE9C817DFFD3F5CF316E8F1EFA929CF3FDD7A6",
+			"Assets": [
+				"/Game/UI/textures/PenguinKnightStanding_2__Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "03913285507954DEC6108DC1A0B3A2111AAC608A",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
@@ -581,12 +587,6 @@
 			"ShaderMapHash": "B1396D89FA4DD7D8C8A1F650A42621B2B16C9186",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
-			]
-		},
-		{
-			"ShaderMapHash": "70459B89FD08C27F6AD8A0583DD94876E2CEA5F2",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
 			]
 		},
 		{

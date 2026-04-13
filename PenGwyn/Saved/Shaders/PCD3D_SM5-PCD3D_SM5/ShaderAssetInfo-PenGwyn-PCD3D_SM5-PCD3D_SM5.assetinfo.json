@@ -541,12 +541,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A0D3F87F76B82045BCB5B70BA7753A5C01F3596C",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
-			]
-		},
-		{
 			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -611,6 +605,12 @@
 			"ShaderMapHash": "2DF2CE945CD15CA469A9381F20873CED48AB5422",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F369D294995A59A6A1D16A9E4C373A7C2B0B5B52",
+			"Assets": [
+				"/Game/UI/textures/PenguinKnightStanding_2__Mat"
 			]
 		},
 		{

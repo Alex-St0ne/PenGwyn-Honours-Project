@@ -58,7 +58,8 @@
 		{
 			"ShaderMapHash": "ED96F50ACDEA58764FC4001B0790A307EAE3DD63",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01"
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
 			]
 		},
 		{
@@ -311,7 +312,8 @@
 		{
 			"ShaderMapHash": "FF51D2480651DD53D5B5787942F42B75DE10ABFC",
 			"Assets": [
-				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_Hair_Blue"
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_Hair_Blue",
+				"/Game/ParagonTerra/Characters/Heroes/Terra/Skins/MountainForge/Materials/MI_Terra_HairPonytail_Blue"
 			]
 		},
 		{
@@ -894,9 +896,20 @@
 			"ShaderMapHash": "596795E9583078147B8F4DC197D3597CBBAC0259",
 			"Assets": [
 				"/Game/Abandoned_Cathedral/Assets/door_1/Material_Instance/MI_door_1_A",
+				"/Game/Abandoned_Cathedral/Assets/door_1/Material_Instance/MI_door_1_B",
 				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M1",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M2",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M3",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M4",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M5",
+				"/Game/Abandoned_Cathedral/Assets/door_frame_1/Material_Instance/MI_Door_frame_1_M6",
+				"/Game/Abandoned_Cathedral/Assets/floor_1/Material_Instance/MI_Floor_1",
 				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M1",
+				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M2",
+				"/Game/Abandoned_Cathedral/Assets/Tower_3/Material_Instance/MI_chunk_1_M3",
 				"/Game/Abandoned_Cathedral/Assets/Wall_1/Material_Instance/MI_wall_1",
+				"/Game/Abandoned_Cathedral/Assets/wall_2/Material_Instance/MI_wall_2",
+				"/Game/Abandoned_Cathedral/Assets/wall_9/Material_Instance/MI_wall_9",
 				"/Game/Abandoned_Cathedral/Assets/window_3/Material_Instance/MI_window_3_M1",
 				"/Game/Abandoned_Cathedral/Assets/window_3/Material_Instance/MI_window_3_M2",
 				"/Game/Abandoned_Cathedral/Master_Material/M_Master"

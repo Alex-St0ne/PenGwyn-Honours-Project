@@ -5,16 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Enviroment/BP_GameMode.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_PlayerCombat.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Options.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_EndScreen.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/SplashSceenPages/UI_ItemSplash.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/SplashSceenPages/UI_UserInterfaceExplainedSplash.uasset",
-				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/8/R8/2NS9RVS2GFIWYN5QWXQVDR.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/DamageSystem/UI/Healthbar.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -41,7 +31,20 @@
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Greatsword_Attack_Light_1.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Abilities/GA_Greatsword_Attack_Heavy_1.uasset",
 				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/BP_Enemy_Heavy.uasset",
-				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_AsistanceImage.uasset"
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_AsistanceImage.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/Behaviour/BT_Enemy_Heavy.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/AI/Behaviour/BT_Enemy_Light.uasset",
+				"C:/temp/honours/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Enviroment/BP_FogWall.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/AssistiveControlScheme/BP_PenGwynAssistant.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/Experience/Blueprints/Enviroment/BP_GameMode.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/1/VN/Y85DWUJUJD0XIMDJPFX31H.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_PlayerCombat.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_Options.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/UI_EndScreen.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/SplashSceenPages/UI_ItemSplash.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/UI/Widgits/SplashSceenPages/UI_UserInterfaceExplainedSplash.uasset",
+				"C:/Users/2101501/Documents/GitHub/PenGwyn-Honours-Project/PenGwyn/Content/__ExternalActors__/ThirdPerson/Maps/MainLevel/8/R8/2NS9RVS2GFIWYN5QWXQVDR.uasset"
 			]
 		}
 	]

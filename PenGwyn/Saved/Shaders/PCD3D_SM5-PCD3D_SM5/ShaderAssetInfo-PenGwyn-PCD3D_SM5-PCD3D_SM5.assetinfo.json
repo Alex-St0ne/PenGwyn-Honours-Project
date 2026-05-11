@@ -81,6 +81,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FCEA070FF181CDF2A72F5788758BD9E9E873180D",
+			"Assets": [
+				"/Game/Experience/Materials/M_OutlineBase"
+			]
+		},
+		{
 			"ShaderMapHash": "8FA46815DF3DED7EBD034B752ED595F17F216F0E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
@@ -145,12 +151,6 @@
 			"ShaderMapHash": "FE465528A05CAAE610B7FF6826D33C7E4A13F6B4",
 			"Assets": [
 				"/Game/Weapon_Pack/Materials/Weapons/M_WeaponSet_1"
-			]
-		},
-		{
-			"ShaderMapHash": "45991D290580A8FEEF92212046C72DB9723C2DDF",
-			"Assets": [
-				"/Game/Abandoned_Cathedral/Master_Material/M_glass"
 			]
 		},
 		{
@@ -617,6 +617,12 @@
 			"ShaderMapHash": "9FE206973F633E4704C157D5D7164C28E4F94CFC",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "24384597B70856D8C44956FB7D177B589C81617D",
+			"Assets": [
+				"/Game/Abandoned_Cathedral/Master_Material/M_glass"
 			]
 		},
 		{

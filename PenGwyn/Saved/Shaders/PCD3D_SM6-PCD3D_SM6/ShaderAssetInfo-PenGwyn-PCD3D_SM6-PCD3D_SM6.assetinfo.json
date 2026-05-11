@@ -50,6 +50,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C3C1AF0BD0778FF65608EB9B8BE1AEDF3424D029",
+			"Assets": [
+				"/Game/Experience/Materials/M_OutlineBase"
+			]
+		},
+		{
 			"ShaderMapHash": "670CA80D937B40D59558676C2ECCEA486C0A2985",
 			"Assets": [
 				"/Game/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_PonyhairInside"
